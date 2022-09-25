@@ -1,2051 +1,4934 @@
+<!DOCTYPE HTML>
+
+<html data-attr-pagePath="/content/royal-enfield/in/en/home" class="app__html">
+    
+
+
+    <head>
+        <meta class="redirectPage" data-redirect="false"/>
+
+        <meta charset="UTF-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"/>
+        <meta name="description" content="Official site of Royal Enfield bikes in India. Check out new bike models of 2021, book a test ride, locate a dealer, browse motorcycle parts, accessories &amp; apparel."/>
+        <meta name="keywords"/>
+        <meta name="title" content="Bikes in India | New Bike Model 2021 | Royal Enfield India"/>
+
+        <title>Bikes in India | New Bike Model 2021 | Royal Enfield India</title>
+
+        <link rel="icon" type="image/png" href="/content/dam/re-platform-images/favicon/favicon-16x16.png" sizes="16x16"/>
+        <link rel="icon" type="image/png" href="/content/dam/re-platform-images/favicon/favicon-32x32.png" sizes="32x32"/>
+        <link rel="icon" type="image/png" href="/content/dam/re-platform-images/favicon/favicon-64x64.png" sizes="64x64"/>
+        <link rel="icon" type="image/png" href="/content/dam/re-platform-images/favicon/favicon-128x128.png" sizes="128x128"/>
+        <!--fav-icons-apple-touch-->
+        <link rel="apple-touch-icon" type="image/png" href="/content/dam/re-platform-images/favicon/favicon-128x128.png" sizes="128x128"/>
+        <link rel="alternate" href="https://www.royalenfield.com/in/en/home/" hreflang="en-in"/>
+        
+            <link rel="canonical" href="https://www.royalenfield.com/in/en/home/"/>
+        
+
+        <meta name="apple-touch-fullscreen" content="yes"/>
+        <meta name="apple-mobile-web-app-capable" content="yes"/>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1"/>
+
+        <!-- Updated Tags -->
+        <meta itemprop="name"/>
+        <meta itemprop="keywords"/>
+        <meta itemprop="description" content="Official site of Royal Enfield bikes in India. Check out new bike models of 2021, book a test ride, locate a dealer, browse motorcycle parts, accessories &amp; apparel."/>
+        <meta itemprop="image" content="/content/dam/re-platform-images/home/basePage/og-image/fb.jpg"/>
+        <meta itemprop="title" content="Bikes in India | New Bike Model 2021 | Royal Enfield India"/>
+
+        <meta name="twitter:card" content="summary_large_image"/>
+        <meta name="twitter:site" content="https://www.royalenfield.com/in/en/home/"/>
+        <meta name="twitter:title" content="Bikes in India | New Bike Model 2021 | Royal Enfield India"/>
+        <meta name="twitter:seoDescription" content="Official site of Royal Enfield bikes in India. Check out new bike models of 2021, book a test ride, locate a dealer, browse motorcycle parts, accessories &amp; apparel."/>
+        <meta name="twitter:image:src" content="/content/dam/re-platform-images/home/basePage/og-image/fb.jpg"/>
+
+        <meta property="og:site_name"/>
+        <meta property="og:type" content="website"/>
+        <meta property="og:title" content="Bikes in India | New Bike Model 2021 | Royal Enfield India"/>
+        <meta property="og:url" content="https://www.royalenfield.com/in/en/home/"/>
+        <meta property="og:image" content="/content/dam/re-platform-images/home/basePage/og-image/fb.jpg"/>
+        <meta property="og:description" content="Official site of Royal Enfield bikes in India. Check out new bike models of 2021, book a test ride, locate a dealer, browse motorcycle parts, accessories &amp; apparel."/>
+
+        <script type="application/ld+json">
+{ "@context" : "https://schema.org",
+  "@type" : "Organization",
+  "name": "Royal Enfied",
+  "legalname": "Royal Enfield (A Unit of Eicher Motors Ltd.)",
+  "alternateName": "Royal Enfield India, Royal Enfield Motorcycle & Bikes",
+  "description": "Official site of Royal Enfield bikes in India. Check out new bike models of 2021, book a test ride, locate a dealer, browse motorcycle parts, accessories & apparel.",
+  "url" : "https://www.royalenfield.com/in/en/",
+  "logo": "https://www.royalenfield.com/content/dam/royal-enfield/india/logos/logo.svg",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Haryana, India",
+    "postalCode": "122001",
+    "streetAddress": "#96, Sector 32, Gurgaon"
+  },
+  "sameAs": [
+    "https://twitter.com/royalenfield",
+    "https://en.wikipedia.org/wiki/Royal_Enfield_(India)",
+    "https://www.facebook.com/royalenfield",
+    "https://www.youtube.com/channel/UCyxUUHqmz9IiAnrROJc0mag",
+    "https://www.instagram.com/royalenfield"
+  ]  ,
+  "contactPoint" : [
+    {
+      "@type" : "ContactPoint",
+      "telephone" : "1800-210-0007",
+      "email" : "support@royalenfield.com",
+      "contactType" : " Customer Care",
+      "contactOption" : "TollFree",
+      "areaServed" : ["India"],
+      "availableLanguage" : ["English","Hindi"]
+    } , {
+      "@type" : "ContactPoint",
+      "telephone" : "1800-210-0007",
+      "contactType" : "Roadside Assistance",
+      "contactOption" : "TollFree",
+      "areaServed" : ["India"]
+    } ] }
+</script>
+        
+
+        <script type="text/javascript">
+            var strArr = document.cookie.split(";");
+            var flag = false;
+            var userId;
+            for (var i = 0; i < strArr.length; i++) {
+                if (strArr[i].includes("user")) {
+                    flag = true;
+                    var obj = JSON.parse(strArr[i].split("=")[1])
+                    userId = obj.userId;
+                }
+            }
+
+            if (flag == true) {
+                //console.log("Id given to analytics!!! with userID - " + userId)
+                window.dataLayer = window.dataLayer || [];
+                window.dataLayer.push({
+                    'event': 'login',
+                    'userID': userId //User ID of the loggedIn user
+                })
+            }
+        </script>
+
+        <script async src="https://www.googleoptimize.com/optimize.js?id=OPT-PN9TN94"></script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KLB84QS');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MLPZLGT');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Hotjar -->
+<script>
+(function(h,o,t,j,a,r){
+h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+h._hjSettings={hjid:1322888,hjsv:6};
+a=o.getElementsByTagName('head')[0];
+r=o.createElement('script');r.async=1;
+r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+a.appendChild(r);
+})(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+<!-- End Hotjar -->
+        <!-- CHATBOT-START -->
+
+<script type="text/javascript">
+window.ymConfig = {
+bot: 'x1619080924183',
+host: 'https://app.yellowmessenger.com',
+};
+(function() {
+var w = window,
+ic = w.YellowMessenger;
+if ("function" === typeof ic) ic("reattach_activator"), ic("update", ymConfig);
+else {
+var d = document,
+i = function() {
+i.c(arguments)
+};
+
+function l() {
+var e = d.createElement("script");
+e.type = "text/javascript", e.async = !0, e.src = "https://cdn.yellowmessenger.com/plugin/widget-v2/latest/dist/main.min.js";
+var t = d.getElementsByTagName("script")[0];
+t.parentNode.insertBefore(e, t)
+}
+i.q = [], i.c = function(e) {
+i.q.push(e)
+}, w.YellowMessenger = i, w.attachEvent ? w.attachEvent("onload", l) : w.addEventListener("load", l, !1)
+}
+})(); </script>
+
+<!-- CHATBOT-END -->
+        
+        
+
+
+        
+
+        
+    
+<link rel="stylesheet" href="/etc.clientlibs/re-platform/clientlibs/re-platform/dependencies.min.2035c3f3a02eeff3a95f323e9937e5d0.css" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/re-platform/clientlibs/re-platform/global.min.f6fbd610c48595203be9020a7ca61317.css" type="text/css">
+<script src="/etc.clientlibs/re-platform/clientlibs/re-platform/dependencies.min.js"></script>
+<script src="/etc.clientlibs/re-platform/clientlibs/re-platform/global.min.js"></script>
+
+
+
+
+        
+    
+    
+
+
+        
+        
+        <script type="text/javascript">
+            $(document).ready(function () {
+                if ($(".redirectPage").attr("data-redirect") == 'true') {
+                    location.replace($(".redirectPage").attr("data-redirect-path"));
+                }
+            });
+        </script>
+
+    
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("False"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="BFLVJ-2YLYZ-8AXTV-5JKJ9-55AK3",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"BFLVJ-2YLYZ-8AXTV-5JKJ9-55AK3",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="ges53clikwbocyzqncmq-f-8b575873e-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"32","ak.cp":"854643","ak.ai":parseInt("486260",10),"ak.ol":"0","ak.cr":30,"ak.ipv":4,"ak.proto":"h2","ak.rid":"d12206b","ak.r":29145,"ak.a2":e,"ak.m":"a","ak.n":"essl","ak.bpcip":"49.37.221.0","ak.cport":58608,"ak.gh":"49.44.130.71","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"","ak.t":"1664116889","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==Ma9rTFM9mbr9hR3cscKM7tNwxFAT7x46Hl9Hx7jSWu37MXg0zdOnkNdnEfWOBQZoNtk/GIuUv2VHYPKyTO/kj4j23BYUBQbEkV16AnmmyrWP0IrEenB3oX6LGeXLqq/yZ9j3bXLEg093Tpqr96GTCKw57YHXtfSNklljEHXWQ2V46/IFaGQd+PhOzqK4kVqIkEuiKZ6NAeJucvxvuSA+cKmWVKvkUBLNvgTaeKtY6Nx3HDoqfzXxG8BNWzVjX++u56GYt5AOxSzYwPb3U2Zh+eT3MoD6t6fvv1zTAGAHGszUUAonf89tzb7wWIWmRJw1/PI89dJxyoB4H8m3fi1Z8QVxVNiel8tjYVFq/Eue28uSZKWpNRBbkPIEEOOmux4Nm+NO1NtQm8p2XimH52v2PWxUBplaM3mYMN+OCU/vZgk=","ak.pv":"176","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+
+    
+	<body class="re-master langCountryDiv" data-langcountry="in_en" data-page-id="/content/royal-enfield/in/en/home">
+	
+    
+<link rel="stylesheet" href="/etc.clientlibs/re-platform/clientlibs/re-platform/pageLoader.min.f404090a4f95bde610bc496703999b57.css" type="text/css">
+<script src="/etc.clientlibs/re-platform/clientlibs/re-platform/pageLoader.min.js"></script>
+
+
+
+	<div class="re-page-loader" id="pageLoader">
+		<div class="re-page-loader-inner">
+			<div class="fadein-element">
+				<img alt="Royal Enfield" src="/content/dam/re-platform-images/pageLoader/pre-loader-01.svg"/>
+				<img alt="Royal Enfield" src="/content/dam/re-platform-images/pageLoader/pre-loader-02.svg"/>
+				<img alt="Royal Enfield" src="/content/dam/re-platform-images/pageLoader/pre-loader-03.svg"/>
+				<img alt="Royal Enfield" src="/content/dam/re-platform-images/pageLoader/pre-loader-04.svg"/>
+				<img alt="Royal Enfield" src="/content/dam/re-platform-images/pageLoader/pre-loader-05.svg"/>
+			</div>
+			<div class="loading-ellipsis">
+				<div></div>
+				<div></div>
+				<div></div>
+				<div></div>
+			</div>
+		</div>
+	</div>
+
+
+	<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KLB84QS"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MLPZLGT"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+	
+
+	
+	<div><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="header-par iparsys parsys"><div class="header section">
+
+
+	
+    
+<script src="/etc.clientlibs/re-platform/clientlibs/re-platform/components/common/header.min.js"></script>
+
+
+
+
+
+	
+    
+
+	    <header id="header-3368" class="header ">
+            <div class="header langCountryDiv" data-langCountry="in_en" data-user-verification-url="https://api.royalenfield.com/v3/auth/verify-token">
+				<div class="container-fluid">
+				    <div class="row">
+				        <div class="col-xl-2 col-md-2">
+				            <a title="Royal Enfield India Logo" class="logoAnalytics" href="/in/en/home/">
+				                <div class="logo">
+				                    <img alt="Royal Enfield India Logo" title="Royal Enfield India Logo" src="/content/dam/royal-enfield/india/logos/logo.svg"/>
+				                </div>
+				            </a>
+				        </div> 
+	
+				        <div class="col-xl-8 col-md-7">
+	                        <div>
+
+
+    
+    
+<script src="/etc.clientlibs/re-platform/clientlibs/re-platform/components/common/navigation.min.js"></script>
 
 
 
 
 
 
+	
 
-	 <!doctype html>
-<html lang="en">
-   <head>
-      <input type="hidden" id="site_base_path" value="/" />
-      <meta charset="utf-8">
-      <meta name=google-site-verification content=zMm9ARkV6AtLcfKxTNQ0O-g2wagquPn9JzlNZMGjzWY />
-      <meta name=author content="India Yamaha Motor">
-      <meta http-equiv=Content-Type content="text/html;charset=utf-8">
-      <meta name=viewport content="width=device-width, maximum-scale=1.0, initial-scale=1.0, user-scalable=no" />
-      <meta http-equiv=Cache-Control content=no-store />
-      <meta name=robots content="noodp, noydir" />
-      <link rel=canonical href />
-            <meta name=keywords content="best bikes,best motorcycles,best scooters,Sports Bike,new bikes in india,Best bikes in india,best superbikes,Yamaha India,Yamaha bikes,Yamaha scooters,Yamaha motorcycles,Yamaha motor India" />
-             <meta name=description content="Yamaha Motor India is one of the leading two-wheeler company in india. Check out finance scheme and cash back offers applicable on Motorcycles and Scooters models available in India." />
-             <meta property="og:title" content="Yamaha Motor India - Official Site | India Yamaha Motor" />
-<meta property="og:url" content="https://www.yamaha-motor-india.com/" />
-<meta property="og:type" content="company" />
-<meta property="og:description" content="Presenting the new & best in the class - &#10004 Mileage Scooters &#10004 Performance Motorcycles &#10004 Superbikes from Yamaha Motors with Price, Colors & Specifications. Call &#9742;1800 420 1600 to know more." />
-<meta property="og:image" content="https://www.yamaha-motor-india.com/theme/v3/image/header-footer/logo.png" />  
-<meta name="twitter:card" content="summary" />
-<meta name="twitter:title" content="Yamaha Motor India - Official Site | India Yamaha Motor" />
-<meta name="twitter:description" content="Presenting the new & best in the class - &#10004 Mileage Scooters &#10004 Performance Motorcycles &#10004 Superbikes from Yamaha Motors with Price, Colors & Specifications. Call &#9742;1800 420 1600 to know more." />
-<meta name="twitter:url" content="https://www.yamaha-motor-india.com/" />
-<meta name="twitter:image" content="https://www.yamaha-motor-india.com/theme/v3/image/header-footer/logo.png" />        <title> Yamaha Motor India - Leading Two-Wheeler Company in India | India Yamaha Motor </title>
-      <meta name="facebook-domain-verification" content="6ab8o78t9boox5hs7o7qe7tasmxlcu" />
-      <link rel="shortcut icon" href="/theme/v3/image/header-footer/favicon.ico" />
-      <link rel="stylesheet" href="/theme/v3/css/bootstrap.min.css?v=4" />
-      <link rel="stylesheet" href="/theme/v3/lib/css/owl.carousel.min.css?v=2" />
-      <link rel="stylesheet" href="/theme/v3/lib/font-awesome/css/font-awesome.min.css?v=2">
-      <!-- <link href="https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
-         <link href="https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">-->
-      <!-- CSS START -->
-      <link href="/theme/v3/css/common.min.css?v=33" rel="stylesheet" type="text/css" />
-      
-      <link rel="preload" font-display="swap" href="/theme/v3/lib/font-family/Barlow/Barlow-SemiBoldItalic.ttf" as="font"
-         type="font/ttf" crossorigin="anonymous">
-      <link rel="preload" font-display="swap" href="/theme/v3/lib/font-family/Barlow_Semi_Condensed/BarlowSemiCondensed-BoldItalic.ttf"
-         as="font" type="font/ttf" crossorigin="anonymous">
-      <!-- Product Pages CSS -->
-                  <!-- Contact Pages CSS -->
-      <!-- Home Page CSS -->
-            <link href="/theme/v3/css/home.min.css?v=7" rel="stylesheet" type="text/css" />
-            <!-- Scooters Home Page CSS -->
-            <!-- WHats New Page CSS -->
-            <!-- Bluesquare Page CSS -->
-            <!-- Network Page CSS -->
-            <!-- Buyer's Guide Page CSS -->
-                  <!-- Yamaha's Manufacturing Page CSS -->
-            <!-- About us Page CSS -->
-            <!-- Buyers Comparison Page CSS -->
-            <!-- Dealer Network Page CSS -->
-                   <!-- Parts Page CSS -->
-            <!-- Service Camp Page CSS -->
-            <!-- Service tcs Page CSS -->
-                        <!-- Service Schedule Page CSS -->
-            <!-- Service Labour Page CSS -->
-      <!-- Scooters Presskit Page CSS -->
-            <!-- Scooters Presskit Page CSS -->
-            <!-- Scooters Presskit Page CSS -->
-                                                                                    <!-- Sitemap CSS -->
-            <!-- Sitemap CSS -->
-      <!-- Service Recall CSS -->
-            <!-- Service Recall  CSS -->
-      <!-- Site Search Page CSS -->
-                  <!--  Site Search Page CSS -->
-      <!--  Site testride Page CSS -->
-                                                 <!-- Start VWO Async Smartcode -->
-            
-            <!-- Start VWO Async SmartCode -->
-            <!-- <script type='text/javascript'>
-         _vis_opt_cookieDays = 3;
-         window._vwo_code = window._vwo_code || (function() {
-             var account_id = 512574,
-                 settings_tolerance = 2000,
-                 library_tolerance = 2500,
-                 use_existing_jquery = false,
-                 is_spa = 1,
-                 hide_element = 'body',
-         
-                 /* DO NOT EDIT BELOW THIS LINE */
-                 f = false,
-                 d = document,
-                 code = {
-                     use_existing_jquery: function() {
-                         return use_existing_jquery;
-                     },
-                     library_tolerance: function() {
-                         return library_tolerance;
-                     },
-                     finish: function() {
-                         if (!f) {
-                             f = true;
-                             var a = d.getElementById('_vis_opt_path_hides');
-                             if (a) a.parentNode.removeChild(a);
-                         }
-                     },
-                     finished: function() {
-                         return f;
-                     },
-                     load: function(a) {
-                         var b = d.createElement('script');
-                         b.src = a;
-                         b.type = 'text/javascript';
-                         b.innerText;
-                         b.onerror = function() {
-                             _vwo_code.finish();
-                         };
-                         d.getElementsByTagName('head')[0].appendChild(b);
-                     },
-                     init: function() {
-                         window.settings_timer = setTimeout('_vwo_code.finish()', settings_tolerance);
-                         var a = d.createElement('style'),
-         b = hide_element ? hide_element + '{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}' : '',
-                             h = d.getElementsByTagName('head')[0];
-                         a.setAttribute('id', '_vis_opt_path_hides');
-                         a.setAttribute('type', 'text/css');
-                         if (a.styleSheet) a.styleSheet.cssText = b;
-                         else a.appendChild(d.createTextNode(b));
-                         h.appendChild(a);
-                         this.load('https://dev.visualwebsiteoptimizer.com/j.php?a=' + account_id + '&u=' + encodeURIComponent(d.URL) + '&f=' + (+is_spa) + '&r=' + Math.random());
-                         return settings_timer;
-                     }
-                 };
-             window._vwo_settings_timer = code.init();
-             return code;
-         }());
-         </script> -->
-      <!-- End VWO Async SmartCode -->
-      
           
-      
-      <!-- product websiteenquiry GTM -->
-            <!-- Codes for product-enquiry page -->
-            
-            
-      <!-- Global site tag (gtag.js) - Google Analytics -->
-      <script async defer="defer" src="https://www.googletagmanager.com/gtag/js?id=UA-61645253-1"></script>
-      <script async defer="defer">
-         window.dataLayer = window.dataLayer || [];
-         function gtag(){dataLayer.push(arguments);}	
-         gtag('js', new Date());
-         gtag('config', 'UA-61645253-1');
-      </script>
-      <!-- Global site tag (gtag.js) - Google Ads: 676733848 -->
-<script async defer="defer" src="https://www.googletagmanager.com/gtag/js?id=AW-676733848"></script>
-<script async defer="defer">
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'AW-676733848');
-</script>
-      
-      <script async defer="defer">
-         (function(b, m, h, a, g) {
-             b[a] = b[a] || [];
-             b[a].push({
-                 "gtm.start": new Date().getTime(),
-                 event: "gtm.js"
-             });
-             var k = m.getElementsByTagName(h)[0],
-                 e = m.createElement(h),
-                 c = a != "dataLayer" ? "&l=" + a : "";
-             e.async = true;
-             e.src = "https://www.googletagmanager.com/gtm.js?id=" + g + c;
-             k.parentNode.insertBefore(e, k)
-         })(window, document, "script", "dataLayer", "GTM-NN22QX3");
-      </script>
-      <!-- Digital Pages Pixel Codes Files Import -->
-      
-<!-- Meta Pixel Code -->
-<script async defer="defer">
-    !function(f,b,e,v,n,t,s)
-    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-    n.queue=[];t=b.createElement(e);t.async=!0;
-    t.src=v;s=b.getElementsByTagName(e)[0];
-    s.parentNode.insertBefore(t,s)}(window, document,'script',
-    'https://connect.facebook.net/en_US/fbevents.js');
-    fbq('init', '381393470851848');
-    fbq('track', 'PageView');
-    </script>
-    <noscript async defer="defer"><img height="1" width="1" style="display:none"
-    src="https://www.facebook.com/tr?id=381393470851848&ev=PageView&noscript=1"
-    /></noscript>
-    <!-- End Meta Pixel Code -->
+		<nav id="navigation-2408" class="navigation nav ">
+	        
+	
+		<button class="nav-hamburger">
+            <span></span>
+    	</button>
 
-<!--  Pixel Codes for product enquiry page -->
-
-
-<!-- Global site tag (gtag.js) - Google Ads: 1012117457 -->
-<script async defer="defer"src="https://www.googletagmanager.com/gtag/js?id=AW-1012117457"></script>
-<script async defer="defer">
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'AW-1012117457');
-</script>
-
-
-      <!-- Digital Pages Pixel Codes Files Import -->
-      <!-- Start of Floodlight Tag: Please do not remove
-         Activity name of this tag: Yamaha Landing Page
-         URL of the webpage where the tag is expected to be placed:
-         This tag must be placed between the <body> and </body> tags, as close as possible to the opening tag.
-         Creation Date: 12/10/2020
-         -->
-      
-      <script defer="defer" type="text/javascript">
-         var axel = Math.random() + "";
-         var a = axel * 10000000000000;
-         document.write('<iframe src="https://10534014.fls.doubleclick.net/activityi;src=10534014;type=invmedia;cat=yamah0;u1=[Page Hostname];u2=[Page Path];u3=[Page URL];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;npa=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
-      </script>
-      <noscript async defer="defer">
-         <iframe
-            src="https://10534014.fls.doubleclick.net/activityi;src=10534014;type=invmedia;cat=yamah0;u1=[Page Hostname];u2=[Page Path];u3=[Page URL];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;npa=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ord=1?"
-            width="1" height="1" frameborder="0" style="display:none"></iframe>
-      </noscript>
-      
-      <!-- End of Floodlight Tag: Please do not remove -->
-
-      <!-- JS plugins -->
-
-
-
-   </head>
-   <body>
-            <div id=cookie_consent class="d-none">
-         <div class="col-md-8 col-sm-12 col-xs-12 offset-md-2">
-            <p class=pull-left>This website uses cookies to enhance user experience & the services therein; user
-               consents to accept the use of cookies for an optimum experience of the website. For more information
-               visit our <a href="/privacy-index.html" class=more_info>privacy policy</a>.
-            </p>
-         </div>
-         <div class="col-md-2 col-sm-12 col-xs-12 pull-right cookie-mobile-understand-btn mt-2 mt-sm-0 text-center">
-            <a class=accept_cookies>I understand</a>
-         </div>
-      </div>
-            <!-- Google Tag Manager (noscript) -->
-      <noscript async defer="defer">
-         <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NN22QX3" height="0" width="0"
-            style="display: none; visibility: hidden"></iframe>
-      </noscript>
-      <!-- End Google Tag Manager (noscript) -->
-      <!-- Start Preloader -->
-      <div class='progress' id="progress_div">
-         <div class='bar' id='bar1'></div>
-         <div class='percent' id='percent1'></div>
-      </div>
-      <input type="hidden" id="progress_width" value="0">
-      <!-- End Preloader -->
-      <!-- CSS END -->
-      <!-- Start Header -->
-<header class="header">
-    <div class="d-flex">
-        <div>
-            <a class="header__logo" href="/home-index.html">
-                <img src="/theme/v3/image/header-footer/yamaha-motor.png" />
-            </a>
-        </div>
-        <div class="flex-fill">
-            <ul class="nav-mob d-md-none">
-                <li class="nav-mob__item">
-                    <a id="searchMob" class="nav-mob__link" data-toggle="modal" data-target="#searchModal">
-                        <svg viewBox="0 0 515.558 515.558" class="svg nav-mob__search" aria-hidden="true">
-                                <use class="sv-icon" xlink:href="#svg-search"></use>
-                            </svg>
+		<div class="nav-wrapper">
+            <div class="sticky-links-mobi"></div>
+            <ul class="nav-primary">
+                <li>
+                    <a title="Motorcycles" class="navigationAnalytics" href="/in/en/motorcycles.html">
+                        Motorcycles
+                        
                     </a>
-                </li>
-                <li class="nav-mob__item">
-                    <a id="menuMob" class="nav-mob__link nav-mob__link--menu" href="javaScript:void(0)">
-                        <span class="menu-icon"><span></span></span>
-                    </a>
-                </li>
-            </ul>
-            <div class="menu__wrap">
-                <ul class="nav">
-                    <li class="nav__item  no-link-redirection">
-                        <a class="nav__link no-ipad-redirection" href="/two-wheeler.html">
-                            <span class="nav__text">PRODUCTS</span>
-                        </a>
-                        <a class="dropdown-toggle"></a>
-
-                        <!-- Start Mega dropdown - MOBILE  -->
-                        <div class="mega-dropdown dropdown--bg-dark">
-                            <div class="row no-gutters d-md-none d-lg-none d-xl-none">
-                                <div class="col-12 col-xl-10">
-                                    <div class="submenu__item">
-                                        <a href="#" class="dropdown-toggle ">
-                                            <h3 class="mega-dropdown__title title-mobile title--light">MOTORCYCLES</h3>
-                                        </a>
-                                        <div class="submenu-dropdown">
-                                            <div class="row no-gutters d-flex">
-
-                                                <div class="col-12 col-xl-10">
-                                                    <div class="p-2 p-lg-4">
-                                                        <div class="row">
-                                                            <div class="col-12">
-                                                                <a href="/yamaha-superbikes.html">
-                                                                    <h4 class="mega-dropdown__subtitle mt-4">MotoGP Edition</h4>
-                                                                </a>
-                                                                <div class="row d-none">
-                                                                    <div class="col-4 col-lg-3 col-md-4 mega-dropdown__block px-0 pb-2">
-                                                                        <a class="mega-dropdown__img" href="/yamaha-superbikes-yzf-r1.html" data-color="yzf-r15"></a>
-                                                                        <span class="d-block">
-                                                                                    <span class="mega-dropdown__link mega-dropdown__link--products">YZF R1</span>
-                                                                        </span>
-                                                                    </div>
-                                                                    <div class="col-4 col-lg-3 col-md-4 mega-dropdown__block px-0 pb-2">
-                                                                        <a class="mega-dropdown__img" href="/yamaha-superbikes-mt-09.html" data-color="mt09"></a>
-                                                                        <span class="d-block">
-                                                                                    <span class="mega-dropdown__link mega-dropdown__link--products">MT-09</span>
-                                                                        </span>
-                                                                    </div>
-
-                                                                </div>
-                                                                <!-- <a href="/yamaha-bikes.html">
-                                                                    <h4 class="mega-dropdown__subtitle">BIKES</h4>
-                                                                </a> -->
-                                                                <div class="row">
-                                                                    
-                                                                    
-                                                                    <div class="col-4 col-lg-3 col-md-4 mega-dropdown__block px-0 pb-2">
-                                                                        <a class="mega-dropdown__img" href="/yamaha-r15m.html" data-color="R15M"></a>
-                                                                        <span class="d-block">
-                                                                                    <span class="mega-dropdown__link mega-dropdown__link--products">R15M <i class="fa fa-bluetooth"></i></span>
-                                                                        </span>
-                                                                    </div>
-                                                                    <div class="col-4 col-lg-3 col-md-4 mega-dropdown__block px-0 pb-2">
-                                                                        <a class="mega-dropdown__img" href="/yamaha-r15m-60th-anniversary.html" data-color="R15M-edition"></a>
-                                                                        <span class="d-block">
-                                                                                    <span class="mega-dropdown__link mega-dropdown__link--products">R15M WGP 60th Edition <i class="fa fa-bluetooth"></i>
-                                                                        </span>
-                                                                        </span>
-                                                                    </div>
-                                                                    <div class="col-4 col-lg-3 col-md-4 mega-dropdown__block px-0 pb-2">
-                                                                        <a class="mega-dropdown__img" href="/yamaha-r15v4.html" data-color="R15-v4"></a>
-                                                                        <span class="d-block">
-                                                                                    <span class="mega-dropdown__link mega-dropdown__link--products">R15 V4 <i class="fa fa-bluetooth"></i></span>
-                                                                        </span>
-                                                                    </div>
-                                                                    
-                                                                    <div class="col-4 col-lg-3 col-md-4 mega-dropdown__block px-0 pb-2">
-                                                                        <a class="mega-dropdown__img" href="/yamaha-motogp-editions.html" data-color="yzf-r15-motoGP"></a>
-                                                                        <span class="d-block">
-                                                                                    <span class="mega-dropdown__link mega-dropdown__link--products">MotoGP Edition <i class="fa fa-bluetooth"></i></span>
-                                                                        </span>
-                                                                    </div>
-                                                                    <div class="col-4 col-lg-3 col-md-4 mega-dropdown__block px-0 pb-2">
-                                                                        <a class="mega-dropdown__img" href="/yamaha-r15s.html" data-color="R15s"></a>
-                                                                        <span class="d-block">
-                                                                                    <span class="mega-dropdown__link mega-dropdown__link--products">R15S </span>
-                                                                        </span>
-                                                                    </div>
-                                                                    <div class="col-4 col-lg-3 col-md-4 mega-dropdown__block px-0 pb-2 d-none">
-                                                                        <a class="mega-dropdown__img" data-color="yzf-r15v3" href="/yamaha-yzf-r15-v3.html"></a>
-                                                                        <span class="d-block">
-                                                                                    <span class="mega-dropdown__link mega-dropdown__link--products">R15</span>
-                                                                        </span>
-                                                                    </div>
-                                                                    <div class="col-4 col-lg-3 col-md-4 mega-dropdown__block px-0 pb-2 d-none">
-                                                                        <a class="mega-dropdown__img" data-color="mt15-cyw" href="/yamaha-mt-15-customization.html"></a>
-                                                                        <span class="d-block">
-                                                                                    <span class="mega-dropdown__link mega-dropdown__link--products">MT-15 CYW</span>
-                                                                        </span>
-
-                                                                    </div>
-                                                                    <div class="col-4 col-lg-3 col-md-4 mega-dropdown__block px-0 pb-2">
-                                                                        <a class="mega-dropdown__img" data-color="mt15v2" href="/yamaha-mt-15-ver2.0.html"></a>
-                                                                        <span class="d-block">
-                                                                                    <span class="mega-dropdown__link mega-dropdown__link--products">MT-15 Ver 2.0 <i class="fa fa-bluetooth"></i></span>
-                                                                        </span>
-
-                                                                    </div>
-                                                                    <div class="col-4 col-lg-3 col-md-4 mega-dropdown__block px-0 pb-2 d-none">
-                                                                        <a class="mega-dropdown__img" data-color="mt15" href="/yamaha-mt-15.html"></a>
-                                                                        <span class="d-block">
-                                                                                    <span class="mega-dropdown__link mega-dropdown__link--products">MT-15</span>
-                                                                        </span>
-
-                                                                    </div>
-                                                                    
-                                                                    
-                                                                    <div class="col-4 col-lg-3 col-md-4 mega-dropdown__block px-0 pb-2">
-                                                                        <a class="mega-dropdown__img" href="/yamaha-fzs25.html" data-color="fzs-25"></a>
-                                                                        <span class="d-block">
-                                                                                    <span class="mega-dropdown__link mega-dropdown__link--products">FZS 25</span>
-                                                                        </span>
-
-                                                                    </div>
-                                                                    
-                                                                    <div class="col-4 col-lg-3 col-md-4 mega-dropdown__block px-0 pb-2">
-                                                                        <a class="mega-dropdown__img" href="/yamaha-fz25.html" data-color="fz-25"></a>
-                                                                        <span class="d-block">
-                                                                                    <span class="mega-dropdown__link mega-dropdown__link--products">FZ 25</span>
-                                                                        </span>
-
-                                                                    </div>
-                                                                    <div class="col-4 col-lg-3 col-md-4 mega-dropdown__block px-0 pb-2">
-                                                                        <a class="mega-dropdown__img" href="/yamaha-fzx.html" data-color="fz-x"></a>
-                                                                        <span class="d-block">
-                                                                                    <span class="mega-dropdown__link mega-dropdown__link--products">FZ-X <i class="fa fa-bluetooth" aria-hidden="true"></i></span>
-                                                                        </span>
-
-                                                                    </div>
-                                                                    <div class="col-4 col-lg-3 col-md-4 mega-dropdown__block px-0 pb-2">
-                                                                        <a class="mega-dropdown__img" href="/yamaha-fzs-fi.html" data-color="fzs-fi-new-hybrid"></a>
-                                                                        <span class="d-block">
-                                                                                    <span class="mega-dropdown__link mega-dropdown__link--products">FZ-S FI <i class="fa fa-bluetooth" aria-hidden="true"></i></span>
-                                                                        </span>
-
-                                                                    </div>
-                                                                    <div class="col-4 col-lg-3 col-md-4 mega-dropdown__block px-0 pb-2 d-none">
-                                                                        <a class="mega-dropdown__img" href="/yamaha-fzs-fi-2020.html" data-color="fzs-fi"></a>
-                                                                        <span class="d-block">
-                                                                                    <span class="mega-dropdown__link mega-dropdown__link--products">FZS-FI</span>
-                                                                        </span>
-
-                                                                    </div>
-                                                                    
-                                                                    <div class="col-4 col-lg-3 col-md-4 mega-dropdown__block px-0 pb-2 d-none">
-                                                                        <a class="mega-dropdown__img" href="/yamaha-fzs-fi-dark-knight.html" data-color="fzs-fi-darknight"></a>
-                                                                        <span class="d-block">
-                                                                                    <span class="mega-dropdown__link mega-dropdown__link--products">FZS-FI Dark knight</span>
-                                                                        </span>
-
-                                                                    </div>
-                                                                    <div class="col-4 col-lg-3 col-md-4 mega-dropdown__block px-0 pb-2 d-none">
-                                                                        <a class="mega-dropdown__img" href="/yamaha-fzs-fi-vintage.html" data-color="fzs-fi-vintage"></a>
-                                                                        <span class="d-block">
-                                                                                    <span class="mega-dropdown__link mega-dropdown__link--products">FZS-FI Vintage <i class="fa fa-bluetooth" aria-hidden="true"></i></span>
-                                                                        </span>
-
-                                                                    </div>
-                                                                    <div class="col-4 col-lg-3 col-md-4 mega-dropdown__block px-0 pb-2">
-                                                                        <a class="mega-dropdown__img" href="/yamaha-fz-fi.html" data-color="fz-fi-new"></a>
-                                                                        <span class="d-block">
-                                                                                    <span class="mega-dropdown__link mega-dropdown__link--products">FZ-FI</span>
-                                                                        </span>
-
-                                                                    </div>
-                                                                    
-                                                                    
-
-                                                                </div>
-
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            
-                                        </div>
-
-                                    </div>
-                                </div>
-
-                                <div class="col-12 col-xl-10">
-                                    <div class="submenu__item">
-                                        <a href="#" class="dropdown-toggle scooter-dropdown">
-                                            <h3 class="mega-dropdown__title title-mobile title--light w-85">
-                                                <a href="/yamaha-scooters.html" class="text-white">SCOOTERS</a></h3>
-                                        </a>
-                                        <div class="submenu-dropdown">
-                                            <div class="row no-gutters d-flex d-md-none">
-
-                                                <div class="col-12 col-xl-10">
-                                                    <div class="px-2 pb-2 pt-4">
-                                                        <div class="row">
-                                                            <div class="col-12">
-
-                                                                <div class="row">
-                                                                    <div class="col-4 col-md-4 mega-dropdown__block">
-                                                                        <a class="mega-dropdown__img" href="/yamaha-aerox.html" data-color="aerox"> </a>
-                                                                        <span class="d-block">
-                                                                                    <span class="mega-dropdown__link mega-dropdown__link--products">Aerox 155 <i class="fa fa-bluetooth"></i></span>
-                                                                        </span>
-                                                                    </div>
-                                                                    <div class="col-4 col-md-4 mega-dropdown__block">
-                                                                        <a class="mega-dropdown__img" href="/yamaha-ray-zrstreetrally125fihybrid.html" data-color="rayzr-street-rally125fi-hybrid"> </a>
-                                                                        <span class="d-block">
-                                                                                    <span class="mega-dropdown__link mega-dropdown__link--products text-md-nowrap">RAYZR Street Rally 125 Fi <i class="fa fa-bluetooth" aria-hidden="true"></i></span>
-                                                                        </span>
-                                                                    </div>
-                                                                    <div class="col-4 col-md-4 mega-dropdown__block">
-                                                                        <a class="mega-dropdown__img" href="/yamaha-ray-zr125fihybrid.html" data-color="rayzr125fi-hybrid"> </a>
-                                                                        <span class="d-block">
-                                                                                    <span class="mega-dropdown__link mega-dropdown__link--products">RAYZR 125 Fi <i class="fa fa-bluetooth" aria-hidden="true"></i></span>
-                                                                        </span>
-                                                                    </div>
-                                                                    <div class="col-4 col-md-4 mega-dropdown__block ">
-                                                                        <a class="mega-dropdown__img" href="/yamaha-fascino125fi-new.html" data-color="fascino-BT"> </a>
-                                                                        <span class="d-block">
-                                                                                    <span class="mega-dropdown__link mega-dropdown__link--products">Fascino 125 Fi <i class="fa fa-bluetooth" aria-hidden="true"></i></span>
-                                                                        </span>
-
-                                                                    </div>
-                                                                    <div class="col-4 col-md-4 mega-dropdown__block d-none">
-                                                                        <a class="mega-dropdown__img" href="/yamaha-ray-zr-streetrally125fi.html" data-color="rayzr-street-rally125fi"> </a>
-                                                                        <span class="d-block">
-                                                                                    <span class="mega-dropdown__link mega-dropdown__link--products text-md-nowrap">RAYZR Street Rally 125 Fi</span>
-                                                                        </span>
-                                                                    </div>
-                                                                    
-                                                                    <div class="col-4 col-md-4 mega-dropdown__block d-none">
-                                                                        <a class="mega-dropdown__img" href="/yamaha-ray-zr125fi.html" data-color="rayzr125fi"> </a>
-                                                                        <span class="d-block">
-                                                                                    <span class="mega-dropdown__link mega-dropdown__link--products">RAYZR 125 Fi</span>
-                                                                        </span>
-                                                                    </div>
-                                                                    <div class="col-4 col-md-4 mega-dropdown__block d-none">
-                                                                        <a class="mega-dropdown__img" href="/yamaha-fascino125fi.html" data-color="fascinobs6"> </a>
-                                                                        <span class="d-block">
-                                                                                    <span class="mega-dropdown__link mega-dropdown__link--products">Fascino 125 Fi</span>
-                                                                        </span>
-
-                                                                    </div>
-                                                                    
-                                                                    
-
-                                                                </div>
-                                                                <a href="/scooterboutique-index.html" class="d-none">
-                                                                    <h4 class="mega-dropdown__subtitle">SCOOTER BOUTIQUE</h4>
-                                                                </a>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-
-                            </div>
-                        </div>
-                        <!-- End Mega dropdown - MOBILE  -->
-
-                        <!-- Start Mega dropdown- PC  -->
-                        <div class="mega-dropdown ">
-                            <div class="row no-gutters d-none d-md-flex">
-                                <div class="col-2 mega-dropdown__header">
-                                    <div class="mega-dropdown__bg"></div>
-                                    <h2 class="mega-dropdown__heading mega-dropdown__heading--no_arrow">PRODUCTS</h2>
-                                </div>
-                                <div class="col-12 col-xl-10">
-                                    <div class="p-3 p-lg-4">
-                                        <div class="row">
-                                            <div class="col-12 col-sm-6 width-25">
-
-                                                <h3 class="mega-dropdown__title arrow-hide">MOTORCYCLES</h3>
-
-                                                <a href="/yamaha-superbikes.html" class="">
-                                                    <h4 class="mega-dropdown__subtitle d-none">SUPERBIKES</h4>
-                                                </a>
-                                                <div class="row d-none">
-                                                    <div class="col-6 col-lg-3 col-md-4 mega-dropdown__block">
-                                                        <a class="mega-dropdown__img" href="/yamaha-superbikes-yzf-r1.html" data-color="yzf-r15"></a>
-                                                        <span class="d-block">
-                                                                    <span class="mega-dropdown__link mega-dropdown__link--products">YZF R1</span>
-                                                        </span>
-                                                    </div>
-                                                    <div class="col-6 col-lg-3 col-md-4 mega-dropdown__block">
-                                                        <a class="mega-dropdown__img" href="/yamaha-superbikes-mt-09.html" data-color="mt09"></a>
-                                                        <span class="d-block">
-                                                                    <span class="mega-dropdown__link mega-dropdown__link--products">MT-09</span>
-                                                        </span>
-                                                    </div>
-
-                                                </div>
-                                                <!-- <a href="/yamaha-bikes.html">
-                                                    <h4 class="mega-dropdown__subtitle">BIKES</h4>
-                                                </a> -->
-                                                <div class="row">
-                                                    
-                                                    <div class="col-6 col-lg-3 col-md-4 mega-dropdown__block">
-                                                        <a class="mega-dropdown__img" href="/yamaha-r15m.html" data-color="R15M"></a>
-                                                        <span class="d-block">
-                                                                    <span class="mega-dropdown__link mega-dropdown__link--products">R15M <i class="fa fa-bluetooth"></i></span>
-                                                        </span>
-                                                    </div>
-                                                    <div class="col-6 col-lg-3 col-md-4 mega-dropdown__block">
-                                                        <a class="mega-dropdown__img" href="/yamaha-r15m-60th-anniversary.html" data-color="R15M-edition"></a>
-                                                        <span class="d-block">
-                                                                    <span class="mega-dropdown__link mega-dropdown__link--products">R15M WGP 60th Edition <i class="fa fa-bluetooth"></i></span>
-                                                        </span>
-                                                    </div>
-                                                    <div class="col-6 col-lg-3 col-md-4 mega-dropdown__block">
-                                                        <a class="mega-dropdown__img" href="/yamaha-r15v4.html" data-color="R15-v4"></a>
-                                                        <span class="d-block">
-                                                                    <span class="mega-dropdown__link mega-dropdown__link--products">R15 V4 <i class="fa fa-bluetooth"></i></span>
-                                                        </span>
-                                                    </div>
-
-                                                    <div class="col-6 col-lg-3 col-md-4 mega-dropdown__block px-0">
-                                                        <a class="mega-dropdown__img" href="/yamaha-motogp-editions.html" data-color="yzf-r15-motoGP"></a>
-                                                        <span class="d-block">
-                                                                    <span class="mega-dropdown__link mega-dropdown__link--products">MotoGP Edition <i class="fa fa-bluetooth"></i></span>
-                                                        </span>
-                                                    </div>
-                                                    <div class="col-6 col-lg-3 col-md-4 mega-dropdown__block">
-                                                        <a class="mega-dropdown__img" href="/yamaha-r15s.html" data-color="R15s"></a>
-                                                        <span class="d-block">
-                                                                    <span class="mega-dropdown__link mega-dropdown__link--products">R15S</span>
-                                                        </span>
-                                                    </div>
-                                                    <div class="col-6 col-lg-3 col-md-4 mega-dropdown__block d-none">
-                                                        <a class="mega-dropdown__img" data-color="yzf-r15v3" href="/yamaha-yzf-r15-v3.html"></a>
-                                                        <span class="d-block">
-                                                                    <span class="mega-dropdown__link mega-dropdown__link--products">R15</span>
-                                                        </span>
-                                                    </div>
-                                                    <div class="col-6 col-lg-3 col-md-4 mega-dropdown__block d-none">
-                                                        <a class="mega-dropdown__img" data-color="mt15-cyw" href="/yamaha-mt-15-customization.html"></a>
-                                                        <span class="d-block">
-                                                                    <span class="mega-dropdown__link mega-dropdown__link--products">MT-15 CYW</span>
-                                                        </span>
-
-                                                    </div>
-                                                    <div class="col-6 col-lg-3 col-md-4 mega-dropdown__block">
-                                                        <a class="mega-dropdown__img" data-color="mt15v2" href="/yamaha-mt-15-ver2.0.html"></a>
-                                                        <span class="d-block">
-                                                                    <span class="mega-dropdown__link mega-dropdown__link--products">MT-15 Ver 2.0 <i class="fa fa-bluetooth"></i></span>
-                                                        </span>
-
-                                                    </div>
-                                                    <div class="col-6 col-lg-3 col-md-4 mega-dropdown__block d-none">
-                                                        <a class="mega-dropdown__img" data-color="mt15" href="/yamaha-mt-15.html"></a>
-                                                        <span class="d-block">
-                                                                    <span class="mega-dropdown__link mega-dropdown__link--products">MT-15</span>
-                                                        </span>
-
-                                                    </div>
-                                                    
-                                                    
-                                                    <div class="col-6 col-lg-3 col-md-4 mega-dropdown__block">
-                                                        <a class="mega-dropdown__img" href="/yamaha-fzs25.html" data-color="fzs-25"></a>
-                                                        <span class="d-block">
-                                                                    <span class="mega-dropdown__link mega-dropdown__link--products">FZS 25</span>
-                                                        </span>
-
-                                                    </div>
-                                                    
-                                                    <div class="col-6 col-lg-3 col-md-4 mega-dropdown__block">
-                                                        <a class="mega-dropdown__img" href="/yamaha-fz25.html" data-color="fz-25"></a>
-                                                        <span class="d-block">
-                                                                    <span class="mega-dropdown__link mega-dropdown__link--products">FZ 25</span>
-                                                        </span>
-
-                                                    </div>
-                                                    <div class="col-6 col-lg-3 col-md-4 mega-dropdown__block">
-                                                        <a class="mega-dropdown__img" href="/yamaha-fzx.html" data-color="fz-x"></a>
-                                                        <span class="d-block">
-                                                                    <span class="mega-dropdown__link mega-dropdown__link--products">FZ-X <i class="fa fa-bluetooth" aria-hidden="true"></i></span>
-                                                        </span>
-
-                                                    </div>
-                                                    <div class="col-6 col-lg-3 col-md-4 mega-dropdown__block">
-                                                        <a class="mega-dropdown__img" href="/yamaha-fzs-fi.html" data-color="fzs-fi-new-hybrid"></a>
-                                                        <span class="d-block">
-                                                                    <span class="mega-dropdown__link mega-dropdown__link--products">FZ-S FI <i class="fa fa-bluetooth" aria-hidden="true"></i></span>
-                                                        </span>
-
-                                                    </div>
-
-                                                   
-                                                    <div class="col-6 col-lg-3 col-md-4 mega-dropdown__block d-none">
-                                                        <a class="mega-dropdown__img" href="/yamaha-fzs-fi-dark-knight.html" data-color="fzs-fi-darknight"></a>
-                                                        <span class="d-block">
-                                                                    <span class="mega-dropdown__link mega-dropdown__link--products">FZS-FI Dark Knight</span>
-                                                        </span>
-
-                                                    </div> 
-                                                   
-                                                    <div class="col-6 col-lg-3 col-md-4 mega-dropdown__block">
-                                                        <a class="mega-dropdown__img" href="/yamaha-fz-fi.html" data-color="fz-fi-new"></a>
-                                                        <span class="d-block">
-                                                                    <span class="mega-dropdown__link mega-dropdown__link--products">FZ-FI</span>
-                                                        </span>
-
-                                                    </div>
-                                                    
-                                                </div>
-                                            </div>
-                                            <div class="col-12 col-sm-6 pl-5">
-                                                <a href="/yamaha-scooters.html">
-                                                    <h3 class="mega-dropdown__title">SCOOTERS</h3>
-                                                </a>
-
-                                                <div class="row">
-                                                    <div class="col-6 col-md-4 mega-dropdown__block">
-                                                        <a class="mega-dropdown__img" href="/yamaha-aerox.html" data-color="aerox"> </a>
-                                                        <span class="d-block">
-                                                                    <span class="mega-dropdown__link mega-dropdown__link--products">Aerox 155 <i class="fa fa-bluetooth"></i></span>
-                                                        </span>
-                                                    </div>
-                                                    <div class="col-6 col-md-4 mega-dropdown__block p-0">
-                                                        <a class="mega-dropdown__img" href="/yamaha-ray-zrstreetrally125fihybrid.html" data-color="rayzr-street-rally125fi-hybrid"> </a>
-                                                        <span class="d-block">
-                                                                    <span class="mega-dropdown__link mega-dropdown__link--products text-md-nowrap">RAYZR Street Rally 125 Fi <i class="fa fa-bluetooth" aria-hidden="true"></i></span>
-                                                        </span>
-                                                    </div>
-                                                    <div class="col-6 col-md-4 mega-dropdown__block">
-                                                        <a class="mega-dropdown__img" href="/yamaha-ray-zr125fihybrid.html" data-color="rayzr125fi-hybrid"> </a>
-                                                        <span class="d-block">
-                                                                    <span class="mega-dropdown__link mega-dropdown__link--products">RAYZR 125 Fi <i class="fa fa-bluetooth" aria-hidden="true"></i></span>
-                                                        </span>
-                                                    </div>
-                                                    <div class="col-6 col-md-4 mega-dropdown__block">
-                                                        <a class="mega-dropdown__img" href="/yamaha-fascino125fi-new.html" data-color="fascino-BT"> </a>
-                                                        <span class="d-block">
-                                                                    <span class="mega-dropdown__link mega-dropdown__link--products">Fascino 125 Fi <i class="fa fa-bluetooth" aria-hidden="true"></i></span>
-                                                        </span>
-
-                                                    </div>
-                                                    
-                                            
-                                                </div>
-                                                <a href="/scooterboutique-index.html" class="d-none">
-                                                    <h4 class="mega-dropdown__subtitle mt-md-3 mt-lg-4">SCOOTER BOUTIQUE</h4>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- End Mega dropdown - PC -->
-                    </li>
-                    <li class="nav__item  no-link-redirection">
-                        <a class="nav__link" href="/dealer-network.html">
-                            <span class="nav__text">DEALER</span>
-                        </a>
-                    </li>
-                    <li class="nav__item no-link-redirection">
-                        <a class="nav__link" href="/yamaha-buyersguide.html">
-                            <span class="nav__text ">BUYER'S GUIDE</span>
-                        </a>
-                        <!-- <a class="dropdown-toggle"></a>
-                        <div class="mega-dropdown">
-                            <div class="row no-gutters d-md-none d-lg-none d-xl-none">
-                                <div class="col-12 col-xl-10">
-                                    <div>
-                                        <a href="#">
-                                            <h3 class="mega-dropdown__title title-mobile">Modal Comparison</h3>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="col-12 col-xl-10">
-                                    <div>
-                                        <a href="#">
-                                            <h3 class="mega-dropdown__title title-mobile">Getting Started</h3>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div> -->
-                    </li>
-                    <li class="nav__item no-link-redirection">
-                        <a class="nav__link no-ipad-redirection" href="/service-home.html">
-                            <span class="nav__text">SERVICE</span>
-                        </a>
-
-                        <!-- Start Mega dropdown PC -->
-                        <div class="mega-dropdown">
-                            <div class="row no-gutters d-none d-md-flex">
-                                <div class="col-12 col-sm-2 mega-dropdown__header">
-                                    <div class="mega-dropdown__bg"></div>
-                                    <h2 class="mega-dropdown__heading mega-dropdown__heading--no_arrow">SERVICE</h2>
-                                </div>
-                                <div class="col-12 col-xl-10">
-                                    <div class="p-3 p-lg-4">
-                                        <div class="row">
-                                            <div class="col-12 col-sm-4">
-                                                <a href="/service-tcs.html">
-                                                    <h3 class="mega-dropdown__title">Yamaha Lifetime Quality Care</h3>
-                                                </a>
-
-
-                                                <ul class="mega-dropdown__list">
-                                                    <li class="mega-dropdown__item">
-                                                        <a class="mega-dropdown__link" href="/service-tcs.html#Time-Commitment-Service">
-                                                            Time Commitment Service
-                                                            </a>
-                                                    </li>
-                                                    <li class="mega-dropdown__item">
-                                                        <a class="mega-dropdown__link" href="/extended-warranty.html">
-                                                                Extended Warranty</a></li>
-                                                    <li class="mega-dropdown__item">
-                                                        <a class="mega-dropdown__link" href="/service-tcs.html#Annual-Maintenance-Contract">
-                                                            Annual Maintenance Contract (AMC)
-                                                            </a>
-                                                    </li>
-
-                                                    <li class="mega-dropdown__item">
-                                                        <a class="mega-dropdown__link" href="/service-tcs.html#Road-Side-Assistance">
-                                                            Road Side Assistance
-                                                            </a>
-                                                    </li>
-                                                    <li class="mega-dropdown__item">
-                                                        <a class="mega-dropdown__link" href="/service-tcs.html#Pickup-Drop-Service">
-                                                            Pickup & Drop Service
-                                                            </a>
-                                                    </li>
-                                                    <li class="mega-dropdown__item">
-                                                        <a class="mega-dropdown__link" href="/service-tcs.html#Insurance-Renewal">
-                                                            Insurance Renewal
-                                                            </a>
-                                                    </li>
-                                                    <li class="mega-dropdown__item">
-                                                        <a class="mega-dropdown__link" href="/service-tcs.html#Lady-Supervisor">
-                                                            Lady Supervisor
-                                                            </a>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                            <div class="col-12 col-sm-4">
-                                                <a href="/service-maintenance.html">
-                                                    <h3 class="mega-dropdown__title">Maintenance</h3>
-                                                </a>
-                                                <ul class="mega-dropdown__list">
-                                                    <li class="mega-dropdown__item">
-                                                        <a class="mega-dropdown__link" href="/service-rpit.html">
-                                                                Expert Care
-                                                            </a>
-                                                    </li>
-                                                    <li class="mega-dropdown__item">
-                                                        <a class="mega-dropdown__link" href="/service-schedule.html">
-                                                                Standard Service Maintenance
-                                                            </a>
-                                                    </li>
-                                                    <li class="mega-dropdown__item">
-                                                        <a class="mega-dropdown__link" href="/service-campaign.html">
-                                                                Service Camp
-                                                            </a>
-                                                    </li>
-                                                    <li class="mega-dropdown__item">
-                                                        <a class="mega-dropdown__link" href="/service-labour.html">
-                                                                Service Labour Cost
-                                                            </a>
-                                                    </li>
-                                                    <li class="mega-dropdown__item">
-                                                        <a class="mega-dropdown__link" href="/service-standardfitmentkit.html">
-                                                                Standard Fitment Kit
-                                                            </a>
-                                                    </li>
-                                                    <li class="mega-dropdown__item d-none">
-                                                        <a class="default mega-dropdown__link" href="/service-camp.html">
-                                                                Service Campaign
-                                                            </a>
-                                                        <ul class="service-sublist ">
-                                                            <li class="mega-dropdown__item"><a href="/service-recall.html" class="mega-dropdown__link">FZ25 / Fazer25</a></li>
-                                                            <li class="mega-dropdown__item"><a href="/service-recall-fz.html" class="mega-dropdown__link">FZ FI / FZ-S FI</a></li>
-                                                        </ul>
-                                                    </li>
-
-
-
-
-                                                </ul>
-                                            </div>
-                                            <!-- <div class="col-12 col-sm-3">
-                                                <a href="/parts-ygparts.html">
-                                                    <h3 class="mega-dropdown__title">Genuine parts</h3>
-                                                </a>
-                                                <ul class="mega-dropdown__list">
-                                                    <li class="mega-dropdown__item">
-                                                        <a class="mega-dropdown__link" href="/parts-fast-moving.html">
-                                                                Consumable parts
-                                                            </a>
-                                                    </li>
-                                                    <li class="mega-dropdown__item">
-                                                        <a class="mega-dropdown__link" href="/parts-yamalube.html">
-                                                                Yamalube
-                                                            </a>
-                                                    </li>
-                                                    <li class="mega-dropdown__item">
-                                                        <a class="mega-dropdown__link" href="/parts-helmet.html">
-                                                                Helmet
-                                                            </a>
-                                                    </li>
-                                                </ul>
-                                            </div> -->
-
-                                            <div class="col-12 col-sm-4">
-                                                <h3 class="mega-dropdown__title arrow-hide">Skill Development</h3>
-                                                <ul class="mega-dropdown__list">
-                                                    <li class="mega-dropdown__item">
-                                                        <a class="mega-dropdown__link" href="/service-training.html">
-                                                                Yamaha Technical Academy
-                                                            </a>
-                                                    </li>
-                                                    <li class="mega-dropdown__item">
-                                                        <a class="mega-dropdown__link" href="/service-rsa-contest.html">
-                                                            National/Global Technical Contest
-                                                            </a>
-                                                    </li>
-                                                    <li class="mega-dropdown__item">
-                                                        <a class="mega-dropdown__link" href="/service-rsa-skill.html">
-                                                                Social Skill Development
-                                                            </a>
-                                                    </li>
-                                                    <li class="mega-dropdown__item">
-                                                        <a class="mega-dropdown__link" href="/mileage-champions.html">
-                                                                Champions of Mileage
-                                                            </a>
-                                                    </li>
-                                                </ul>
-                                            </div>
-
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- End Mega dropdown  -->
-                    </li>
-                    <li class="nav__item no-link-redirection">
-                        <a class="nav__link" href="/spare-parts.html">
-                            <span class="nav__text">PARTS</span>
-                        </a>
-                    </li>
-                    <li class="nav__item">
-                        <a class="nav__link" target="_blank" href="https://www.yamahamotogp.com/">
-                            <span class="nav__text">MOTOGP</span>
-                        </a>
-                    </li>
-                    <li class="nav__item">
-                        <a class="nav__link" target="_blank" href="/events-home.html">
-                            <span class="nav__text">EVENTS</span>
-                        </a>
-                    </li>
-                    <li class="nav__item d-none d-md-inline-block">
-                        <a id="search" class="nav__link" data-toggle="modal" data-target="#searchModal">
-                            <span class="nav__text">
-                                    <svg viewBox="0 0 515.558 515.558" class="svg nav__icon" aria-hidden="true">
-                                        <use class="sv-icon" xlink:href="#svg-search"></use>
-                                    </svg>
-                                </span>
-                        </a>
-                    </li>
-                </ul>
-                <div class="px-2 py-4 text-center font-italic font-weight-lighter d-block d-sm-block d-md-none">
-                    <p>
-                        <a class="text-white" href="/events-home.html"><span class="p-2">Events</span></a>
-                        <a class="text-white" href="/about-yamaha.html"><span  class="p-2">About Us</span></a>
-                        <a class="text-white" href="/video-home.html"><span class="p-2">Media</span></a>
-                    </p>
-                    <p>
-                        <a class="text-white" href="/contact-businesspartner.html"><span class="p-2">Become a Yamaha Dealer</span></a>
-                        <a class="text-white" href="/contact-us.html"><span  class="p-2">Enquiry</span></a>
-                    </p>
-                    <p>
-                        <a class="text-white" href="/downloads-brochure.html"><span class="p-2">Brochure</span></a>
-                        <a class="text-white" href="/contact-us.html"><span  class="p-2">Contact Us</span></a>
-                    </p>
-
-                </div>
-            </div>
-        </div>
-        <div class="d-none d-xl-block">
-            <a class="header__btn" target="_blank" href="https://www.yamahavirtualgallery.com/">
-                <span class="nav__text">
-                    <svg viewBox="0 0 400.000000 284.000000" class="svg header__btn-icon" aria-hidden="true">
-                        <use class="sv-icon" xlink:href="#svg-360"></use>
-                    </svg>
-                    <span class="d-none d-xl-block"><span class="d-block">VIRTUAL</span>GALLERY</span>
-                </span>
-            </a>
-            <a class="header__btn" href="http://shop.yamaha-motor-india.com/" target="_blank">
-                <span class="nav__text">
-                        <svg viewBox="0 0 512 512" class="svg header__btn-icon" aria-hidden="true">
-                            <use class="sv-icon" xlink:href="#svg-cart"></use>
-                        </svg>
-                        <span class="d-none d-xl-block"><span class="d-block">BOOK</span>NOW</span>
-                </span>
-            </a>
-        </div>
-    </div>
-</header>
-
-<div class="spacer-7">
-
-</div>
-<!-- End Header -->
-      <!-- HEADER END -->
-
-
-     <!-- Start Banner -->
-<div class="background-bg">
-   <section class="home-banner-height">
-      <div id="banner" class="owl-carousel">
-         <!-- <div class="item" data-type="video" id="video">
-            <a target="_blank" href="https://registration.yamahavirtualgallery.com/">
-            <div class="embed-responsive holds-the-iframe embed-responsive-16by9">
-                <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/hT2xvXY6MHA?rel=0&autoplay=1&loop=1&controls=0&playlist=hT2xvXY6MHA&mute=1" allow="autoplay;" allowfullscreen=""></iframe>
-            </div>
-            <a class="item-info item-icon d-block d-sm-block" href="https://registration.yamahavirtualgallery.com/" target="_blank" style="display: block !important;">CLICK HERE TO REGISTER</a>
-            <a style="z-index: 999;" class="item-info item-icon videoUrl d-block d-sm-none" hrevirtual-Gallery.mp4f="https://www.youtube.com/embed/hT2xvXY6MHA" data-toggle="modal" data-target="#videoModal">PLAY VIDEO</a>
-            </a>
-            </div> -->
-         
-         <!-- <div class="item">
-            <img decoding="async" class="d-none d-sm-block owl-lazy no-loader"
-               data-src="/theme/v3/image/home/brand-day.jpg" alt="Yamaha Motor India" />
-            <img decoding="async" class="d-block d-sm-none owl-lazy no-loader"
-               data-src="/theme/v3/image/home/brand-day-mobile.jpg" alt="Yamaha Motor India" />
-            <a class="item-info item-icon" href="/racing-index.html"> VIEW DETAILS </a>
-         </div> -->
-
-         <!-- <div class="item">
-               <a href="/trackday-campaign.html">
-               <video autoplay muted loop class="embed-responsive-item d-none d-sm-block" id="autovid" width="100%" >
-                  <source src="theme/v3/videos/home/TrackDay-pc.mp4?v=2" class="" type="video/mp4">
-              </video>
-              <video autoplay muted loop class="embed-responsive-item d-block d-sm-none" id="autovid" width="100%" >
-               <source src="theme/v3/videos/home/TrackDay-sp.mp4?v=2" class="" type="video/mp4">
-               </video>
-                </a>
-            </div> -->
-         <!-- <div class="item">	
-               <a target="_blank" href="/trackday-campaign.html">	
-               <img decoding="async" class="d-none d-sm-block owl-lazy no-loader" data-src="theme/v3/image/home/banner-trackday.jpg?v=3" alt="Yamaha Motor India" />	
-               <img decoding="async" class="d-block d-sm-none owl-lazy no-loader" data-src="theme/v3/image/home/banner-trackday-sp.jpg?v=3" alt="Yamaha Motor India" />	
-               </a>	
-               <a class="item-info item-icon" target="_blank" href="">	
-               BOOK NOW	
-               </a>	
-            </div> -->
-            <div class="item">
-               <a href="/racing-index.html">
-               <img decoding="async" class="d-none d-sm-block owl-lazy no-loader"
-                  data-src="/theme/v3/image/home/MotoGp-Racing-Banner.jpg?v=30" alt="Yamaha Motor India" />
-               <img decoding="async" class="d-block d-sm-none owl-lazy no-loader"
-                  data-src="/theme/v3/image/home/MotoGp-Racing-Banner-mobile.jpg?v=30" alt="Yamaha Motor India" />
-               <a class="item-info item-icon" href="/racing-index.html"> VIEW DETAILS </a>
-               </a>
-            </div>
-            <div class="item">
-               <a href="/trackday-registration.html">
-                  <img decoding="async" class="d-none d-sm-block owl-lazy no-loader"
-                     data-src="theme/v3/image/home/banner-trackday-delhi-pc.jpg?v=5" alt="Yamaha Motor India" />
-                  <img decoding="async" class="d-block d-sm-none owl-lazy no-loader"
-                     data-src="theme/v3/image/home/banner-trackday-delhi-sp.jpg?v=5" alt="Yamaha Motor India" />
-               </a>
-               <a class="item-info item-icon" target="_blank" href="">
-                  BOOK NOW
-               </a>
-            </div>
-            
-            <!-- <div class="item">
-               <a href="/thecalloftheblue-weekend.html">
-                  <img decoding="async" class="d-none d-sm-block owl-lazy no-loader"
-                     data-src="theme/v3/image/home/banner-cotb-madhurai-pc.jpg?v=10" alt="Yamaha Motor India" />
-                  <img decoding="async" class="d-block d-sm-none owl-lazy no-loader"
-                     data-src="theme/v3/image/home/banner-cotb-madhurai-sp.jpg?v=5" alt="Yamaha Motor India" />
-               </a>
-               <a class="item-info item-icon" target="_blank" href="">
-                  BOOK NOW
-               </a>
-            </div> -->
-            <!-- <div class="item">
-            <a href="#">
-               <img decoding="async" class="d-none d-sm-block owl-lazy no-loader"
-                  data-src="theme/v3/image/home/banner-cotb-kolkata-pc.jpg?v=10" alt="Yamaha Motor India" />
-               <img decoding="async" class="d-block d-sm-none owl-lazy no-loader"
-                  data-src="theme/v3/image/home/banner-cotb-kolkata-sp.jpg?v=10" alt="Yamaha Motor India" />
-            </a>
-            <a class="item-info item-icon" target="_blank" href="">
-               BOOK NOW
-            </a>
-         </div> -->
-         <div class="item">
-            <a href="/thecalloftheblue-campaign.html">
-               <img decoding="async" class="d-none d-sm-block owl-lazy no-loader"
-                  data-src="theme/v3/image/home/cotbm-campaign-banner.jpg" alt="Yamaha Motor India" />
-               <img decoding="async" class="d-block d-sm-none owl-lazy no-loader"
-                  data-src="theme/v3/image/home/cotbm-campaign-banner-sp.jpg" alt="Yamaha Motor India" />
-            </a>
-            <a class="item-info item-icon" target="_blank" href="">
-               BOOK NOW
-            </a>
-         </div>
-         <div class="item">
-            <a href="/yamaha-motogpedition.html">
-               <img decoding="async" class="d-none d-sm-block owl-lazy no-loader"
-                  data-src="theme/v3/image/home/banner-motogp.jpg" alt="Yamaha Motor India" />
-               <img decoding="async" class="d-block d-sm-none owl-lazy no-loader"
-                  data-src="theme/v3/image/home/banner-motogp-mobile.jpg?v=2" alt="Yamaha Motor India" />
-            </a>
-            <a class="item-info item-icon" target="_blank" href="">
-               BOOK NOW
-            </a>
-         </div>
-         <div class="item">
-            <a href="/yamaha-mt-15-ver2.0.html">
-               <img decoding="async" class="d-none d-sm-block owl-lazy no-loader"
-                  data-src="theme/v3/image/home/banner-mt15-v2-pc.jpg" alt="Yamaha Motor India" />
-               <img decoding="async" class="d-block d-sm-none owl-lazy no-loader"
-                  data-src="theme/v3/image/home/banner-mt15-v2-sp.jpg?v=2" alt="Yamaha Motor India" />
-            </a>
-            <a class="item-info item-icon" target="_blank" href="">
-               BOOK NOW
-            </a>
-         </div>
-         <!-- <div class="item">
-            <img decoding="async" class="d-none d-sm-block owl-lazy no-loader"
-               data-src="theme/v3/image/home/banner-r15-award-2022.jpg" alt="Yamaha Motor India" />
-            <img decoding="async" class="d-block d-sm-none owl-lazy no-loader"
-               data-src="theme/v3/image/home/banner-r15-award-2022-mobile.jpg" alt="Yamaha Motor India" />
-         </div> -->
-         <!-- <div class="item">
-            <img decoding="async" class="d-none d-sm-block owl-lazy no-loader"
-               data-src="theme/v3/image/home/banner-aerox-award-2022.jpg?v=2" alt="Yamaha Motor India" />
-            <img decoding="async" class="d-block d-sm-none owl-lazy no-loader"
-               data-src="theme/v3/image/home/banner-aerox-award-2022-mobile.jpg?v=2" alt="Yamaha Motor India" />
-
-         </div> -->
-
-
-         <!-- <div class="item">	
-            <a target="_blank" href="/yamaha-r15s.html">	
-            <img decoding="async" class="d-none d-sm-block owl-lazy no-loader" data-src="theme/v3/image/home/banner-r15s-black.jpg" alt="Yamaha Motor India" />	
-            <img decoding="async" class="d-block d-sm-none owl-lazy no-loader" data-src="theme/v3/image/home/banner-r15s-black-mobile.jpg" alt="Yamaha Motor India" />	
-            </a>	
-            <a class="item-info item-icon" target="_blank" href="">	
-            BOOK NOW	
-            </a>	
-         </div> -->
-
-         
-         <div class="item">	
-            <a target="_blank" href="/yamaha-ray-zrstreetrally125fihybrid.html">	
-            <img decoding="async" class="d-none d-sm-block owl-lazy no-loader" data-src="theme/v3/image/home/banner-streetrelly-new.jpg?v=2" alt="Yamaha Motor India" />	
-            <img decoding="async" class="d-block d-sm-none owl-lazy no-loader" data-src="theme/v3/image/home/banner-streetrelly-new-mobile.jpg?v=2" alt="Yamaha Motor India" />	
-            </a>	
-            <a class="item-info item-icon" target="_blank" href="/test/news-benefits-extended-on-service-and-warranty-till-30th-june.html
-               ">	
-            VIEW DETAILS	
-            </a>	
-         </div>
-      </div>
-   </section>
-   <!-- End Banner -->
-   <!-- Start Bike Banner  -->
-   <h1 class="d-none">Bike & Scooter Test Ride</h1>
-   <section class="block bg-motorcycle section-height">
-      <div class="block__container">
-         <h1 class="block__heading">MOTORCYCLES</h1>
-         <div id="bikeCarousel" class="owl-carousel my-4 my-md-5">
-            <div class="item">
-               <a class="item-link" href="/yamaha-fzs25.html">
-                  <img decoding="async" class="owl-lazy no-loader" data-src="/theme/v3/image/home/fzs-25.png?v=2"
-                     alt="FZS 25" />
-                  <h3 class="item-title">
-                     <span class="item-title__link">FZS 25</span>
-                  </h3>
-               </a>
-            </div>
-            <div class="item">
-               <a class="item-link" href="/yamaha-fzs-fi.html">
-                  <img decoding="async" class="owl-lazy no-loader"
-                     data-src="/theme/v3/image/home/fzs-fi-new-2021.png" alt="FZS-FI-New" />
-                  <h3 class="item-title">
-                     <span class="item-title__link">FZ-S FI <i class="fa fa-bluetooth" aria-hidden="true"></i></span>
-                  </h3>
-               </a>
-            </div>
-            <div class="item">
-               <a class="item-link" href="/yamaha-r15m.html">
-                  <img decoding="async" class="owl-lazy no-loader" data-src="/theme/v3/image/home/r15m.png"
-                     alt="R15M" />
-                  <h3 class="item-title">
-                     <span class="item-title__link">R15M <i class="fa fa-bluetooth"></i></span>
-                  </h3>
-               </a>
-            </div>
-            <div class="item">
-               <a class="item-link" href="/yamaha-r15m-60th-anniversary.html">
-                  <img decoding="async" class="owl-lazy no-loader"
-                     data-src="/theme/v3/image/home/r15m-edition.png" alt="R15M" />
-                  <h3 class="item-title">
-                     <span class="item-title__link">R15M WGP 60th Edition <i class="fa fa-bluetooth"></i></span>
-                  </h3>
-               </a>
-            </div>
-
-            <div class="item">
-               <a class="item-link" href="/yamaha-r15v4.html">
-                  <img decoding="async" class="owl-lazy no-loader" data-src="/theme/v3/image/home/R15-V4.png"
-                     alt="R15" />
-                  <h3 class="item-title">
-                     <span class="item-title__link">R15 V4 <i class="fa fa-bluetooth"></i></span>
-                  </h3>
-               </a>
-            </div>
-            <div class="item">
-               <a class="item-link" href="/yamaha-r15s.html">
-                  <img decoding="async" class="owl-lazy no-loader" data-src="/theme/v3/image/home/r15s.png"
-                     alt="R15M" />
-                  <h3 class="item-title">
-                     <span class="item-title__link">R15S</span>
-                  </h3>
-               </a>
-            </div>
-            
-            <div class="item">
-               <a class="item-link" href="/yamaha-mt-15-ver2.0.html">
-                  <img decoding="async" class="owl-lazy no-loader" data-src="/theme/v3/image/home/mt15-v2.png"
-                     alt="MT 15" />
-                  <h3 class="item-title">
-                     <span class="item-title__link">MT-15 Ver 2.0 <i class="fa fa-bluetooth"></i></span>
-                  </h3>
-               </a>
-            </div>
-            <!-- <div class="item">
-               <a class="item-link" href="/yamaha-mt-15.html">
-                  <img decoding="async" class="owl-lazy no-loader" data-src="/theme/v3/image/home/mt15bs6.png" alt="MT 15" />
-                  <h3 class="item-title">
-                     <span class="item-title__link">MT-15</span>
-                  </h3>
-               </a>
-            </div> -->
-
-            <div class="item">
-               <a class="item-link" href="/yamaha-fzx.html">
-                  <img decoding="async" class="owl-lazy no-loader" data-src="/theme/v3/image/home/fz-x.png"
-                     alt="fz-x" />
-                  <h3 class="item-title">
-                     <span class="item-title__link">FZ-X <i class="fa fa-bluetooth" aria-hidden="true"></i></span>
-                  </h3>
-               </a>
-            </div>
-
-            <div class="item">
-               <a class="item-link" href="/yamaha-fz25.html">
-                  <img decoding="async" class="owl-lazy no-loader" data-src="/theme/v3/image/home/fz-25.png"
-                     alt="FZ-25" />
-                  <h3 class="item-title">
-                     <span class="item-title__link">FZ-25</span>
-                  </h3>
-               </a>
-            </div>
-
-            <div class="item">
-               <a class="item-link" href="/yamaha-fz-fi.html">
-                  <img decoding="async" class="owl-lazy no-loader" data-src="/theme/v3/image/home/fz-fi-new.png"
-                     alt="FZ-FI-New" />
-                  <h3 class="item-title">
-                     <span class="item-title__link">FZ-FI</span>
-                  </h3>
-               </a>
-            </div>
-         </div>
-         <div class="text-center">
-            <a class="btn btn-secondary btn-arrow box-shadow" href="/yamaha-bikes.html">EXPLORE MORE</a>
-         </div>
-      </div>
-   </section>
-   <!-- End Bike Banner  -->
-   <!-- Start Scooters Banner  -->
-   <!-- Start Scooters Banner  -->
-   <section class="block block--gray bg-scooters section-height">
-      <div class="block__container">
-         <h1 class="block__heading">SCOOTERS</h1>
-         <div id="scootersCarousel" class="owl-carousel my-4 my-md-5">
-            <div class="item">
-               <a class="item-link" href="/yamaha-aerox.html">
-                  <img decoding="async" class="owl-lazy no-loader" data-src="/theme/v3/image/home/aerox.png"
-                     alt="aerox" />
-                  <h3 class="item-title">
-                     <span class="item-title__link">Aerox 155 <i class="fa fa-bluetooth" aria-hidden="true"></i></span>
-                  </h3>
-               </a>
-            </div>
-            <div class="item">
-               <a class="item-link" href="/yamaha-fascino125fi-new.html">
-                  <img decoding="async" class="owl-lazy no-loader"
-                     data-src="/theme/v3/image/home/fascino-125-fi-BT-Blue.png" alt="RayZR 125 Fi" />
-                  <h3 class="item-title">
-                     <span class="item-title__link">Fascino 125 Fi <i class="fa fa-bluetooth"
-                           aria-hidden="true"></i></span>
-                  </h3>
-               </a>
-            </div>
-            <div class="item">
-               <a class="item-link" href="/yamaha-ray-zr125fihybrid.html">
-                  <img decoding="async" class="owl-lazy no-loader"
-                     data-src="/theme/v3/image/home/Rayzr-Hybrid.png" alt="RayZR 125 Fi" />
-                  <h3 class="item-title">
-                     <span class="item-title__link">RayZR 125 Fi <i class="fa fa-bluetooth"
-                           aria-hidden="true"></i></span>
-                  </h3>
-               </a>
-            </div>
-            <div class="item">
-               <a class="item-link" href="/yamaha-ray-zrstreetrally125fihybrid.html">
-                  <img decoding="async" class="owl-lazy no-loader"
-                     data-src="/theme/v3/image/home/street-rally-125fi-Hybrid.png" alt="RayZR 125 Fi" />
-                  <h3 class="item-title">
-                     <span class="item-title__link">RayZR Street Rally 125 Fi <i class="fa fa-bluetooth"
-                           aria-hidden="true"></i></span>
-                  </h3>
-               </a>
-            </div>
-         </div>
-         <div class="text-center">
-            <a class="btn btn-primary btn-arrow" href="/yamaha-scooters.html">EXPLORE MORE</a>
-         </div>
-      </div>
-   </section>
-   <!-- End Scooters Banner  -->
-   <!-- Start What'New/ About Us Banner  -->
-   <section class="block block--blue-dark bg-whatsapp" id="whatsnew">
-      <div class="container">
-         <h1 class="block__heading">WHAT'S NEW?</h1>
-         <div>
-            <div class="row my-5">
-               
-               <div class="col-md-3 item">
-
-                  <a class="item-link" href="/news-yamaha-opens-new-bsq-premium-outlet-in-kolkata.html">
-
-                     <span class="item-img">
-
-                        <img decoding="async" class="img-fluid"
-                           src="/theme/v3/image/whatsnew/bsq-premium-outlet-in-kolkata-sp.jpg"
-                           alt="Yamaha Opens New &lsquo;Blue Square&rsquo; Premium Outlet in Kolkata" />
-
-                     </span>
-
-                     <h3 class="item-title"><span>Yamaha Opens New &lsquo;Blue Square&rsquo; Premium Outlet in Kolkata</span></h3>
-
-                  </a>
-
-               </div>
-
-               
-               <div class="col-md-3 item">
-
-                  <a class="item-link" href="/news-yamaha-opens-first-bsq-premium-outlet-in-ranchi.html">
-
-                     <span class="item-img">
-
-                        <img decoding="async" class="img-fluid"
-                           src="/theme/v3/image/whatsnew/bsq-premium-outlet-in-ranchi-sp.jpg"
-                           alt="Yamaha Opens First Premium &lsquo;Blue Square&rsquo; Outlet in Ranchi" />
-
-                     </span>
-
-                     <h3 class="item-title"><span>Yamaha Opens First Premium &lsquo;Blue Square&rsquo; Outlet in Ranchi</span></h3>
-
-                  </a>
-
-               </div>
-
-               
-               <div class="col-md-3 item">
-
-                  <a class="item-link" href="/news-monster-energy-yamaha-moto-gp-edition-2022.html">
-
-                     <span class="item-img">
-
-                        <img decoding="async" class="img-fluid"
-                           src="/theme/v3/image/whatsnew/yamaha-moto-gp-edition-2022-sp.jpg"
-                           alt="Yamaha Introduces 2022 Monster Energy Yamaha Moto GP Edition Line-up" />
-
-                     </span>
-
-                     <h3 class="item-title"><span>Yamaha Introduces 2022 Monster Energy Yamaha Moto GP Edition Line-up</span></h3>
-
-                  </a>
-
-               </div>
-
-               
-               <div class="col-md-3 item">
-
-                  <a class="item-link" href="/news-quartararo-reigns-victorious.html">
-
-                     <span class="item-img">
-
-                        <img decoding="async" class="img-fluid"
-                           src="/theme/v3/image/whatsnew/quartararo-reigns-victorious-sp.jpg"
-                           alt="Quartararo Reigns Victorious at the Gran Premi Monster Energy De Catalunya" />
-
-                     </span>
-
-                     <h3 class="item-title"><span>Quartararo Reigns Victorious at the Gran Premi Monster Energy De Catalunya</span></h3>
-
-                  </a>
-
-               </div>
-
-               
-            </div>
-         </div>
-         <div class="text-center">
-            <a class="btn btn-dark btn-arrow box-shadow-lg" href="/yamaha-whatsnew.html">READ MORE</a>
-         </div>
-      </div>
-   </section>
-   
-   <section class="block block--blue-dark bg-about pt-5">
-      <div class="container">
-         <h1 class="block__heading">ABOUT US</h1>
-         <div class="my-4 my-md-5 pt-5 text-center">
-            <img decoding="async" class="img-fluid lazy" src="/theme/v3/image/common/place-holder.png"
-               data-src="/theme/v3/image/home/about-us.png" alt="About Us" />
-         </div>
-         <p class="text-center text-30">Excitement wrapped around the roar of the exhaust note.<br>A stylish model that
-            makes your heart skip a beat.<br>So that we can deliver an experience unique to Yamaha.<br>So that our voice
-            can reach you.<br>Exceeding our limits. The Call Of
-            The Blue.
-         </p>
-         <div class="text-center my-5">
-            <a class="btn btn-light btn-arrow box-shadow" href="/thecalloftheblue-campaign.html">EXPLORE
-               MORE</a>
-         </div>
-         <ul class="list-more py-sm-3 py-md-4 py-lg-5 mb-sm-3 mb-md-4 mb-lg-5">
-            <li class="list-more__item">
-               <a class="list-more__link" href="/aboutus-manufacturing.html">
-                  Yamaha's Manufacturing
-               </a>
-            </li>
-            <li class="list-more__item">
-               <a class="list-more__link" href="/about-foundinghistory.html">
-                  Founding History
-               </a>
-            </li>
-            <li class="list-more__item">
-               <a class="list-more__link" href="/racing-index.html">
-                  Racing
-               </a>
-            </li>
-            <li class="list-more__item">
-               <a class="list-more__link" href="/events-home.html">
-                  Events
-               </a>
-            </li>
-         </ul>
-      </div>
-   </section>
-   <!-- End What'New/ About Us Banner  -->
-   <section class="block pb-recomm pb-5">
-      <div class="container block__container">
-         <div id="dealer-locator" class="mb-5">
-            <h2 class="block__heading text-uppercase">Connected APP For<br />The Connected Rider</h2>
-         </div>
-         <div class="row align-items-center justify-content-center mt-5">
-            <div class="col-md-4 text-center">
-               <img decoding="async" src="/theme/v3/image/home/connect-x/YMC-logo.png"
-                  class="img-fluid mt-3 w-75" alt="" />
-            </div>
-            <div class="col-md-4 text-center">
-               <img decoding="async" src="/theme/v3/image/home/connect-x/YMCX-logo.png"
-                  class="img-fluid mt-3 w-75" alt="" />
-            </div>
-         </div>
-         <div class="text-center my-5">
-            <a class="btn btn-dark btn-arrow box-shadow-lg" href="/bluetooth-connect.html">EXPLORE
-               MORE</a>
-         </div>
-         <div class="spacer-8"></div>
-      </div>
-   </section>
-   <!-- Start Media -->
-   <section class="block block--blue-deep pb-0">
-      <div class="container">
-         <h1 class="block__heading">MEDIA</h1>
-         <h2 class="block__title pt-4 pt-md-5 mt-4 mt-md-5">YAMAHA News</h2>
-         <!-- Start News -->
-         <ul class="list-news">
-                        <li class="list-news__item">
-               <div class="row no-gutters">
-                  <div class="col-4 col-sm-3 col-lg-2 text-center">
-                     <span class="list-news__info">20 Sep, 2022</span>
-                  </div>
-                  <div class="col-8 col-sm-9 col-lg-10">
-                     <a class="list-news__link" href="/news-yamaha-opens-new-bsq-premium-outlet-in-kolkata.html">
-                        Yamaha Opens New &lsquo;Blue Square&rsquo; Premium Outlet in Kolkata
-                     </a>
-                  </div>
-               </div>
-            </li>
-                        <li class="list-news__item">
-               <div class="row no-gutters">
-                  <div class="col-4 col-sm-3 col-lg-2 text-center">
-                     <span class="list-news__info">19 Sep, 2022</span>
-                  </div>
-                  <div class="col-8 col-sm-9 col-lg-10">
-                     <a class="list-news__link" href="/news-yamaha-opens-first-bsq-premium-outlet-in-ranchi.html">
-                        Yamaha Opens First Premium &lsquo;Blue Square&rsquo; Outlet in Ranchi
-                     </a>
-                  </div>
-               </div>
-            </li>
-                        <li class="list-news__item">
-               <div class="row no-gutters">
-                  <div class="col-4 col-sm-3 col-lg-2 text-center">
-                     <span class="list-news__info">21 Aug, 2022</span>
-                  </div>
-                  <div class="col-8 col-sm-9 col-lg-10">
-                     <a class="list-news__link" href="/news-yamaha-celebrates-madras-day-with-save-the-blue-ocean-ride.html">
-                        Yamaha Celebrates Madras Day with &lsquo;Save the Blue Ocean&rsquo; Ride
-                     </a>
-                  </div>
-               </div>
-            </li>
-                     </ul>
-         <div class="text-center my-5">
-            <a class="btn btn-light btn-arrow box-shadow" href="/news-latest.html">EXPLORE MORE</a>
-         </div>
-         <!-- End News -->
-         <div class="spacer-8 spacer-sm-4 spacer-xs-2"></div>
-      </div>
-   </section>
-   <section class="block pb-recomm pb-5">
-      <div class="container block__container">
-         <div id="dealer-locator" class="mb-4">
-            <h2 class="block__heading">Announcement</h2>
-         </div>
-         <ul class="list-news mb-5">
-            <li class="list-news__item border-0">
-               <div class="row no-gutters">
-                  <div class="col-12 col-sm-12 col-lg-12 text-center">
-                     <a class="font-xl font-weight-bold text-dark"
-                        href="/yamaha-announcement-beware-of-fake-facebook-account.html">Caution! Beware
-                        of Fake Facebook Account Pretending to be Yamaha Motor Executive</a>
-                  </div>
-                  <div class="spacer-8"></div>
-               </div>
-            </li>
-         </ul>
-      </div>
-   </section>
-   <!-- Start Video -->
-   <section class="block  block--blue-deep pb-0">
-      <h2 class="block__title">Video</h2>
-      <div id="videoCarousel" class="owl-carousel">
-                  <div class="item">
-            <a class="item-link videoUrl" href="https://www.youtube.com/embed/2q3DyRpDkzg"
-               data-toggle="modal" data-target="#videoModal">
-               <span class="item-img">
-                  <img decoding="async" src="/theme/v3/image/video/products/MT15_movie_thumb.jpg"
-                     alt="A new adventure. Every day!" />
-               </span>
-               <span class="item-title">
-                  <span class="item-play"></span>
-               </span>
-            </a>
-            <p class="video-title">Introducing MT-15 Version 2.0
-Unleash Your Dark</p>
-         </div>
-                  <div class="item">
-            <a class="item-link videoUrl" href="https://www.youtube.com/embed/h9-HUUNp2lI"
-               data-toggle="modal" data-target="#videoModal">
-               <span class="item-img">
-                  <img decoding="async" src="/theme/v3/image/video/products/R15V4tvc.jpg"
-                     alt="A new adventure. Every day!" />
-               </span>
-               <span class="item-title">
-                  <span class="item-play"></span>
-               </span>
-            </a>
-            <p class="video-title">Yamaha R15M/R15 V4</p>
-         </div>
-                  <div class="item">
-            <a class="item-link videoUrl" href="https://www.youtube.com/embed/L5nTrRyhsJI"
-               data-toggle="modal" data-target="#videoModal">
-               <span class="item-img">
-                  <img decoding="async" src="/theme/v3/image/video/products/FZ-S-FI-TVC.jpg"
-                     alt="A new adventure. Every day!" />
-               </span>
-               <span class="item-title">
-                  <span class="item-play"></span>
-               </span>
-            </a>
-            <p class="video-title">Yamaha FZ-S FI</p>
-         </div>
-               </div>
-      <div class="text-center my-5">
-         <a class="btn btn-light btn-arrow box-shadow" href="/video-home.html">EXPLORE MORE</a>
-      </div>
-      <div class="spacer-8 spacer-sm-4 spacer-xs-2"></div>
-   </section>
-   <!-- End Video -->
-   <section class="block no-before block--blue-deep">
-      <div class="box__outer">
-         <div class="container">
-            <!-- Start Brochure -->
-            <h2 class="block__title">Brochure</h2>
-            <div class="box__wrap">
-               <a class="box box--max" href="/downloads-brochure.html">
-                  <img decoding="async" class="box__img lazy" src="/theme/v3/image/common/place-holder.png"
-                     data-src="/theme/v3/image/home/brochure01.png?v=2" alt="Brochure">
-               </a>
-               <a class="btn btn-primary btn-arrow box__btn" href="/downloads-brochure.html">DOWNLOAD
-                  NOW</a>
-            </div>
-            <div class="spacer-8"></div>
-            <!-- End Brochure -->
-         </div>
-      </div>
-   </section>
-   <!-- End Media -->
-</div>
-
-	          <!-- Start Footer -->
-<footer class="footer">
-    <!--page top button not required-->
-    <span id="scroolTop" class="footer__top"> <svg
-			viewBox="0 0 490.523 490.523" class="svg" aria-hidden="true">
-                <use class="svg" xlink:href="#svg-arrow-up"></use>
-            </svg> Page Top
-	</span>
-    <div class="container">
-        <div class="row">
-            <div class="col-6 col-md-4 col-lg-3">
-                <h4 class="footer__title"><a href="/two-wheeler.html">Products</a></h4>
-                <ul class="list">
-                    <li class="list__item d-none"><a class="list__link" href="/yamaha-superbikes.html">Super Bikes</a>
-                    </li>
-                    <li class="list__item"><a class="list__link" href="/yamaha-bikes.html">Bikes</a>
-                    </li>
-                    <li class="list__item"><a class="list__link" href="/yamaha-scooters.html">Scooters</a>
-                    </li>
-                </ul>
-            </div>
-            <div class="col-6 col-md-4 col-lg-3">
-                <h4 class="footer__title"><a href="/dealer-network.html">Dealer Network </a></h4>
-                <ul class="list">
-                    <li class="list__item"><a class="list__link" href="/yamaha-dealers.html">Dealer Locator</a>
-                    </li>
-                    <li class="list__item"><a class="list__link" href="/yamaha-virtualstore.html">Virtual Store</a>
-                    </li>
-                    <li class="list__item"><a class="list__link" href="/yamaha-bluesquare.html">Blue Square</a>
-                    </li>
-                </ul>
-            </div>
-            <div class="col-6 col-md-4 col-lg-3">
-                <h4 class="footer__title"><a href="/yamaha-buyersguide.html">Buyer's Guide</a></h4>
-                <ul class="list">
-                    <li class="list__item"><a class="list__link" href="/yamaha-model-comparison.html">Model Comparison</a>
-                    </li>
-                    <li class="list__item"><a class="list__link" href="/yamaha-gettingstarted.html">Getting Started</a>
-                    </li>
-                    <li class="list__item"><a class="list__link" href="/downloads-brochure.html">Download a Brochure</a>
-                    </li>
-                </ul>
-            </div>
-            <div class="col-6 col-md-4 col-lg-3">
-                <h4 class="footer__title"><a href="/service-home.html">Service</a></h4>
-                <ul class="list">
-                    <li class="list__item"><a class="list__link" href="/service-schedule.html">Maintenance</a>
-                    </li>
-                    <li class="list__item"><a class="list__link" href="/extended-warranty.html">Extended Warranty</a>
-                    </li>
-                    <li class="list__item"><a class="list__link" href="/service-rsa-skill.html">Skill Development</a>
-                    </li>
-                    <li class="list__item"><a class="list__link" href="/service-campaign.html">Service Campaign</a>
-                    </li>
-                    <li class="list__item"><a class="list__link" href="/service-customereducation.html">Customer Education Video</a></li>
                     
-                </ul>
-            </div>
-            <div class="col-6 col-md-4 col-lg-3">
-                <h4 class="footer__title"><a href="/parts-ygparts.html">Parts</a></h4>
-                <ul class="list">
-                    <li class="list__item"><a class="list__link" href="/parts-fast-moving.html">Consumable Parts</a>
-                    </li>
-                    <li class="list__item"><a class="list__link" href="/parts-yamalube.html">Yamalube</a>
-                    </li>
-                    <li class="list__item"><a class="list__link" href="/parts-helmet.html">Helmet</a>
-                    </li>
-                </ul>
-            </div>
-            <div class="col-6 col-md-4 col-lg-3">
-                <h4 class="footer__title"><a class="list__link" href="/events-home.html">Events</a></h4>
-                <ul class="list">
-                    <li class="list__item"><a class="list__link" href="/thecalloftheblue-campaign.html">The Call of the Blue</a></li>
-                    <li class="list__item"><a class="list__link" href="/trackday-campaign.html">The Call of the Blue Track Day</a></li>
-                    <li class="list__item"><a class="list__link" href="/thecalloftheblue-weekend.html">The Call of the Blue Weekend</a></li>
-                    <li class="list__item"><a class="list__link" href="/bluestreak-campaign.html">Blue Streaks</a>
-                    </li>
-                    <li class="list__item"><a class="list__link" href="/zippy-callofthebluefiesta.html">The Call of the Blue Fiesta</a></li>
-                </ul>
-            </div>
-            <div class="col-6 col-md-4 col-lg-3">
-                <h4 class="footer__title"><a>Media</a></h4>
-                <ul class="list">
-                    <li class="list__item"><a class="list__link" href="/yamaha-whatsnew.html">What's New?</a>
-                    </li>
-                    <li class="list__item"><a class="list__link" href="/news-latest.html">Yamaha News</a></li>
-                    <li class="list__item"><a class="list__link" href="/video-home.html">Videos</a>
-                    </li>
-                </ul>
-                <h4 class="footer__title mt-0"><a href="/presskit-index.html">Press Kit</a></h4>
-                <ul class="list">
-                    <li class="list__item"><a class="list__link" href="/presskit-images.html">Images</a>
-                    </li>
-                </ul>
-            </div>
-            <div class="col-6 col-md-4 col-lg-3">
-                <h4 class="footer__title"><a href="/about-yamaha.html">About Us</a></h4>
-                <ul class="list">
-                    <li class="list__item"><a class="list__link" href="/about-companyprofile.html">Company Profile</a></li>
-                    <li class="list__item"><a class="list__link" href="/corporate-governance.html">Corporate Governance</a>
-                    </li>
-                    <li class="list__item"><a class="list__link" href="/awards-index.html">Awards</a>
-                    </li>
-                    <li class="list__item"><a class="list__link" href="/about-foundinghistory.html">Founding
-							History</a></li>
-                    <li class="list__item"><a class="list__link" href="/about-manufacturingprocess.html">Manufacturing
-                            Process</a></li>
-                    <li class="list__item"><a class="list__link" href="/racing-index.html">Racing</a>
-                    </li>
-                    <li class="list__item"><a class="list__link" href="/aboutus-manufacturing.html">Yamaha's Manufacturing</a></li>
-                    <!-- <li class="list__item"><a class="list__link" href="policy-antibribery.html" >Anti-Bribery Policy</a></li> -->
-                </ul>
-            </div>
-            <div class="col-6 col-md-4 col-lg-3">
-                <h4 class="footer__title"><a href="/contact-us.html">Contact Us</a></h4>
-                <ul class="list">
-                    <li class="list__item"><a class="list__link" href="/yamaha-productenquiry.html">Products Enquiry</a>
-                    </li>
-                    <li class="list__item"><a class="list__link" href="/contact-feedback.html">Personal Enquiry</a>
-                    </li>
-                    <li class="list__item"><a class="list__link" href="/contact-salesenquiry.html">Corporate Enquiry</a>
-                    </li>
-                </ul>
-            </div>
-            <div class="col-6 col-md-4 col-lg-3">
-                <h4 class="footer__title"><a href="/contact-businesspartner.html">Become a Yamaha Dealer</a></h4>
-            </div>
-            <!-- <div class="col-6 col-md-4 col-lg-3">
-                <h4 class="footer__title"><a href="http://www.bafindia.com/">BAF India</a></h4>
-            </div> -->
-            <div class="col-6 col-md-4 col-lg-3">
-                <h4 class="footer__title"><a href="/career-home.html">Rev your Career</a></h4>
-                <ul class="list">
-                    <li class="list__item"><a class="list__link" href="/career-index.html">About HR</a></li>
-                    <li class="list__item"><a class="list__link" href="/career-whyjoinyamaha.html">Why Join Yamaha</a>
-                    </li>
-                    <li class="list__item"><a class="list__link" href="/career-functions.html">Yamaha Functions</a>
-                    </li>
-                    <li class="list__item"><a class="list__link" href="/career-currentopenings.html">Current Openings</a></li>
-                    <li class="list__item"><a class="list__link" href="/career-campusrecruitment.html">Campus Recruitment</a></li>
-                    <li class="list__item"><a class="list__link" href="/career-disclaimer.html">Job Disclaimer</a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-        <div class="contact">
-            <h4 class="footer__title text-md-center mb-4">Contact Us</h4>
-            <ul class="contact__list">
-                <li class="contact__item">
-                    <a class="contact__link" href="tel:1800 420 1600">
-                        <svg viewBox="0 0 58 58" class="svg contact__icon" aria-hidden="true">
-                            <use class="sv-icon" xlink:href="#svg-phone"></use>
-                        </svg> <span class="contact__info">Toll Free</span> 1800 420 1600 <span class="contact__arrow"></span>
-                    </a>
                 </li>
-                <li class="contact__item">
-                    <a id="whatsapp-url" class="contact__link" href="" target="_blank" data-action="share/whatsapp/share">
-                        <svg viewBox="0 0 512 512" class="svg contact__icon" aria-hidden="true">
-                            <use class="sv-icon"
-								xlink:href="#svg-whatsapp"></use>
-                        </svg> <span class="contact__info">Share via </span> WhatsAPP <span class="contact__arrow"></span>
+            
+                <li>
+                    <a title="Service" class="navigationAnalytics" href="https://www.royalenfield.com/in/en/service">
+                        Service
+                        
                     </a>
+                    
                 </li>
-                <li class="contact__item">
-                    <a class="contact__link" href="mailto:yes@yamaha-motor-india.com">
-                        <svg viewBox="0 0 477.867 477.867" class="svg contact__icon" aria-hidden="true">
-                            <use class="sv-icon" xlink:href="#svg-email"></use>
-                        </svg> <span class="d-block mt-2 pt-1">Send A
-							Mail</span> <span class="contact__arrow"></span>
+            
+                <li>
+                    <a title="Locate us" class="navigationAnalytics" href="/in/en/locate-us.html">
+                        Locate us
+                        
                     </a>
+                    
+                </li>
+            
+                <li>
+                    <a title="Rides" class="navigationAnalytics" href="/in/en/rides.html">
+                        Rides
+                        
+                    </a>
+                    
+                </li>
+            
+                <li>
+                    <a title="Accessories" class="navigationAnalytics" href="/in/en/gma.html">
+                        Accessories
+                        
+                    </a>
+                    
+                </li>
+            
+                <li>
+                    <a title="Apparel" class="navigationAnalytics" href="/in/en/apparel.html">
+                        Apparel
+                        
+                    </a>
+                    
+                </li>
+            
+                <li>
+                    <a title="Our World" class="navigationAnalytics" href="/in/en/our-world.html">
+                        Our World
+                        
+                    </a>
+                    
+                </li>
+            
+                <li>
+                    <a title="Support" class="navigationAnalytics" href="/in/en/support.html">
+                        Support
+                        
+                    </a>
+                    
                 </li>
             </ul>
-        </div>
-        <div class="social">
-            <h5 class="footer__subtitle">STAY IN TOUCH</h5>
-            <ul class="social__list">
-                <li class="social__item">
-                    <a class="social__link" href="https://www.facebook.com/yamahamotorindia/">
-                        <svg viewBox="0 0 512 512" class="svg social__icon" aria-hidden="true">
-                                <use class="sv-icon"
-								xlink:href="#svg-facebook"></use>
-                            </svg>
-                    </a>
-                </li>
-                <li class="social__item">
-                    <a class="social__link" href="https://twitter.com/India_Yamaha">
-                        <svg viewBox="0 0 512 512" class="svg social__icon" aria-hidden="true">
-                                <use class="sv-icon"
-								xlink:href="#svg-twitter"></use>
-                            </svg>
-                    </a>
-                </li>
-                <li class="social__item">
-                    <a class="social__link" href="https://www.instagram.com/yamahamotorindia/">
-                        <svg viewBox="0 0 512 512" class="svg social__icon" aria-hidden="true">
-                                <use class="sv-icon"
-								xlink:href="#svg-instagram"></use>
-                            </svg>
-                    </a>
-                </li>
-                <li class="social__item">
-                    <a class="social__link" href="https://www.youtube.com/user/YAMAHAINDIA1">
-                        <svg viewBox="0 0 512 512" class="svg social__icon" aria-hidden="true">
-                                <use class="sv-icon"
-								xlink:href="#svg-youtube"></use>
-                            </svg>
-                    </a>
-                </li>
-            </ul>
-        </div>
-    </div>
-    <div class="copyright" id="footer-bottom">
-        <div class="container">
-            <div class="row no-gutters">
-                <div class="col-12 col-md-6 order-md-1 text-center text-md-right">
-                    <a class="copyright__link" href="/privacy-index.html">Privacy Policy</a>                    <span class="mx-2">|</span> <a class="copyright__link" href="/terms-index.html">Terms of Use</a>                    <span class="mx-2">|</span>
-                    <a class="copyright__link" href="/sitemap-index.html">Site Map</a>
-                </div>
-                <div class="col-12 col-md-6 order-md-0 text-center text-md-left mt-3 mt-md-0">
-                    <span class="copyright__info">Copyright &copy; India YAMAHA
-						Motor Pvt. Ltd. All rights reserved</span>
-                </div>
-            </div>
-        </div>
-    </div>
-</footer>
-<!-- End Footer -->
-<!-- Start SideInfo -->
-<div id="sideInfoBtn" class="side-info__toggle d-none d-xl-none">
-    <span class="side-info__toggle-btn">
-        <svg viewBox="0 0 28.621 28.621" class="svg svg-info" aria-hidden="true">
-            <use class="sv-icon" xlink:href="#svg-info"></use>
-        </svg>
-        <svg viewBox="0 0 512 512" class="svg svg-close" aria-hidden="true">
-            <use class="sv-icon" xlink:href="#svg-plus"></use>
-        </svg>
-    </span>
+			<div class="social-sticky-links-mobi"></div>
+		</div>
+     
+
+	        
+    
+
+	        
+ 
+
+	    </nav>
+	
+    
 </div>
-<div id="sideInfo" class="side-info is-active">
-    <ul class="side-info__list">
-        <li class="side-info__item mb-1">
-            <a href="/yamaha-productenquiry.html" class="side-info__link d-none d-md-block" data-toggle="tooltip" data-placement="left" title="ENQUIRE NOW">
-                <img src="/theme/v3/image/contact.png" class="flip-image">
-                <span class="side-info__text d-inline-block">ENQUIRE NOW</span>
-            </a> 
-            <a href="/yamaha-productenquiry.html" class="side-info__link  header__btn d-blue-color d-md-none" data-toggle="tooltip" data-placement="left" title="ENQUIRE NOW">
-                <img src="/theme/v3/image/contact.png" class="flip-image">
-                <span class="side-info__text d-inline-block">ENQUIRY</span>
-            </a>            
-        </li>
-        <li class="side-info__item d-md-none">
-            <a href="http://shop.yamaha-motor-india.com/?_ga=2.99127704.727021827.1634542815-629947805.1595072213" class="side-info__link header__btn l-blue-color" target="_blank" data-toggle="tooltip" data-placement="left" title="ENQUIRE NOW">
-            <svg viewBox="0 0 512 512" class="side-info__icon" aria-hidden="true">
-                <use class="sv-icon" xlink:href="#svg-cart"></use>
-            </svg>
-            <span class="side-info__text d-inline-block">BOOK NOW</span>
-            </a>            
-        </li>
-        <li class="side-info__item d-none">
-            <a class="header__btn l-blue-color" href="/yamaha-virtualstore.html"> <span class="nav__text">VIRTUAL STORE
-                </span>
-            </a>
-        </li>
-        <li class="side-info__item d-none">
-            <a class="header__btn d-blue-color" href="http://shop.yamaha-motor-india.com/"> <span class="nav__text"> BOOK NOW
-                </span>
-            </a>
-        </li>
-    </ul>
-</div>
-<!-- End SideInfo -->
-<!-- Start SVG Sprite -->
-<svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" class="d-none">
-    <defs>
-        <g id="svg-search" viewBox="0 0 515.558 515.558">
-            <path d="m378.344 332.78c25.37-34.645 40.545-77.2 40.545-123.333 0-115.484-93.961-209.445-209.445-209.445s-209.444 93.961-209.444 209.445 93.961 209.445 209.445 209.445c46.133 0 88.692-15.177 123.337-40.547l137.212 137.212 45.564-45.564c0-.001-137.214-137.213-137.214-137.213zm-168.899 21.667c-79.958 0-145-65.042-145-145s65.042-145 145-145 145 65.042 145 145-65.043 145-145 145z"/>
-        </g>
-        <g id="svg-360" viewBox="0 0 400.000000 284.000000" transform="translate(0.000000,284.000000) scale(0.100000,-0.100000)">
-            <path d="M1779 2810 c-816 -57 -1478 -396 -1705 -873 -103 -217 -100 -483 6 -704 193 -397 730 -717 1388 -824 59 -10 71 -15 68 -28 -54 -181 -88 -313 -83 -317 3 -4 126 62 272 145 220 125 273 151 308 152 38 1 39 2 12 8 -29 6 -28 7 42 46 40 22 73 45 73 50 0 13 -458 471 -464 465 -2 -3 -21 -63 -41 -135 -21 -71 -41 -134 -45 -138 -4 -5 -70 3 -146 17 -315 58 -585 160 -800 304 -388 260 -507 595 -322 910 44 76 215 247 308 309 639 427 1730 483 2470 127 520 -250 734 -625 558 -979 -158 -320 -628 -588 -1194 -681 -98 -16 -105 -19 -101 -38 3 -12 11 -69 18 -128 l12 -107 26 5 c14 2 69 11 121 20 502 82 968 313 1211 601 386 454 273 1018 -277 1393 -293 200 -684 334 -1118 385 -162 18 -442 25 -597 15z"/>
-            <path d="M2899 2202 c-76 -39 -113 -101 -113 -185 1 -130 86 -217 214 -217 128 0 214 88 214 217 0 51 -6 70 -30 110 -37 60 -114 103 -184 103 -33 0 -64 -9 -101 -28z m159 -135 c49 -45 11 -137 -58 -137 -69 0 -107 92 -57 137 41 38 73 38 115 0z"/>
-            <path d="M1856 1985 c-49 -17 -93 -59 -117 -110 -16 -35 -19 -68 -19 -286 0 -267 5 -299 56 -366 41 -54 97 -77 184 -77 91 0 155 25 194 77 53 69 71 204 41 304 -34 115 -103 166 -215 160 -36 -1 -73 -7 -82 -11 -16 -7 -18 -1 -18 63 0 63 3 75 25 96 49 50 121 22 132 -50 3 -22 11 -43 17 -47 21 -14 123 -9 136 7 15 18 6 104 -15 144 -19 38 -64 78 -107 95 -46 20 -159 20 -212 1z m139 -435 c33 -13 55 -64 55 -130 0 -122 -73 -179 -142 -110 -29 30 -30 32 -27 116 4 79 6 87 32 110 31 27 43 29 82 14z"/>
-            <path d="M2404 1981 c-53 -24 -109 -91 -123 -146 -14 -57 -15 -487 0 -539 16 -56 80 -122 141 -142 115 -38 258 0 313 84 41 63 47 111 43 368 l-3 241 -30 48 c-45 73 -112 105 -219 105 -57 0 -93 -6 -122 -19z m154 -122 c59 -20 62 -34 62 -289 l0 -232 -29 -29 c-40 -39 -97 -41 -135 -3 -14 15 -26 38 -26 53 -3 205 3 436 12 456 6 13 25 31 42 39 37 19 36 19 74 5z"/>
-            <path d="M1180 1925 l0 -64 135 -3 135 -3 -85 -95 c-47 -52 -85 -99 -85 -104 0 -4 14 -26 31 -48 31 -39 33 -39 80 -33 43 6 51 4 73 -18 29 -29 41 -95 33 -169 -8 -60 -28 -95 -62 -104 -60 -15 -100 19 -113 97 l-8 44 -74 0 -75 0 1 -51 c4 -134 76 -215 207 -230 121 -14 218 39 256 142 31 81 29 211 -3 280 -25 53 -63 90 -103 100 -12 4 -23 8 -23 11 0 2 34 43 75 91 l75 87 0 67 0 68 -235 0 -235 0 0 -65z"/>
-        </g> 
-        <g id="svg-cart" viewBox="0 0 512.008 512.008">
-            <path d="M508.764,74.466c-2.803-3.503-7.046-5.542-11.533-5.542H104.152L93.16,21.294c-1.547-6.701-7.514-11.448-14.391-11.448    h-64C6.613,9.846,0,16.459,0,24.616s6.613,14.769,14.769,14.769H67.02l74.612,323.321c1.546,6.701,7.514,11.448,14.391,11.448    h295.915c8.157,0,14.769-6.613,14.769-14.769c0-8.157-6.613-14.769-14.769-14.769H167.773l-11.36-49.231h296.511    c6.908,0,12.893-4.788,14.409-11.527L511.64,86.935C512.625,82.557,511.567,77.97,508.764,74.466z M441.108,265.846H149.596    L110.969,98.462h367.8L441.108,265.846z"/>
-            <path d="M216.615,393.846c-29.86,0-54.154,24.293-54.154,54.154s24.293,54.154,54.154,54.154c29.86,0,54.154-24.293,54.154-54.154    S246.476,393.846,216.615,393.846z M216.615,472.616C203.042,472.616,192,461.573,192,448s11.042-24.615,24.615-24.615    c13.573,0,24.615,11.042,24.615,24.615S230.188,472.616,216.615,472.616z"/>
-            <path d="M393.846,393.846c-29.86,0-54.154,24.293-54.154,54.154s24.293,54.154,54.154,54.154c29.86,0,54.154-24.293,54.154-54.154    S423.707,393.846,393.846,393.846z M393.846,472.616c-13.573,0-24.615-11.042-24.615-24.615s11.042-24.615,24.615-24.615    c13.573,0,24.615,11.042,24.615,24.615S407.419,472.616,393.846,472.616z"/>
-        </g>
-        <g id="svg-cart-fill" viewBox="0 0 512 512">
-            <path d="M508.288,85.764c-3.04-3.648-7.552-5.76-12.288-5.76H119.936l-13.92-52.128c-1.856-7.008-8.192-11.872-15.456-11.872H16    c-8.832,0-16,7.168-16,16c0,8.832,7.168,16,16,16h62.272l13.76,51.552c0.032,0.192-0.032,0.384,0.032,0.608l51.2,191.36    c0,0.032,0.032,0.032,0.032,0.064l17.248,64.544c1.856,7.008,8.192,11.872,15.456,11.872h256c8.832,0,16-7.168,16-16    c0-8.832-7.168-16-16-16H188.288l-8.992-33.664L464.8,287.972c7.392-0.384,13.6-5.792,14.944-13.088l32-176    C512.608,94.18,511.328,89.38,508.288,85.764z M224,224.004c0,8.832-7.168,16-16,16c-8.832,0-16-7.168-16-16v-64    c0-8.832,7.168-16,16-16c8.832,0,16,7.168,16,16V224.004z M320,224.004c0,8.832-7.168,16-16,16c-8.832,0-16-7.168-16-16v-64    c0-8.832,7.168-16,16-16c8.832,0,16,7.168,16,16V224.004z M416,224.004c0,8.832-7.168,16-16,16c-8.832,0-16-7.168-16-16v-64    c0-8.832,7.168-16,16-16c8.832,0,16,7.168,16,16V224.004z"/>
-            <circle xmlns="http://www.w3.org/2000/svg" cx="208" cy="448.004" r="48"/>
-            <circle xmlns="http://www.w3.org/2000/svg" cx="400" cy="448.004" r="48"/>
-        </g>
-        <g id="svg-arrow-up" viewBox="0 0 490.523 490.523">
-            <path d="M487.411,355.047L252.744,120.38c-4.165-4.164-10.917-4.164-15.083,0L2.994,355.047  c-4.093,4.237-3.976,10.99,0.262,15.083c4.134,3.993,10.687,3.993,14.821,0l227.115-227.115l227.115,227.136  c4.237,4.093,10.99,3.976,15.083-0.261c3.993-4.134,3.993-10.688,0-14.821L487.411,355.047z"/>
-        </g>
-        <g id="svg-arrow-prev" viewBox="0 0 490.787 490.787">
-            <path d="M362.671,490.787c-2.831,0.005-5.548-1.115-7.552-3.115L120.452,253.006c-4.164-4.165-4.164-10.917,0-15.083L355.119,3.256  c4.093-4.237,10.845-4.354,15.083-0.262c4.237,4.093,4.354,10.845,0.262,15.083c-0.086,0.089-0.173,0.176-0.262,0.262  L143.087,245.454l227.136,227.115c4.171,4.16,4.179,10.914,0.019,15.085C368.236,489.664,365.511,490.792,362.671,490.787z"/>
-        </g>
-        <g id="svg-arrow-next" viewBox="0 0 490.8 490.8">
-            <path d="M128.133,490.68c-5.891,0.011-10.675-4.757-10.686-10.648c-0.005-2.84,1.123-5.565,3.134-7.571l227.136-227.115  L120.581,18.232c-4.171-4.171-4.171-10.933,0-15.104c4.171-4.171,10.933-4.171,15.104,0l234.667,234.667  c4.164,4.165,4.164,10.917,0,15.083L135.685,487.544C133.685,489.551,130.967,490.68,128.133,490.68z"/>
-        </g>
-        <g id="svg-phone" viewBox="0 0 58 58">
-            <path d="m25.017 33.983c-5.536-5.536-6.786-11.072-7.068-13.29-.0787994-.6132828.1322481-1.2283144.571-1.664l4.48-4.478c.6590136-.6586066.7759629-1.685024.282-2.475l-7.133-11.076c-.5464837-.87475134-1.6685624-1.19045777-2.591-.729l-11.451 5.393c-.74594117.367308-1.18469338 1.15985405-1.1 1.987.6 5.7 3.085 19.712 16.855 33.483s27.78 16.255 33.483 16.855c.827146.0846934 1.619692-.3540588 1.987-1.1l5.393-11.451c.4597307-.9204474.146114-2.0395184-.725-2.587l-11.076-7.131c-.7895259-.4944789-1.8158967-.3783642-2.475.28l-4.478 4.48c-.4356856.4387519-1.0507172.6497994-1.664.571-2.218-.282-7.754-1.532-13.29-7.068z"/>
-            <path d="m47 31c-1.1045695 0-2-.8954305-2-2-.0093685-8.2803876-6.7196124-14.9906315-15-15-1.1045695 0-2-.8954305-2-2s.8954305-2 2-2c10.4886126.0115735 18.9884265 8.5113874 19 19 0 1.1045695-.8954305 2-2 2z"/>
-            <path d="m57 31c-1.1045695 0-2-.8954305-2-2-.0154309-13.800722-11.199278-24.9845691-25-25-1.1045695 0-2-.8954305-2-2s.8954305-2 2-2c16.008947.01763587 28.9823641 12.991053 29 29 0 .530433-.2107137 1.0391408-.5857864 1.4142136-.3750728.3750727-.8837806.5857864-1.4142136.5857864z"/>
-        </g>
-        <g id="svg-whatsapp" viewBox="0 0 512 512">
-            <path d="M440.164,71.836C393.84,25.511,332.249,0,266.737,0S139.633,25.511,93.308,71.836S21.473,179.751,21.473,245.263    c0,41.499,10.505,82.279,30.445,118.402L0,512l148.333-51.917c36.124,19.938,76.904,30.444,118.403,30.444    c65.512,0,127.104-25.512,173.427-71.836C486.488,372.367,512,310.776,512,245.263S486.488,118.16,440.164,71.836z     M387.985,336.375L359.67,364.69c-23.456,23.456-90.011-5.066-148.652-63.708c-58.642-58.642-87.165-125.195-63.708-148.652    l28.314-28.314c5.864-5.864,15.372-5.864,21.236,0l35.393,35.393c5.864,5.864,5.864,15.372,0,21.236l-21.236,21.236    c20.599,43.487,55.615,78.502,99.102,99.101l21.236-21.236c5.864-5.864,15.372-5.864,21.236,0l35.393,35.393    C393.849,321.004,393.849,330.511,387.985,336.375z"/>
-        </g>
-        <g id="svg-email" viewBox="0 0 477.867 477.867">
-            <path d="M460.8,68.267H17.067l221.867,182.75L463.309,68.779C462.488,68.539,461.649,68.368,460.8,68.267z"/>
-            <path d="M249.702,286.31c-6.288,5.149-15.335,5.149-21.623,0L0,98.406v294.127c0,9.426,7.641,17.067,17.067,17.067H460.8    c9.426,0,17.067-7.641,17.067-17.067V100.932L249.702,286.31z"/>
-        </g>
-        <g id="svg-facebook" viewBox="0 0 512 512">
-            <path d="M288,176v-64c0-17.664,14.336-32,32-32h32V0h-64c-53.024,0-96,42.976-96,96v80h-64v80h64v256h96V256h64l32-80H288z"/>
-        </g>
-        <g id="svg-twitter" viewBox="0 0 512 512">
-            <path d="M512,97.248c-19.04,8.352-39.328,13.888-60.48,16.576c21.76-12.992,38.368-33.408,46.176-58.016    c-20.288,12.096-42.688,20.64-66.56,25.408C411.872,60.704,384.416,48,354.464,48c-58.112,0-104.896,47.168-104.896,104.992    c0,8.32,0.704,16.32,2.432,23.936c-87.264-4.256-164.48-46.08-216.352-109.792c-9.056,15.712-14.368,33.696-14.368,53.056    c0,36.352,18.72,68.576,46.624,87.232c-16.864-0.32-33.408-5.216-47.424-12.928c0,0.32,0,0.736,0,1.152    c0,51.008,36.384,93.376,84.096,103.136c-8.544,2.336-17.856,3.456-27.52,3.456c-6.72,0-13.504-0.384-19.872-1.792    c13.6,41.568,52.192,72.128,98.08,73.12c-35.712,27.936-81.056,44.768-130.144,44.768c-8.608,0-16.864-0.384-25.12-1.44    C46.496,446.88,101.6,464,161.024,464c193.152,0,298.752-160,298.752-298.688c0-4.64-0.16-9.12-0.384-13.568    C480.224,136.96,497.728,118.496,512,97.248z"/>
-        </g>
-        <g id="svg-instagram" viewBox="0 0 512 512">
-            <path d="M352,0H160C71.648,0,0,71.648,0,160v192c0,88.352,71.648,160,160,160h192c88.352,0,160-71.648,160-160V160    C512,71.648,440.352,0,352,0z M464,352c0,61.76-50.24,112-112,112H160c-61.76,0-112-50.24-112-112V160C48,98.24,98.24,48,160,48    h192c61.76,0,112,50.24,112,112V352z"/>
-            <path d="M256,128c-70.688,0-128,57.312-128,128s57.312,128,128,128s128-57.312,128-128S326.688,128,256,128z M256,336    c-44.096,0-80-35.904-80-80c0-44.128,35.904-80,80-80s80,35.872,80,80C336,300.096,300.096,336,256,336z"/>
-            <circle xmlns="http://www.w3.org/2000/svg" cx="393.6" cy="118.4" r="17.056"/>
-        </g>
-        <g id="svg-youtube" viewBox="0 0 512 512">
-            <path d="M490.24,113.92c-13.888-24.704-28.96-29.248-59.648-30.976C399.936,80.864,322.848,80,256.064,80    c-66.912,0-144.032,0.864-174.656,2.912c-30.624,1.76-45.728,6.272-59.744,31.008C7.36,138.592,0,181.088,0,255.904    C0,255.968,0,256,0,256c0,0.064,0,0.096,0,0.096v0.064c0,74.496,7.36,117.312,21.664,141.728    c14.016,24.704,29.088,29.184,59.712,31.264C112.032,430.944,189.152,432,256.064,432c66.784,0,143.872-1.056,174.56-2.816    c30.688-2.08,45.76-6.56,59.648-31.264C504.704,373.504,512,330.688,512,256.192c0,0,0-0.096,0-0.16c0,0,0-0.064,0-0.096    C512,181.088,504.704,138.592,490.24,113.92z M192,352V160l160,96L192,352z"/>
-        </g>
-        <g id="svg-plus" viewBox="0 0 512 512">
-            <path d="M492,236H276V20c0-11.046-8.954-20-20-20c-11.046,0-20,8.954-20,20v216H20c-11.046,0-20,8.954-20,20s8.954,20,20,20h216    v216c0,11.046,8.954,20,20,20s20-8.954,20-20V276h216c11.046,0,20-8.954,20-20C512,244.954,503.046,236,492,236z"/>
-        </g>
-        <g id="svg-info" viewBox="0 0 28.621 28.621">
-            <path d="M14.311,0c-6.904,0-12.5,5.596-12.5,12.5c0,4.723,2.618,8.828,6.48,10.955l-0.147,5.166l5.898-3.635   C14.131,24.988,14.22,25,14.311,25c6.904,0,12.5-5.596,12.5-12.5C26.811,5.596,21.215,0,14.311,0z M15.903,19.784h-3.203V9.474   h3.203V19.784z M14.28,8.211c-1.013,0-1.687-0.718-1.665-1.604c-0.021-0.927,0.652-1.624,1.686-1.624   c1.033,0,1.689,0.697,1.71,1.624C16.01,7.493,15.332,8.211,14.28,8.211z"/>
-        </g>
-        <g id="svg-placeholder" viewBox="-119 -21 682 682.66669">
-            <path d="m216.210938 0c-122.664063 0-222.460938 99.796875-222.460938 222.460938 0 154.175781 222.679688 417.539062 222.679688 417.539062s222.242187-270.945312 222.242187-417.539062c0-122.664063-99.792969-222.460938-222.460937-222.460938zm67.121093 287.597656c-18.507812 18.503906-42.8125 27.757813-67.121093 27.757813-24.304688 0-48.617188-9.253907-67.117188-27.757813-37.011719-37.007812-37.011719-97.226562 0-134.238281 17.921875-17.929687 41.761719-27.804687 67.117188-27.804687 25.355468 0 49.191406 9.878906 67.121093 27.804687 37.011719 37.011719 37.011719 97.230469 0 134.238281zm0 0"/>
-        </g>
-        <g id="svg-file" viewBox="0 0 60 60">
-            <path d="M38.914,0H6.5v60h47V14.586L38.914,0z M17.5,14h10c0.552,0,1,0.447,1,1s-0.448,1-1,1h-10c-0.552,0-1-0.447-1-1  S16.948,14,17.5,14z M42.5,48h-25c-0.552,0-1-0.447-1-1s0.448-1,1-1h25c0.552,0,1,0.447,1,1S43.052,48,42.5,48z M42.5,40h-25  c-0.552,0-1-0.447-1-1s0.448-1,1-1h25c0.552,0,1,0.447,1,1S43.052,40,42.5,40z M42.5,32h-25c-0.552,0-1-0.447-1-1s0.448-1,1-1h25  c0.552,0,1,0.447,1,1S43.052,32,42.5,32z M42.5,24h-25c-0.552,0-1-0.447-1-1s0.448-1,1-1h25c0.552,0,1,0.447,1,1S43.052,24,42.5,24z   M37.5,16V2l14,14H37.5z"/>
-        </g>
-    </defs>
-</svg>
-<!-- Modal Search-->
-<div class="modal fade" id="searchModal" role="dialog">
-    <div class="modal-dialog modal-md modal-dialog-centered">
-        <div class="modal-content">
-            <div class="modal-body">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-12">
-                            <form role="search" id="searchform" action="/site-search.html">
-                                <div class="site-container">
-                                    <input type="search" class="search__input" placeholder="Search Here..." oninput='search(this.value)' value="" onKeyDown='search(this.value)' autocomplete="off" name="q" type="search" id="searchTermsHead" name="searchTermsHead" list="searchTags" />
-                                    <datalist id="searchTags">
-                                        	<option value="FZS 25">FZS 25</option>
-                                        	<option value="FZ 25">FZ 25</option>
-                                            <option value="RayZR 125 Fi">RayZR 125 Fi</option>
-                                            <option value="RayZR Street Rally 125 Fi">RayZR Street Rally 125 Fi</option>
-                                            <option value="Fascino 125 Fi">Fascino 125 Fi</option>
-                                            <option value="FZSFI">FZSFI</option>
-                                            <option value="FZ FI">FZ FI</option>
-                                            <option value="YZF R15 v3">YZF R15 v3</option>
-                                            <option value="MT15">MT15 Ver 2.0</option>
-                                            <!-- <option value="MT09">MT09</option> -->
-                                            <option value="YZF R15 v3 Limited edition">YZF R15 v3 Limited edition</option>
-                                            <option value="Yamaha">Yamaha</option>
-                                            <option value="Yamaha Showrooms">Yamaha Showrooms</option>
-                                            <option value="Yamaha Service Center">Yamaha Service Center</option>
-                                            <option value="Yamaha Bike">Yamaha Bike</option>
-                                            <option value="Yamaha MotorCycle">Yamaha MotorCycle</option>
-                                            <option value="Yamaha Scooter">Yamaha Scooter</option>
-                                 </datalist>
-                                    <button type="button" class="search__btn" id="search-btn">
-                                    <svg viewBox="0 0 515.558 515.558" class="search__icon"
-                                        aria-hidden="true">
-                                                <use class="sv-icon"
-                                            xlink:href="#svg-search"></use>
-                                            </svg>
-                                </button>
-                                </div>
-                            </form>
+				        </div> 
+	
+				        <div class="col-xl-2 col-md-3 text-right lang-selected-header"> 
+				            <div>
+<script src="https://www.gstatic.com/firebasejs/7.14.0/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/7.14.0/firebase-auth.js"></script>
+<script src="https://www.gstatic.com/firebasejs/7.14.0/firebase-firestore.js"></script>
+<script src="https://www.gstatic.com/firebasejs/7.14.0/firebase-database.js"></script>
+
+    
+<link rel="stylesheet" href="/etc.clientlibs/re-platform/clientlibs/re-platform/components/common/login.min.f34d54d865b85feecf34524b9b2a3a26.css" type="text/css">
+<script src="/etc.clientlibs/re-platform/clientlibs/re-platform/components/common/login.min.js"></script>
+
+
+
+
+
+	<script src="https://apis.google.com/js/client:platform.js?onload=start" async defer></script>
+
+    
+
+          
+	    <div id="login-9278" class="login ">
+
+	    	
+
+	        	
+
+    <a title="model.loginLinkText" id="login-link" class="login-link" data-runmode="ReUDscP">
+    	<i>Login</i> <span class="icon-arrow-down"></span> 
+     	<span class="icon-user"></span>
+ 	</a>
+
+    <div class="dropdown logged-in">
+    	<div id="logged-in" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        	<div class="profile-image">
+            	<img id="profileImage" alt="User" title="User"/>
+         	</div>
+     	</div>
+     	<div class="dropdown-menu dropdown-menu-right" aria-labelledby="logged-in">
+        	<ul>
+            	<li>
+                    <a title="My Profile" class="logout" href="/in/en/users/user-profile.html" data-url="/in/en/users/user-profile.html" data-attr-logout="https://api.royalenfield.com/v3/auth/logout">My Profile</a>
+             	</li>
+
+         	
+            	<li>
+                    <a title="Edit Profile" class="logout" href="/in/en/users/user-profile-edit.html" data-url="/in/en/users/user-profile-edit.html" data-attr-logout="https://api.royalenfield.com/v3/auth/logout">Edit Profile</a>
+             	</li>
+
+         	
+            	<li>
+                    <a title="Logout" class="logout" href="/in/en/home.html" id="Logout" data-url="/in/en/home.html" data-attr-logout="https://api.royalenfield.com/v3/auth/logout">Logout</a>
+             	</li>
+
+         	</ul>
+     	</div>
+
+ 	</div>
+
+
+
+	            <div class="login_overlayer" style="background-image:url('/content/dam/royal-enfield/india/login/login-banner.webp')"></div>
+
+	        	
+
+	<div class="login_section myUrlLoginUnique" data-url="https://api.royalenfield.com/v3/auth/verify-token" refresh-url="https://api.royalenfield.com/v3/auth/generate-token">
+		<div class="login_section-wrapper">
+    	<div class="login_form_holder">
+    		<div class="login_form_container">
+				
+    			<h2 class="login_head">Log in to your Royal Enfield account</h2>
+    		    <div class="login_form" id="loginForm" data-location-url="/in/en/home" country-api="https://api.royalenfield.com/v3/core/city-states/locations">
+                    <form id="login-form-4600" method="POST" data-attr-facebook="https://api.royalenfield.com/v3/auth/facebook-login" data-attr-google="https://api.royalenfield.com/v3/auth/google-login">
+    		        	<div class="login_form_txt_box_holder login_main">
+                            
+    		            	<div class="txt_box mobile-tool">
+                                <input class="input_field" type="text" data-error="Please enter valid mobile no/ email ID." data-validate="Enter valid credentials" name="userId" id="userId" placeholder="Email/Mobile Number"/>
+								
+									<div class="over-all">
+										<span class="arrow-tooltip"></span>
+										<div class="tooltip-section">
+											Mobile number should not start with zero.
+							 			</div>
+									</div>
+								
+							</div>
+    		                <div class="txt_box">
+                                <input class="input_field" type="password" data-validate="Enter a password" name="password" id="password" placeholder="Password"/>
+    		                </div>
+    		            </div>
+    					<div class="login_form_txt_box_holder">
+    		            	<div class="login_submit_btn">
+    		                	<input class="submit_login login-submit" type="button" id="submit-login" data-form-submit="https://api.royalenfield.com/v3/auth/login" data-form="login-form-4600" value="Login"/>
+                            </div>
+                            <div class="forgot_password" id="forgot-pass">
+                                <span>Forgot password?</span>
+                            </div>
                         </div>
+                        
+    		        </form>
+                </div>
+    		</div>
+
+            <div class="login_form_container">
+
+    		    	<div class="login_form">
+    		        	<form id="forgot-password-form-4600" action="https://api.royalenfield.com/v3/user/forgot" method="POST" class="fp-user-id-form">
+                        	<h2 class="login_head">Enter your email or mobile number</h2>
+    		            	<div class="login_form_txt_box_holder">
+                            <div class="txt_box select-box country-fp">
+                                <select id="countrySign" data-validate="Please select country" name="callingCode" class="select-field">
+                                    <option value="">Select Country</option>
+                                </select>
+                            </div>
+    		                	<div class="txt_box">
+    		                    	<input class="input_field" type="text" name="mobile" id="mobileInput" placeholder="Enter Mobile Number/Email" data-limit-exceed="OTP limit expired. Please try again later." data-validate="Enter a valid mobile number/Email ID" data-success="OTP sent successfully"/>
+    		                    </div>
+    		                </div>
+    		                <div>
+    		                	<div class="login_submit_btn fp_submit">
+    		                    	<input class="submit_login forgot-password-submit" id="fg-password-submit" calling-code-error="Please select your calling code" type="button" data-form="forgot-password-form-4600" value="Submit"/>
+    		                    </div>
+    		                </div>
+                            <span class="custom-btn bor arrow-l clr-w go_back">Go back</span>
+    		           	</form>
+
+                        <form id="forgot-password-otp-4600" action="https://api.royalenfield.com/v3/auth/verify-user-account" method="POST" class="fp-verify-otp-form d-none">
+							<h2 class="login_head">Enter your OTP</h2>
+    		            	<div class="login_form_txt_box_holder">
+    		                	<div class="txt_box">
+    		                    	<input class="input_field" type="text" name="otp" id="otpInput" placeholder="Enter OTP" data-success="OTP verified successfully" data-error="Error verifying OTP" userId-validate="This User Id does not exist." data-validate="Please enter a valid OTP"/>
+    		                    </div>
+    		                </div>
+    		                <div>
+    		                	<div class="login_submit_btn fp_submit">
+    		                    	<input class="submit_login forgot-password-otp" id="fgt-password-otp" forgot-pass-url="https://api.royalenfield.com/v3/auth/otp-verification" type="button" data-form="forgot-password-otp-4600" value="Submit"/>
+                                </div>
+                                    <button type="button" id="resendOtpLogin" class="forgot-password-resend-otp">Resend OTP</button>
+                            </div>
+                            
+                            <p class="signuptimer d-none" id="loginTimerOtp" firstTimer="1" secondTimer="3" thirdTimer="5" fourthTimer="10" fifthTimer="15">Resend OTP in <span style="color:red;" id="loginmins"></span><span style="color:red;">:</span><span style="color:red;" id="loginsecs"></span></p>
+                              
+                            <span class="custom-btn bor arrow-l clr-w go_back" id="goBack">Go back</span>
+    		           	</form>
+
+						<form id="forgot-password-reset-4600" action="https://api.royalenfield.com/v3/user/reset-password" method="POST" class="fp-reset-password-form d-none">
+
+
+							<h2 class="login_head"></h2>
+
+                            <div class="login_form_txt_box_holder">
+    		                	<div class="txt_box">
+    		                    	<input class="input_field finalpassword" type="password" name="password" id="finalpassword" placeholder="Enter Password"/>
+    		                    </div>
+                                <div class="txt_box">
+    		                    	<input class="input_field" type="password" name="confirmPassword" id="confirmPassword" placeholder="Re-enter Password"/>
+    		                    </div>
+    		                </div>
+    		                <div>
+    		                	<div class="login_submit_btn fp_submit">
+    		                    	<input class="submit_login forgot-password-reset" id="reset-pass" type="button" data-form="forgot-password-reset-4600" value="Submit" data-success="Password changed successfully" data-error="Please enter valid OTP to proceed." data-unmatch="Password doesn&#39;t match. Enter a valid password." data-digit-validate="Enter a password of minimum 5 character length. Password should be alphanumeric."/>
+    		                    </div>
+    		                </div>
+                            <span class="custom-btn bor arrow-l clr-w go_back">Go back</span>
+    		           	</form>
+
+						<div class="fp-success-message-reset" id="success-fp" data-success="Successfully changed">
+
+                        </div>
+
+    		        </div>
+    		    </div>
+    		</div>		
+
+			</div>
+
+    		<div class="sign-up-bottom extra-spacing">
+                <div id="timer" otpExpire="OTP is expired, please try again with the new OTP." style="display: none;">Enter valid OTP<span id="time">00:00</span> minutes!</div>
+    			<h2>New to royalenfield.com?</h2>
+    		    <a title="Create an account" href="/in/en/forms/sign-up/" class="custom-btn bor arrow-r clr-w" id="createAcc">Create an account</a>
+
+            	
+    		    	<h2>Or sign in via</h2>
+    		    	<div class="social-btn-holder">
+                		
+    		        		<button class="custom-btn bor arrow-r fb facebooklogin" id="fbLogin" data-facebook-url="login-form-4600" data-facebook-id="164120184241069">Sign in with Facebook</button>
+                    	
+					
+    		       		<button class="custom-btn bor arrow-r gg googlelogin" id="googleLogin" data-google-url="login-form-4600" data-google-id="777274662796-qs35tlad5fb1tapd6csbiakluaaj9186.apps.googleusercontent.com">Sign in with Google</button>
+                    
+                    
+                        <button class="custom-btn bor arrow-r tw twitterme" id="twittertokenrequest" data-twitter-acess-me="https://api.royalenfield.com/v3/auth/twitter-login/access-token" data-twitter-request-me="https://api.royalenfield.com/v3/auth/twitter-login/request-token">Sign in with Twitter</button>
+                    
+    		    </div>
+            
+        </div>
+
+        <div class="form-wrapper verificationOtpforLogin" hidden>
+            <div class="form-wrapper-inner">
+                <h2>Mobile OTP Verification</h2> 
+                <form onsumbit="return false"> 
+                    <div class="form-rows" style="max-width: 500px;">
+                        <p>Thank you for submitting, Check your message.</p> 
+                        <div class="input-box" style="width: 100%;margin: 0 auto;">
+                            <input class="input-field" type="text" id="otpResending" name="otp-input" placeholder="Enter your OTP here"/>
+                        </div>
+                    </div> 
+
+                    <div class="form-submit">
+                        <button class="custom-btn bor arrow-r clr-b verifyingAccountForLogin" mobileOtpTimer="true" data-form-verify="https://api.royalenfield.com/v3/auth/verify-user-account">Submit</button> 
+                        <br/><br/>
+                            <a title="Resend OTP" href="javascript:void(0);" class="custom-btn arrow-r clr-b login-click resendingLoginOtp" data-form-resend="https://api.royalenfield.com/v3/auth/otp-verification">Resend OTP</a>
+                            
+                             <p class="signuptimer d-none" id="afterloginTimerOtp" firstTimer="1" secondTimer="3" thirdTimer="5" fourthTimer="10" fifthTimer="15">Resend OTP in <span style="color:red;" id="afterloginmins"></span><span style="color:red;">:</span><span style="color:red;" id="afterloginsecs"></span></p>
+                            
+                        </div>
+                </form>
+            </div>
+        </div>
+
+
+    </div>
+    
+
+
+	        
+
+	        
+
+	    </div>
+        <div class="modal fade" id="myModalLogin" role="dialog" data-configuration="[{&#34;firebaseKey&#34;:&#34;AIzaSyAn3JnK098klrEauQY41oeRAJ3gBPap3H4&#34;,&#34;messageId&#34;:&#34;13382485601&#34;,&#34;appId&#34;:&#34;https://api.royalenfield.com/v3/user-utility/firebase/token&#34;,&#34;authDomain&#34;:&#34;re-prime-prod.firebaseapp.com&#34;,&#34;projectId&#34;:&#34;re-prime-prod&#34;,&#34;storageBucket&#34;:&#34;re-prime-prod.appspot.com&#34;,&#34;firebaseRegion&#34;:&#34;in-prod&#34;},{&#34;firebaseKey&#34;:&#34;AIzaSyDWkEARLQC5cM14VaG2t6doJeB_uVXAeYk&#34;,&#34;messageId&#34;:&#34;901165690560&#34;,&#34;appId&#34;:&#34;https://eu-we-api.royalenfield.com/v3/user-utility/firebase/token&#34;,&#34;authDomain&#34;:&#34;eu-we-re-prime-prod01.firebaseapp.com&#34;,&#34;projectId&#34;:&#34;eu-we-re-prime-prod01&#34;,&#34;storageBucket&#34;:&#34;eu-we-re-prime-prod01.appspot.comv&#34;,&#34;firebaseRegion&#34;:&#34;eu-prod&#34;},{&#34;firebaseKey&#34;:&#34;AIzaSyC2t2MB7NsGH9e9wemaxGZ0g45IgKJNqe0&#34;,&#34;messageId&#34;:&#34;912478089267&#34;,&#34;appId&#34;:&#34;https://apac-api.royalenfield.com/v3/user-utility/firebase/token&#34;,&#34;authDomain&#34;:&#34;apac-re-prime-prod.firebaseapp.com&#34;,&#34;projectId&#34;:&#34;apac-re-prime-prod&#34;,&#34;storageBucket&#34;:&#34;apac-re-prime-prod.appspot.com&#34;,&#34;firebaseRegion&#34;:&#34;ap-prod&#34;},{&#34;firebaseKey&#34;:&#34;AIzaSyD5ZZ4f3QQK8B-9NqX-pgu7ACHbLWWeVnk&#34;,&#34;messageId&#34;:&#34;472766965113&#34;,&#34;appId&#34;:&#34;https://rena-api.royalenfield.com/v3/user-utility/firebase/token&#34;,&#34;authDomain&#34;:&#34;rena-re-prime-prod.firebaseapp.com&#34;,&#34;projectId&#34;:&#34;rena-re-prime-prod&#34;,&#34;storageBucket&#34;:&#34;rena-re-prime-prod.appspot.com&#34;,&#34;firebaseRegion&#34;:&#34;re-prod&#34;},{&#34;firebaseKey&#34;:&#34;AIzaSyCbNq_jg7oEuBh46x8Jdoop4zgXHT-Pzps&#34;,&#34;messageId&#34;:&#34;78531059252&#34;,&#34;appId&#34;:&#34;https://latm-api.royalenfield.com/v3/user-utility/firebase/token&#34;,&#34;authDomain&#34;:&#34;latm-re-prime-prod.firebaseapp.com&#34;,&#34;projectId&#34;:&#34;latm-re-prime-prod&#34;,&#34;storageBucket&#34;:&#34;latm-re-prime-prod.appspot.com&#34;,&#34;firebaseRegion&#34;:&#34;la-prod&#34;}]" data-runmode="prod" data-success="Success" data-error="Credentials are invalid" login-error="Please enter valid credentials." logout-error="Logged Out" facebook-error="The Facebook Account Email ID doesn&#39;t match the Royal Enfield registered Email ID." google-error="The Google Account Email ID doesn&#39;t match the Royal Enfield registered Email ID." twitter-error="The Twitter Account Email ID doesn&#39;t match the Royal Enfield registered Email ID." otp-success="OTP successfully sent" invalid-password="The password you entered is incorrect. Please try again." invalid-otp="Invalid OTP">
+	 		<div class="modal-dialog modal-sm modal-dialog-centered">
+	                <!-- Modal content-->
+	        	<div class="modal-content" style="border: none;">
+	            	<div class="alt-msg">
+	                	<button type="button" class="close close-modal-btn-login" data-dismiss="modal" style="margin:20px 20px 0px 0px;z-index: 1;position: relative;">&times;</button>
+	                    <div class="modal-body" style="text-align: center;padding: 30px 10px;border:5px solid #c9c9c9;border-radius: 4px;">
+	                    	<p id="messageLogin" style="padding: 20px 0px;"></p>
+	                        <button type="button" class="btn btn-default close-modal-btn-login" data-dismiss="modal" style="margin: 0 auto;outline: none;background: #000;color: #FFF;font-size: 14px;">Ok</button>
+	                    </div>
+	                 </div>
+	             </div>
+	         </div>
+	    </div>
+	
+	
+  
+</div>  
+				            <div>
+
+
+   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/awesomplete/1.1.3/awesomplete.min.js">
+   </script>
+   
+    
+
+
+
+   
+      
+         
+            <div id="searchInput-8206" class="search ">
+               <a>
+                  <span class=" icon-search"></span>
+               </a>
+               <div class="search-bar searchInp" data-auto-search-count="6" data-auto-suggest-count="2">
+                  <input class="input-field search ui-autocomplete-input awesomplete" id="header-search" type="text" placeholder="Search for anything" data-search-url="https://api.royalenfield.com/v3/core/old-search" data-result-page="/content/royal-enfield/in/en/search-result.html"/>
+                  <span class="icon-close search-close"></span>
+               </div>
+               <a class="hiddenSearch" data-location-url="/in/en/search-result/" hidden></a>
+            </div>
+         
+         
+    
+<script src="/etc.clientlibs/re-platform/clientlibs/re-platform/components/common/searchInputV1.min.js"></script>
+
+
+
+      
+   
+</div>
+				            <div>
+
+	
+    
+<link rel="stylesheet" href="/etc.clientlibs/re-platform/clientlibs/re-platform/components/common/languageSelector.min.1434f8e3bb93a03aa6609214deb12221.css" type="text/css">
+<script src="/etc.clientlibs/re-platform/clientlibs/re-platform/handlebars.min.js"></script>
+<script src="/etc.clientlibs/re-platform/clientlibs/re-platform/components/common/languageSelector.min.js"></script>
+
+
+
+	
+	
+		
+			<div id="languageSelector-5012" class="language region-wise-lang " data-countryregion="GLOBAL">
+				<a title="Select Country" id="languageSelectorAnalytics" href="javascript:void(0);">
+					<span class="icon-globe"></span>
+					<span class="flag-selected">
+                        <img src="/content/dam/royal-enfield/india/maps/flags/india-flag-icon-128.png"/>
+                    </span>
+					<span class="lang-selected">Select Country</span>
+				</a>
+			</div>
+			<div id="language-dropdown-5306" class="language-selector language-dropdown ">
+				<!--	<div class="container">
+					<h3>Select Country</h3>
+					   <div class="row"  data-sly-list="">
+						<div class="countrySelectorAna col-md-3">
+							<ul>
+								<li>
+									<a href="" data-locale-code="" data-locale-url="">
+										
+									</a>
+								</li>
+							</ul>
+						</div>
+					 </div>
+					</div>	-->
+				<div class="lang-select-wrapper">
+					<div class="region-select-wrapper">
+						<h2 class="text-white text-center pt-2 heading-top">Select Region</h2>
+						<div>
+							<div class="row region-row">
+								<div class="countryListClass col-6 col-md-3 text-center region-box" data-attr="[{&#34;imgTitle&#34;:&#34;&#34;,&#34;imagePath&#34;:&#34;/content/dam/royal-enfield/india/maps/flags/india-flag-icon-128.png&#34;,&#34;imageHeading&#34;:&#34;India&#34;,&#34;imageAltText&#34;:&#34;India National Flag&#34;,&#34;language&#34;:[{&#34;anchorTitle&#34;:&#34;&#34;,&#34;languageName&#34;:&#34;English&#34;,&#34;redirectionPath&#34;:&#34;/in/en/home.html&#34;,&#34;languageCode&#34;:&#34;EN&#34;}],&#34;countryCode&#34;:&#34;IN&#34;}]" data-attr-name="GLOBAL" data-imaged="/content/dam/royal-enfield/india/maps/desktop/large/India_large_png.png" data-imagem="/content/dam/royal-enfield/india/maps/mobile/large/Global_mob_l.png" data-altm="India Map" data-altd="Map of India">
+									<a title="GLOBAL" href="javascript:void(0);">
+										<div class="d-flex justify-content-center region-img-wrapper">
+											<picture>
+												<source media="(min-width:767px)" srcset="/content/dam/royal-enfield/india/maps/mobile/small/GLOBAL_MOB.png" alt="India Map"/>
+												<img src="/content/dam/royal-enfield/india/maps/desktop/small/India_small.png" alt="Map of India" title="Map of India"/>
+											</picture>
+										</div>
+										<h3 class="region-name">GLOBAL</h3>
+									</a>
+								</div>
+							
+								<div class="countryListClass col-6 col-md-3 text-center region-box" data-attr="[{&#34;imgTitle&#34;:&#34;&#34;,&#34;imagePath&#34;:&#34;/content/dam/royal-enfield/india/maps/flags/australia-flag-icon-128.png&#34;,&#34;imageHeading&#34;:&#34;Australia&#34;,&#34;imageAltText&#34;:&#34;Australia&#34;,&#34;language&#34;:[{&#34;anchorTitle&#34;:&#34;&#34;,&#34;languageName&#34;:&#34;English&#34;,&#34;redirectionPath&#34;:&#34;/au/en/home.html&#34;,&#34;languageCode&#34;:&#34;EN&#34;}],&#34;countryCode&#34;:&#34;AU&#34;},{&#34;imgTitle&#34;:&#34;&#34;,&#34;imagePath&#34;:&#34;/content/dam/royal-enfield/india/maps/flags/singapore-flag-icon-128.png&#34;,&#34;imageHeading&#34;:&#34;Singapore&#34;,&#34;imageAltText&#34;:&#34;Singapore&#34;,&#34;language&#34;:[{&#34;anchorTitle&#34;:&#34;&#34;,&#34;languageName&#34;:&#34;English&#34;,&#34;redirectionPath&#34;:&#34;/sg/en/home.html&#34;,&#34;languageCode&#34;:&#34;EN&#34;}],&#34;countryCode&#34;:&#34;SG&#34;},{&#34;imgTitle&#34;:&#34;&#34;,&#34;imagePath&#34;:&#34;/content/dam/royal-enfield/india/maps/flags/japan-flag-icon-128.png&#34;,&#34;imageHeading&#34;:&#34;Japan&#34;,&#34;imageAltText&#34;:&#34;Japan&#34;,&#34;language&#34;:[{&#34;anchorTitle&#34;:&#34;&#34;,&#34;languageName&#34;:&#34;Japanese&#34;,&#34;redirectionPath&#34;:&#34;/jp/ja/home.html&#34;,&#34;languageCode&#34;:&#34;JP&#34;}],&#34;countryCode&#34;:&#34;JP&#34;},{&#34;imgTitle&#34;:&#34;&#34;,&#34;imagePath&#34;:&#34;/content/dam/royal-enfield/india/maps/flags/cambodia-flag-icon-128.png&#34;,&#34;imageHeading&#34;:&#34;Cambodia&#34;,&#34;imageAltText&#34;:&#34;cambodia&#34;,&#34;language&#34;:[{&#34;anchorTitle&#34;:&#34;&#34;,&#34;languageName&#34;:&#34;English&#34;,&#34;redirectionPath&#34;:&#34;/kh/en/home.html&#34;,&#34;languageCode&#34;:&#34;EN&#34;}],&#34;countryCode&#34;:&#34;KH&#34;},{&#34;imgTitle&#34;:&#34;&#34;,&#34;imagePath&#34;:&#34;/content/dam/royal-enfield/india/maps/flags/thailand-flag-icon-128.png&#34;,&#34;imageHeading&#34;:&#34;Thailand&#34;,&#34;imageAltText&#34;:&#34;thailand&#34;,&#34;language&#34;:[{&#34;anchorTitle&#34;:&#34;&#34;,&#34;languageName&#34;:&#34;Thai&#34;,&#34;redirectionPath&#34;:&#34;/th/th/home.html&#34;,&#34;languageCode&#34;:&#34;TH&#34;}],&#34;countryCode&#34;:&#34;TH&#34;},{&#34;imgTitle&#34;:&#34;&#34;,&#34;imagePath&#34;:&#34;/content/dam/royal-enfield/india/maps/flags/indonesia-flag-icon-128.png&#34;,&#34;imageHeading&#34;:&#34;Indonesia &#34;,&#34;imageAltText&#34;:&#34;indonesia&#34;,&#34;language&#34;:[{&#34;anchorTitle&#34;:&#34;&#34;,&#34;languageName&#34;:&#34;Indonesian&#34;,&#34;redirectionPath&#34;:&#34;/id/id/home.html&#34;,&#34;languageCode&#34;:&#34;ID&#34;}],&#34;countryCode&#34;:&#34;ID&#34;},{&#34;imgTitle&#34;:&#34;&#34;,&#34;imagePath&#34;:&#34;/content/dam/royal-enfield/india/maps/flags/malaysia-flag-icon-128.png&#34;,&#34;imageHeading&#34;:&#34;Malaysia&#34;,&#34;imageAltText&#34;:&#34;Malaysia&#34;,&#34;language&#34;:[{&#34;anchorTitle&#34;:&#34;&#34;,&#34;languageName&#34;:&#34;English&#34;,&#34;redirectionPath&#34;:&#34;/my/en/home.html&#34;,&#34;languageCode&#34;:&#34;EN&#34;}],&#34;countryCode&#34;:&#34;MY&#34;},{&#34;imgTitle&#34;:&#34;&#34;,&#34;imagePath&#34;:&#34;/content/dam/royal-enfield/india/maps/flags/philippines-flag-icon-128.png&#34;,&#34;imageHeading&#34;:&#34;Philippines&#34;,&#34;imageAltText&#34;:&#34;Philippines&#34;,&#34;language&#34;:[{&#34;anchorTitle&#34;:&#34;&#34;,&#34;languageName&#34;:&#34;English&#34;,&#34;redirectionPath&#34;:&#34;/ph/en/home.html&#34;,&#34;languageCode&#34;:&#34;EN&#34;}],&#34;countryCode&#34;:&#34;PH&#34;},{&#34;imgTitle&#34;:&#34;&#34;,&#34;imagePath&#34;:&#34;/content/dam/royal-enfield/india/maps/flags/south-korea-flag-icon-128.png&#34;,&#34;imageHeading&#34;:&#34;South Korea&#34;,&#34;imageAltText&#34;:&#34;korea&#34;,&#34;language&#34;:[{&#34;anchorTitle&#34;:&#34;&#34;,&#34;languageName&#34;:&#34;Korean&#34;,&#34;redirectionPath&#34;:&#34;/kr/kr/home.html&#34;,&#34;languageCode&#34;:&#34;KR&#34;}],&#34;countryCode&#34;:&#34;KR&#34;},{&#34;imgTitle&#34;:&#34;&#34;,&#34;imagePath&#34;:&#34;/content/dam/royal-enfield/india/maps/flags/vietnam-flag-icon-128.png&#34;,&#34;imageHeading&#34;:&#34;Vietnam&#34;,&#34;imageAltText&#34;:&#34;vietnam&#34;,&#34;language&#34;:[{&#34;anchorTitle&#34;:&#34;&#34;,&#34;languageName&#34;:&#34;Vietnamese&#34;,&#34;redirectionPath&#34;:&#34;/vn/vi/home.html&#34;,&#34;languageCode&#34;:&#34;VI&#34;}],&#34;countryCode&#34;:&#34;VN&#34;}]" data-attr-name="ASIA PACIFIC" data-imaged="/content/dam/royal-enfield/india/maps/desktop/large/Asia-Pacific_large.png" data-imagem="/content/dam/royal-enfield/india/maps/mobile/large/Asia-Pacific_mob_l.png" data-altm="Asia Pacific Map" data-altd="Asia Pacific Map">
+									<a title="ASIA PACIFIC" href="javascript:void(0);">
+										<div class="d-flex justify-content-center region-img-wrapper">
+											<picture>
+												<source media="(min-width:767px)" srcset="/content/dam/royal-enfield/india/maps/mobile/small/Asia-Pacific_mob.png" alt="Asia Pacific Map"/>
+												<img src="/content/dam/royal-enfield/india/maps/desktop/small/Asia-Pacific_small.png" alt="Asia Pacific Map" title="Asia Pacific Map"/>
+											</picture>
+										</div>
+										<h3 class="region-name">ASIA PACIFIC</h3>
+									</a>
+								</div>
+							
+								<div class="countryListClass col-6 col-md-3 text-center region-box" data-attr="[{&#34;imgTitle&#34;:&#34;&#34;,&#34;imagePath&#34;:&#34;/content/dam/royal-enfield/india/maps/flags/united-kingdom-flag-icon-128.png&#34;,&#34;imageHeading&#34;:&#34;United Kingdom&#34;,&#34;imageAltText&#34;:&#34;United Kingdom&#34;,&#34;language&#34;:[{&#34;anchorTitle&#34;:&#34;&#34;,&#34;languageName&#34;:&#34;English&#34;,&#34;redirectionPath&#34;:&#34;/uk/en/home.html&#34;,&#34;languageCode&#34;:&#34;EN&#34;}],&#34;countryCode&#34;:&#34;UK&#34;},{&#34;imgTitle&#34;:&#34;&#34;,&#34;imagePath&#34;:&#34;/content/dam/royal-enfield/india/maps/flags/belgium-flag-icon-128.png&#34;,&#34;imageHeading&#34;:&#34;Belgium&#34;,&#34;imageAltText&#34;:&#34;belgium&#34;,&#34;language&#34;:[{&#34;anchorTitle&#34;:&#34;&#34;,&#34;languageName&#34;:&#34;French&#34;,&#34;redirectionPath&#34;:&#34;/be/fr/home.html&#34;,&#34;languageCode&#34;:&#34;FR&#34;},{&#34;anchorTitle&#34;:&#34;&#34;,&#34;languageName&#34;:&#34;Dutch&#34;,&#34;redirectionPath&#34;:&#34;/be/nl/home.html&#34;,&#34;languageCode&#34;:&#34;NL&#34;}],&#34;countryCode&#34;:&#34;BE&#34;},{&#34;imgTitle&#34;:&#34;&#34;,&#34;imagePath&#34;:&#34;/content/dam/royal-enfield/india/maps/flags/spain-flag-icon-128.png&#34;,&#34;imageHeading&#34;:&#34;Spain&#34;,&#34;imageAltText&#34;:&#34;spain&#34;,&#34;language&#34;:[{&#34;anchorTitle&#34;:&#34;&#34;,&#34;languageName&#34;:&#34;Spanish&#34;,&#34;redirectionPath&#34;:&#34;/es/es/home.html&#34;,&#34;languageCode&#34;:&#34;ES&#34;}],&#34;countryCode&#34;:&#34;ES&#34;},{&#34;imgTitle&#34;:&#34;&#34;,&#34;imagePath&#34;:&#34;/content/dam/royal-enfield/india/maps/flags/germany-flag-icon-128.png&#34;,&#34;imageHeading&#34;:&#34;Germany&#34;,&#34;imageAltText&#34;:&#34;germany&#34;,&#34;language&#34;:[{&#34;anchorTitle&#34;:&#34;&#34;,&#34;languageName&#34;:&#34;German&#34;,&#34;redirectionPath&#34;:&#34;/de/de/home.html&#34;,&#34;languageCode&#34;:&#34;DE&#34;}],&#34;countryCode&#34;:&#34;DE&#34;},{&#34;imgTitle&#34;:&#34;&#34;,&#34;imagePath&#34;:&#34;/content/dam/royal-enfield/india/maps/flags/france-flag-icon-128.png&#34;,&#34;imageHeading&#34;:&#34;France&#34;,&#34;imageAltText&#34;:&#34;france&#34;,&#34;language&#34;:[{&#34;anchorTitle&#34;:&#34;&#34;,&#34;languageName&#34;:&#34;French&#34;,&#34;redirectionPath&#34;:&#34;/fr/fr/home.html&#34;,&#34;languageCode&#34;:&#34;FR&#34;}],&#34;countryCode&#34;:&#34;FR&#34;},{&#34;imgTitle&#34;:&#34;&#34;,&#34;imagePath&#34;:&#34;/content/dam/royal-enfield/india/maps/flags/italy-flag-icon-128.png&#34;,&#34;imageHeading&#34;:&#34;Italy&#34;,&#34;imageAltText&#34;:&#34;italy&#34;,&#34;language&#34;:[{&#34;anchorTitle&#34;:&#34;&#34;,&#34;languageName&#34;:&#34;Italian&#34;,&#34;redirectionPath&#34;:&#34;/it/it/home.html&#34;,&#34;languageCode&#34;:&#34;IT&#34;}],&#34;countryCode&#34;:&#34;IT&#34;},{&#34;imgTitle&#34;:&#34;&#34;,&#34;imagePath&#34;:&#34;/content/dam/royal-enfield/india/maps/flags/austria-flag-icon-128.png&#34;,&#34;imageHeading&#34;:&#34;Austria&#34;,&#34;imageAltText&#34;:&#34;austria&#34;,&#34;language&#34;:[{&#34;anchorTitle&#34;:&#34;&#34;,&#34;languageName&#34;:&#34;German&#34;,&#34;redirectionPath&#34;:&#34;/at/de/home.html&#34;,&#34;languageCode&#34;:&#34;DE&#34;}],&#34;countryCode&#34;:&#34;AT&#34;},{&#34;imgTitle&#34;:&#34;&#34;,&#34;imagePath&#34;:&#34;/content/dam/royal-enfield/india/maps/flags/switzerland-flag-icon-128.png&#34;,&#34;imageHeading&#34;:&#34;Switzerland&#34;,&#34;imageAltText&#34;:&#34;switzerland&#34;,&#34;language&#34;:[{&#34;anchorTitle&#34;:&#34;&#34;,&#34;languageName&#34;:&#34;German&#34;,&#34;redirectionPath&#34;:&#34;/ch/de/home.html&#34;,&#34;languageCode&#34;:&#34;DE&#34;}],&#34;countryCode&#34;:&#34;CH&#34;},{&#34;imgTitle&#34;:&#34;&#34;,&#34;imagePath&#34;:&#34;/content/dam/royal-enfield/india/maps/flags/netherlands-flag-icon-128.png&#34;,&#34;imageHeading&#34;:&#34;Netherlands&#34;,&#34;imageAltText&#34;:&#34;netherlands&#34;,&#34;language&#34;:[{&#34;anchorTitle&#34;:&#34;&#34;,&#34;languageName&#34;:&#34;Dutch&#34;,&#34;redirectionPath&#34;:&#34;/nl/nl/home.html&#34;,&#34;languageCode&#34;:&#34;NL&#34;}],&#34;countryCode&#34;:&#34;NL&#34;},{&#34;imgTitle&#34;:&#34;&#34;,&#34;imagePath&#34;:&#34;/content/dam/royal-enfield/india/maps/flags/portugal-flag-icon-128.png&#34;,&#34;imageHeading&#34;:&#34;Portugal&#34;,&#34;imageAltText&#34;:&#34;portugal&#34;,&#34;language&#34;:[{&#34;anchorTitle&#34;:&#34;&#34;,&#34;languageName&#34;:&#34;Portuguese&#34;,&#34;redirectionPath&#34;:&#34;/pt/pt/home.html&#34;,&#34;languageCode&#34;:&#34;PT&#34;}],&#34;countryCode&#34;:&#34;PT&#34;},{&#34;imgTitle&#34;:&#34;&#34;,&#34;imagePath&#34;:&#34;/content/dam/royal-enfield/india/maps/flags/czech-republic-flag-icon.jpg&#34;,&#34;imageHeading&#34;:&#34;Czech Republic&#34;,&#34;imageAltText&#34;:&#34;czech republic&#34;,&#34;language&#34;:[{&#34;anchorTitle&#34;:&#34;&#34;,&#34;languageName&#34;:&#34;Czech&#34;,&#34;redirectionPath&#34;:&#34;/cz/cs/home.html&#34;,&#34;languageCode&#34;:&#34;CS&#34;}],&#34;countryCode&#34;:&#34;CZ&#34;},{&#34;imgTitle&#34;:&#34;&#34;,&#34;imagePath&#34;:&#34;/content/dam/royal-enfield/india/maps/flags/slovakia-flag-icon.jpg&#34;,&#34;imageHeading&#34;:&#34;Slovakia&#34;,&#34;imageAltText&#34;:&#34;slovakia&#34;,&#34;language&#34;:[{&#34;anchorTitle&#34;:&#34;&#34;,&#34;languageName&#34;:&#34;Slovak&#34;,&#34;redirectionPath&#34;:&#34;/sk/sk/home.html&#34;,&#34;languageCode&#34;:&#34;SK&#34;}],&#34;countryCode&#34;:&#34;SK&#34;},{&#34;imgTitle&#34;:&#34;&#34;,&#34;imagePath&#34;:&#34;/content/dam/royal-enfield/india/maps/flags/poland-flag.png&#34;,&#34;imageHeading&#34;:&#34;Poland&#34;,&#34;imageAltText&#34;:&#34;poland&#34;,&#34;language&#34;:[{&#34;anchorTitle&#34;:&#34;&#34;,&#34;languageName&#34;:&#34;Polish&#34;,&#34;redirectionPath&#34;:&#34;/pl/pl/home.html&#34;,&#34;languageCode&#34;:&#34;PL&#34;}],&#34;countryCode&#34;:&#34;PL&#34;},{&#34;imgTitle&#34;:&#34;&#34;,&#34;imagePath&#34;:&#34;/content/dam/royal-enfield/india/maps/flags/sweden-flag-icon.png&#34;,&#34;imageHeading&#34;:&#34;Sweden&#34;,&#34;imageAltText&#34;:&#34;sweden&#34;,&#34;language&#34;:[{&#34;anchorTitle&#34;:&#34;&#34;,&#34;languageName&#34;:&#34;Swedish&#34;,&#34;redirectionPath&#34;:&#34;/se/sv/home.html&#34;,&#34;languageCode&#34;:&#34;SV&#34;}],&#34;countryCode&#34;:&#34;SE&#34;},{&#34;imgTitle&#34;:&#34;&#34;,&#34;imagePath&#34;:&#34;/content/dam/royal-enfield/india/maps/flags/serbia-flag-icon-128.png&#34;,&#34;imageHeading&#34;:&#34;Serbia&#34;,&#34;imageAltText&#34;:&#34;Serbia&#34;,&#34;language&#34;:[{&#34;anchorTitle&#34;:&#34;&#34;,&#34;languageName&#34;:&#34;Serbian&#34;,&#34;redirectionPath&#34;:&#34;/rs/sr/home.html&#34;,&#34;languageCode&#34;:&#34;SR&#34;}],&#34;countryCode&#34;:&#34;RS&#34;},{&#34;imgTitle&#34;:&#34;Rest of Europe&#34;,&#34;imagePath&#34;:&#34;/content/dam/royal-enfield/india/maps/flags/european_union.png&#34;,&#34;imageHeading&#34;:&#34;Rest of Europe&#34;,&#34;imageAltText&#34;:&#34;Rest of Europe&#34;,&#34;language&#34;:[{&#34;anchorTitle&#34;:&#34;&#34;,&#34;languageName&#34;:&#34;Find a Dealer&#34;,&#34;redirectionPath&#34;:&#34;/uk/en/locate-us/dealers.html&#34;,&#34;languageCode&#34;:&#34;&#34;}],&#34;countryCode&#34;:&#34;&#34;}]" data-attr-name="EUROPE" data-imaged="/content/dam/royal-enfield/india/maps/desktop/large/European-Union_large.png" data-imagem="/content/dam/royal-enfield/india/maps/mobile/large/European_Union_mob_l.png" data-altm="European Union Map" data-altd="European Union Map">
+									<a title="EUROPE" href="javascript:void(0);">
+										<div class="d-flex justify-content-center region-img-wrapper">
+											<picture>
+												<source media="(min-width:767px)" srcset="/content/dam/royal-enfield/india/maps/mobile/small/European_Union_mob.png" alt="European Union Map"/>
+												<img src="/content/dam/royal-enfield/india/maps/desktop/small/European-Union-small.png" alt="European Union Map" title="European Union Map"/>
+											</picture>
+										</div>
+										<h3 class="region-name">EUROPE</h3>
+									</a>
+								</div>
+							
+								<div class="countryListClass col-6 col-md-3 text-center region-box" data-attr="[{&#34;imgTitle&#34;:&#34;&#34;,&#34;imagePath&#34;:&#34;/content/dam/royal-enfield/india/maps/flags/united-states-of-america-flag-icon-128.png&#34;,&#34;imageHeading&#34;:&#34;USA&#34;,&#34;imageAltText&#34;:&#34;usa&#34;,&#34;language&#34;:[{&#34;anchorTitle&#34;:&#34;&#34;,&#34;languageName&#34;:&#34;English&#34;,&#34;redirectionPath&#34;:&#34;/us/en/home.html&#34;,&#34;languageCode&#34;:&#34;EN&#34;}],&#34;countryCode&#34;:&#34;US&#34;},{&#34;imgTitle&#34;:&#34;&#34;,&#34;imagePath&#34;:&#34;/content/dam/royal-enfield/india/maps/flags/canada-flag-icon-128.png&#34;,&#34;imageHeading&#34;:&#34;Canada&#34;,&#34;imageAltText&#34;:&#34;canada&#34;,&#34;language&#34;:[{&#34;anchorTitle&#34;:&#34;&#34;,&#34;languageName&#34;:&#34;English&#34;,&#34;redirectionPath&#34;:&#34;/ca/en/home.html&#34;,&#34;languageCode&#34;:&#34;EN&#34;}],&#34;countryCode&#34;:&#34;CA&#34;},{&#34;imgTitle&#34;:&#34;&#34;,&#34;imagePath&#34;:&#34;/content/dam/royal-enfield/india/maps/flags/argentina-flag-icon-128.png&#34;,&#34;imageHeading&#34;:&#34;Argentina&#34;,&#34;imageAltText&#34;:&#34;argentina&#34;,&#34;language&#34;:[{&#34;anchorTitle&#34;:&#34;&#34;,&#34;languageName&#34;:&#34;Spanish&#34;,&#34;redirectionPath&#34;:&#34;/ar/es/home.html&#34;,&#34;languageCode&#34;:&#34;ES&#34;}],&#34;countryCode&#34;:&#34;AR&#34;},{&#34;imgTitle&#34;:&#34;&#34;,&#34;imagePath&#34;:&#34;/content/dam/royal-enfield/india/maps/flags/colombia-flag-icon-128.png&#34;,&#34;imageHeading&#34;:&#34;Colombia&#34;,&#34;imageAltText&#34;:&#34;colombia&#34;,&#34;language&#34;:[{&#34;anchorTitle&#34;:&#34;&#34;,&#34;languageName&#34;:&#34;Spanish&#34;,&#34;redirectionPath&#34;:&#34;/co/es/home.html&#34;,&#34;languageCode&#34;:&#34;ES&#34;}],&#34;countryCode&#34;:&#34;CO&#34;},{&#34;imgTitle&#34;:&#34;&#34;,&#34;imagePath&#34;:&#34;/content/dam/royal-enfield/india/maps/flags/brazil-flag-icon-128.png&#34;,&#34;imageHeading&#34;:&#34;Brazil&#34;,&#34;imageAltText&#34;:&#34;brazil&#34;,&#34;language&#34;:[{&#34;anchorTitle&#34;:&#34;&#34;,&#34;languageName&#34;:&#34;Portuguese&#34;,&#34;redirectionPath&#34;:&#34;/br/pt/home.html&#34;,&#34;languageCode&#34;:&#34;PT&#34;}],&#34;countryCode&#34;:&#34;BR&#34;},{&#34;imgTitle&#34;:&#34;&#34;,&#34;imagePath&#34;:&#34;/content/dam/royal-enfield/india/maps/flags/mexico-flag-icon-128.png&#34;,&#34;imageHeading&#34;:&#34;Mexico&#34;,&#34;imageAltText&#34;:&#34;mexico&#34;,&#34;language&#34;:[{&#34;anchorTitle&#34;:&#34;&#34;,&#34;languageName&#34;:&#34;Spanish&#34;,&#34;redirectionPath&#34;:&#34;/mx/es/home.html&#34;,&#34;languageCode&#34;:&#34;ES&#34;}],&#34;countryCode&#34;:&#34;MX&#34;}]" data-attr-name="AMERICAS" data-imaged="/content/dam/royal-enfield/india/maps/desktop/large/Americas.png" data-imagem="/content/dam/royal-enfield/india/maps/mobile/large/Americas.png" data-altm="USA Map" data-altd="USA Map">
+									<a title="AMERICAS" href="javascript:void(0);">
+										<div class="d-flex justify-content-center region-img-wrapper">
+											<picture>
+												<source media="(min-width:767px)" srcset="/content/dam/royal-enfield/india/maps/mobile/small/Americas.png" alt="USA Map"/>
+												<img src="/content/dam/royal-enfield/india/maps/desktop/small/Americas.png" alt="USA Map" title="USA Map"/>
+											</picture>
+										</div>
+										<h3 class="region-name">AMERICAS</h3>
+									</a>
+								</div>
+							
+								<div class="countryListClass col-6 col-md-3 text-center region-box" data-attr="[{&#34;imgTitle&#34;:&#34;&#34;,&#34;imagePath&#34;:&#34;/content/dam/royal-enfield/india/maps/flags/morocco-flag-icon-128.png&#34;,&#34;imageHeading&#34;:&#34;Morocco&#34;,&#34;imageAltText&#34;:&#34;&#34;,&#34;language&#34;:[{&#34;anchorTitle&#34;:&#34;&#34;,&#34;languageName&#34;:&#34;French&#34;,&#34;redirectionPath&#34;:&#34;/ma/fr/home.html&#34;,&#34;languageCode&#34;:&#34;FR&#34;}],&#34;countryCode&#34;:&#34;MA&#34;}]" data-attr-name="MIDDLE EAST &amp; AFRICA" data-imaged="/content/dam/royal-enfield/india/maps/desktop/large/Americas.png" data-imagem="/content/dam/royal-enfield/india/maps/mobile/large/Americas.png">
+									<a title="MIDDLE EAST &amp; AFRICA" href="javascript:void(0);">
+										<div class="d-flex justify-content-center region-img-wrapper">
+											<picture>
+												<source media="(min-width:767px)" srcset="/content/dam/royal-enfield/india/maps/mobile/small/Americas.png"/>
+												<img src="/content/dam/royal-enfield/india/maps/desktop/large/Americas.png"/>
+											</picture>
+										</div>
+										<h3 class="region-name">MIDDLE EAST &amp; AFRICA</h3>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="country-select-wrapper position-relative d-none">
+						<button class="text-white custom-btn back-region-btn" id="back-step-region">
+							BACK TO REGION SELECT
+						</button>
+						<h2 class="text-white text-left text-md-center heading-top">Select Country</h2>
+						<div>
+							<div class="row ">
+								<div class="col-12 col-md-8 back-image-mobile">
+									<h3 class="region-name" id="impName"></h3>
+									<div class="d-flex flex-wrap">
+										<div class="countriesList">
+										</div>
+										<script id="handlebars-demo1" type="text/x-handlebars-template">
+											{{#each this}}
+												<div class="d-flex country-option">
+													<img src="{{ this.imagePath }}" alt="{{ this.imageAltText }}" class="flag-img" title="{{ this.imageAltText }}">
+													<div class="checkClass country-option-main" data-countryCode="{{ this.countryCode }}">
+														<h4 class="country-name">{{ this.imageHeading }}</h4>
+														<div class="lang-option">
+															{{#each language}}
+																<a title="{{ this.languageName }}" class="languageSet lang-option-main {{ this.languageCode }}" data-attr-countryCode="{{ this.languageCode }}" href="{{ this.redirectionPath }}">{{ this.languageName }}</a>
+															{{/each}}
+														</div>
+													</div>
+												</div>
+											{{/each}}
+										</script>
+									</div>
+								</div>
+								<div class="d-none d-md-block col-12 col-md-4 region-img-lg-wrapper">
+									<picture>
+										<img id="desktopImageID" src="" alt="" title="Image Title" class="region-img-lg"/>
+									</picture>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		
+	
+</div> 
+				        </div>
+				    </div>
+				</div> 
+			</div>
+		</header>
+	
+	
+  
+</div>
+<div class="gdpr section">
+
+    
+    
+<link rel="stylesheet" href="/etc.clientlibs/re-platform/clientlibs/re-platform/components/common/gdpr.min.9d4d21d1476ed56cad90ef11c82bade2.css" type="text/css">
+<script src="/etc.clientlibs/re-platform/clientlibs/re-platform/components/common/gdpr.min.js"></script>
+
+
+
+    
+        
+            <div class="gdprOld accept-cookies-wrapper cookieDiv ac-active" id="gdpr-7327">
+                <!--     <div class="row disc-img-row" data-sly-list="">
+                    <div class="disc-img-col">
+                        <img alt="" src="">
+                    </div>
+                </div> -->
+                <!--  Language Selector Start  -->
+                
+                <!--  Language Selector End  -->
+
+                <div class="accept-cookies">
+                    <div class="container">
+                        <h2 id="head1">Note</h2>
+                        <p id="descr-1">We use our own cookies for the use of the site, personalize content and ads and to perform analyses of our traffic. We also share information about your use of our site with analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services. If you want to learn more about cookies and opt-out, click the button Privacy and Cookie Policy. If you choose not to agree to the use of cookies all features of the site may not operate as intended.</p>
+                        <button class="custom-btn bor clr-b activeBtn" href="#" id="customGDPR">Accept
+                        </button>
+                        <a class="icon-close" id="close-gdpr"></a>
+                    </div>
+                </div>
+                
+            </div>
+        
+    
+</div>
+</div>
+</div>
+</div>
+
+	<div>
+		<div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="inherit-par iparsys parsys"></div>
+</div>
+
+	</div>
+	<div class="wrapper-contents">
+	<div class="home-page">
+    	<div>
+</div>
+        <div>
+
+
+
+
+    
+    
+    <div class="appBanner">
+</div>
+
+
+    
+    
+    <div class="banner">
+</div>
+
+
+    
+    
+    <div class="banner">
+
+   
+    
+<link rel="stylesheet" href="/etc.clientlibs/re-platform/clientlibs/re-platform/components/common/banner.min.d41d8cd98f00b204e9800998ecf8427e.css" type="text/css">
+<script src="/etc.clientlibs/re-platform/clientlibs/re-platform/components/common/banner.min.js"></script>
+
+
+
+   
+      
+         <div id="banner-435">
+            <section id="gallery-heading" class="scroll-highlights banner  gallery-heading">
+               <div>
+                  
+    
+        <div class="re-banner mobile-ctas mobi-banr-heading-only mobile-banner-txt-bottom-center banner-txt-left">
+            
+                <div class="banner-inner-img">
+                    <picture>
+                        <source class="mobiler" id="bannerMobileImg" srcset="/content/dam/royal-enfield/india/home/video-trials/royal_enfield_rider_mania.gif" media="(max-width: 767px)"/>
+
+                        <img class="bg-bg" id="bannerDesktopImg" srcset="/content/dam/royal-enfield/india/home/video-trials/royal-enfield-rider-mania.gif" alt="Rider Mania" title="Rider Mania"/>
+
+                    </picture>
+                    
+                </div>
+
+                <div class="banner-inner-txt   ">
+                    <div class="disp-tbl">
+                        <div class="disp-tbl-cel hide-banner-overlay">
+                            <div class="container-fluid">
+                                <div class="txt-box animation-element slide-none">
+                                    
+
+                                    
+
+                                    
+                                        
+                                    
+
+                                    
+                                        <p class="bannerDescription" style="color : #fff">
+                                            
+                                        </p>
+                                    
+
+                                    
+
+                                    <div class="banner-btn">
+                                        
+
+                                        
+                                            
+                                                <a title="Explore" class="bannerAnalyticsBtn custom-btn bor arrow-r clr-w bg-b bg-white-mob  " href="/in/en/rides/events/rider-mania-2022/">Explore</a>
+                                            
+                                            
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                    <a class="bannerAnalyticsBtn mobileBtnAna  image-text-overlay" href="/in/en/rides/events/rider-mania-2022/"></a>
+                
+                
+
+
+            
+
+            
+        </div>
+        <div data-attr-url="https://api.ipstack.com/check?access_key=d5a315b9170426997dc1172b7c7f3b61" id="ipstack-url" style="display: none;"></div>
+        <div class="emi-pricing-box d-none">
+            <div class="justify-content-space-evenly emi-pricing-details" data-pricing="false">
+                <div class="d-flex flex-column emi-pricing-col">
+                    <p class="main-amt">
+                        ​
+                        <span class="price"></span>/-
+                    </p>
+                    <p class="small-label">
+            <span class="emi-state" removeIp-stack="false" google-api="https://maps.googleapis.com/maps/api/geocode/json" google-key="AIzaSyB0Hw8rQaKG5wk_APSHZsLpx-41KZ6luW8">
+              
+            </span>
+                        <span class="btn-change-loc"></span>
+                    </p>
+                </div>
+                <div class="d-flex flex-column emi-pricing-col">
+                    <p class="main-amt"></p>
+                    <p class="small-label"><span class="emi">​</span><span></span></p>
+                </div>
+            </div>
+            <div class="select-state-emi-dropdown">
+                <div class="select-box-main">
+                    <select id="emi-select-field" price-value="​"></select>
+                </div>
+            </div>
+        </div>
+        
+    
+    
+
+               </div>
+            </section>
+         </div>
+      
+   
+</div>
+
+
+    
+    
+    <div class="banner">
+</div>
+
+
+    
+    
+    <div class="banner">
+</div>
+
+
+    
+    
+    <div class="banner">
+</div>
+
+
+</div>
+		<div>
+</div>
+        <div>
+
+
+
+
+    
+    
+    <div class="carousel">
+
+
+
+
+    
+<link rel="stylesheet" href="/etc.clientlibs/re-platform/clientlibs/re-platform/components/common/carousel.min.d41d8cd98f00b204e9800998ecf8427e.css" type="text/css">
+<script src="/etc.clientlibs/re-platform/clientlibs/re-platform/components/common/carousel.min.js"></script>
+
+
+
+
+     
+    
+<link rel="stylesheet" href="/etc.clientlibs/re-platform/clientlibs/re-platform/components/common/appBanner.min.9c35bb005fd5acbd132614300789edc2.css" type="text/css">
+<script src="/etc.clientlibs/re-platform/clientlibs/re-platform/components/common/appBanner.min.js"></script>
+
+
+
+
+
+	
+		<section class="carousel slide no-feature-overlay" data-ride="carousel">
+	
+			 
+	            <div class="craouselsliderAna carousel-slider" data-slick='{"slidesToShow": 1, "slidesToScroll": 1, "autoplay": true,"speed": 700, "arrows": true, "dots": true}'>
+	                <div class="c-item">
+						
+							
+    
+        <div class="re-banner mobile-ctas mobi-banr-heading-only mobile-banner-txt-bottom-center banner-txt-left">
+            
+                <div class="banner-inner-img">
+                    <picture>
+                        <source class="mobiler" id="bannerMobileImg" srcset="/content/dam/royal-enfield/india/unesco/banner/l1.jpg" media="(max-width: 767px)"/>
+
+                        <img class="bg-bg" id="bannerDesktopImg" srcset="/content/dam/royal-enfield/india/unesco/banner/desktop/l1.jpg" alt="UNESCO" title="UNESCO"/>
+
+                    </picture>
+                    
+                </div>
+
+                <div class="banner-inner-txt   ">
+                    <div class="disp-tbl">
+                        <div class="disp-tbl-cel ">
+                            <div class="container-fluid">
+                                <div class="txt-box animation-element slide-none">
+                                    
+
+                                    
+
+                                    
+                                        
+                                    
+
+                                    
+                                        <p class="bannerDescription" style="color : ">
+                                            
+                                        </p>
+                                    
+
+                                    
+
+                                    <div class="banner-btn">
+                                        
+
+                                        
+                                            
+                                                <a title="Explore" class="bannerAnalyticsBtn custom-btn bor arrow-r clr-w bg-b   " href="/in/en/tghe/" target="_blank" rel="nofollow">Explore</a>
+                                            
+                                            
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                    <a class="bannerAnalyticsBtn mobileBtnAna  image-text-overlay" href="/in/en/tghe/"></a>
+                
+                
+
+
+            
+
+            
+        </div>
+        <div id="ipstack-url" style="display: none;"></div>
+        <div class="emi-pricing-box d-none">
+            <div class="justify-content-space-evenly emi-pricing-details">
+                <div class="d-flex flex-column emi-pricing-col">
+                    <p class="main-amt">
+                        ​
+                        <span class="price"></span>/-
+                    </p>
+                    <p class="small-label">
+            <span class="emi-state" google-api="https://maps.googleapis.com/maps/api/geocode/json" google-key="AIzaSyB0Hw8rQaKG5wk_APSHZsLpx-41KZ6luW8">
+              
+            </span>
+                        <span class="btn-change-loc"></span>
+                    </p>
+                </div>
+                <div class="d-flex flex-column emi-pricing-col">
+                    <p class="main-amt"></p>
+                    <p class="small-label"><span class="emi">​</span><span></span></p>
+                </div>
+            </div>
+            <div class="select-state-emi-dropdown">
+                <div class="select-box-main">
+                    <select id="emi-select-field" price-value="​"></select>
+                </div>
+            </div>
+        </div>
+        
+    
+    
+
+						
+						
+	                </div>
+	            
+	                <div class="c-item">
+						
+							
+    
+        <div class="re-banner mobile-ctas mobi-banr-heading-only mobile-banner-txt-bottom-left banner-txt-left">
+            
+                <div class="banner-inner-img">
+                    <picture>
+                        <source class="mobiler" id="bannerMobileImg" srcset="/content/dam/royal-enfield/one-ride-2022/landing-page/one-ride-mob.png" media="(max-width: 767px)"/>
+
+                        <img class="bg-bg" id="bannerDesktopImg" srcset="/content/dam/royal-enfield/one-ride-2022/landing-page/2022-920x750.jpg" alt="One Ride 2022" title="One Ride 2022"/>
+
+                    </picture>
+                    
+                </div>
+
+                <div class="banner-inner-txt   ">
+                    <div class="disp-tbl">
+                        <div class="disp-tbl-cel ">
+                            <div class="container-fluid">
+                                <div class="txt-box animation-element slide-none">
+                                    
+
+                                    
+
+                                    
+                                        
+                                    
+
+                                    
+                                        <p class="bannerDescription" style="color : ">
+                                            
+                                        </p>
+                                    
+
+                                    
+
+                                    <div class="banner-btn">
+                                        
+
+                                        
+                                            
+                                                <a title="Explore" class="bannerAnalyticsBtn custom-btn bor arrow-r clr-w bg-b   " href="/in/en/one-ride-2022/">Explore</a>
+                                            
+                                            
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                    <a class="bannerAnalyticsBtn mobileBtnAna  image-text-overlay" href="/in/en/one-ride-2022/"></a>
+                
+                
+
+
+            
+
+            
+        </div>
+        <div id="ipstack-url" style="display: none;"></div>
+        <div class="emi-pricing-box d-none">
+            <div class="justify-content-space-evenly emi-pricing-details">
+                <div class="d-flex flex-column emi-pricing-col">
+                    <p class="main-amt">
+                        ​
+                        <span class="price"></span>/-
+                    </p>
+                    <p class="small-label">
+            <span class="emi-state" google-api="https://maps.googleapis.com/maps/api/geocode/json" google-key="AIzaSyB0Hw8rQaKG5wk_APSHZsLpx-41KZ6luW8">
+              
+            </span>
+                        <span class="btn-change-loc"></span>
+                    </p>
+                </div>
+                <div class="d-flex flex-column emi-pricing-col">
+                    <p class="main-amt"></p>
+                    <p class="small-label"><span class="emi">​</span><span></span></p>
+                </div>
+            </div>
+            <div class="select-state-emi-dropdown">
+                <div class="select-box-main">
+                    <select id="emi-select-field" price-value="​"></select>
+                </div>
+            </div>
+        </div>
+        
+    
+    
+
+						
+						
+	                </div>
+	            
+	                <div class="c-item">
+						
+							
+    
+        <div class="re-banner  mobi-banr-heading-only mobile-banner-txt-bottom-left banner-txt-center">
+            
+                <div class="banner-inner-img">
+                    <picture>
+                        <source class="mobiler" id="bannerMobileImg" srcset="/content/dam/royal-enfield/india/gtcup-2022/gtcup_home.png" media="(max-width: 767px)"/>
+
+                        <img class="bg-bg" id="bannerDesktopImg" srcset="/content/dam/royal-enfield/india/home/banner/desktop/gtcup-home.jpg" alt="GT Cup" title="GT Cup"/>
+
+                    </picture>
+                    
+                </div>
+
+                <div class="banner-inner-txt   ">
+                    <div class="disp-tbl">
+                        <div class="disp-tbl-cel ">
+                            <div class="container-fluid">
+                                <div class="txt-box animation-element slide-none">
+                                    
+
+                                    
+
+                                    
+                                        
+                                    
+
+                                    
+                                        <p class="bannerDescription" style="color : ">
+                                            
+                                        </p>
+                                    
+
+                                    
+
+                                    <div class="banner-btn">
+                                        
+
+                                        
+                                            
+                                                <a title="Explore" class="bannerAnalyticsBtn custom-btn bor arrow-r clr-w bg-b   " href="/in/en/gtcup/">Explore</a>
+                                            
+                                            
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                    <a class="bannerAnalyticsBtn mobileBtnAna  image-text-overlay" href="/in/en/gtcup/"></a>
+                
+                
+
+
+            
+
+            
+        </div>
+        <div id="ipstack-url" style="display: none;"></div>
+        <div class="emi-pricing-box d-none">
+            <div class="justify-content-space-evenly emi-pricing-details">
+                <div class="d-flex flex-column emi-pricing-col">
+                    <p class="main-amt">
+                        ​
+                        <span class="price"></span>/-
+                    </p>
+                    <p class="small-label">
+            <span class="emi-state" google-api="https://maps.googleapis.com/maps/api/geocode/json" google-key="AIzaSyB0Hw8rQaKG5wk_APSHZsLpx-41KZ6luW8">
+              
+            </span>
+                        <span class="btn-change-loc"></span>
+                    </p>
+                </div>
+                <div class="d-flex flex-column emi-pricing-col">
+                    <p class="main-amt"></p>
+                    <p class="small-label"><span class="emi">​</span><span></span></p>
+                </div>
+            </div>
+            <div class="select-state-emi-dropdown">
+                <div class="select-box-main">
+                    <select id="emi-select-field" price-value="​"></select>
+                </div>
+            </div>
+        </div>
+        
+    
+    
+
+						
+						
+	                </div>
+	            
+	                <div class="c-item">
+						
+							
+    
+        <div class="re-banner  mobi-banr-heading-only mobile-banner-txt-bottom-center banner-txt-bottom-center">
+            
+                <div class="banner-inner-img">
+                    <picture>
+                        <source class="mobiler" id="bannerMobileImg" srcset="/content/dam/royal-enfield/india/home/banner/mobile/explore_guide.png" media="(max-width: 767px)"/>
+
+                        <img class="bg-bg" id="bannerDesktopImg" srcset="/content/dam/royal-enfield/india/home/banner/desktop/explore-guide.jpg" alt="Explorer Guide" title="Explorer Guide"/>
+
+                    </picture>
+                    
+                </div>
+
+                <div class="banner-inner-txt   ">
+                    <div class="disp-tbl">
+                        <div class="disp-tbl-cel ">
+                            <div class="container-fluid">
+                                <div class="txt-box animation-element slide-none">
+                                    
+
+                                    
+
+                                    
+                                        
+                                    
+
+                                    
+                                        <p class="bannerDescription" style="color : ">
+                                            
+                                        </p>
+                                    
+
+                                    
+
+                                    <div class="banner-btn">
+                                        
+
+                                        
+                                            
+                                                <a title="Download Now" class="bannerAnalyticsBtn custom-btn bor arrow-r clr-w bg-b   " href="/content/dam/royal-enfield/india/home/banner/rider-support-map-himalayam-odyssey.pdf">Download Now</a>
+                                            
+                                            
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                    <a class="bannerAnalyticsBtn mobileBtnAna  image-text-overlay" href="/content/dam/royal-enfield/india/home/banner/rider-support-map-himalayam-odyssey.pdf"></a>
+                
+                
+
+
+            
+
+            
+        </div>
+        <div id="ipstack-url" style="display: none;"></div>
+        <div class="emi-pricing-box d-none">
+            <div class="justify-content-space-evenly emi-pricing-details">
+                <div class="d-flex flex-column emi-pricing-col">
+                    <p class="main-amt">
+                        ​
+                        <span class="price"></span>/-
+                    </p>
+                    <p class="small-label">
+            <span class="emi-state" google-api="https://maps.googleapis.com/maps/api/geocode/json" google-key="AIzaSyB0Hw8rQaKG5wk_APSHZsLpx-41KZ6luW8">
+              
+            </span>
+                        <span class="btn-change-loc"></span>
+                    </p>
+                </div>
+                <div class="d-flex flex-column emi-pricing-col">
+                    <p class="main-amt"></p>
+                    <p class="small-label"><span class="emi">​</span><span></span></p>
+                </div>
+            </div>
+            <div class="select-state-emi-dropdown">
+                <div class="select-box-main">
+                    <select id="emi-select-field" price-value="​"></select>
+                </div>
+            </div>
+        </div>
+        
+    
+    
+
+						
+						
+	                </div>
+	            </div>
+	          
+	
+			
+	
+	    </section>
+	
+
+
+	
+    
+
+
+
+</div>
+
+
+    
+    
+    <div class="carousel">
+
+</div>
+
+
+</div>
+        <div>
+
+
+    
+<link rel="stylesheet" href="/etc.clientlibs/re-platform/clientlibs/re-platform/components/common/miniCarousel.min.6f6841fad2b3f46c24955f9eec84e793.css" type="text/css">
+<script src="/etc.clientlibs/re-platform/clientlibs/re-platform/components/common/miniCarousel.min.js"></script>
+
+
+
+	
+    
+		<section id="miniCarouselShowcase-895" class="mini-carousel  ">
+			
+	
+			
+		        <div id="miniCraouselAna" class="carousel-grid-4">
+					<div class="c-item">
+						<a title="The Hunter certainly meets the expectations of a modern day Royal Enfield . It&#39;s a well designed, well engineered motorcycle with a  good sense of character." class="card-comp txt-overlay white" href="/in/en/our-world/media/news/product-reviews/the-hunter-certainly-meets-the-expectations-of-a-modern-day-royal-enfield.html">
+							<img src="/content/dam/royal-enfield/india/home/tout/hunter-autocar.jpg" alt="Autocar" title="Autocar"/>
+							<div class="card-comp-txt text-left">
+		                    	<h4 class="textHeading">The Hunter certainly meets the expectations of a modern day Royal Enfield . It&#39;s a well designed, well engineered motorcycle with a  good sense of character.</h4>
+		                       	
+	
+		                    </div>
+						</a>
+					</div>
+				
+					<div class="c-item">
+						<a title="The Hunter 350 is a motorcycle that keeps things simple, fun and engaging with a touch of finesse - just like the other modern RE machines - which makes it very likeable." class="card-comp txt-overlay white" href="/in/en/our-world/media/news/product-reviews/the-hunter-350-is-a-motorcycle-that-keeps-things-simple-fun-and-engaging-with-a-touch-of-finesse.html">
+							<img src="/content/dam/royal-enfield/india/home/tout/huunter-overdrive.jpg" alt="Overdrive" title="Overdrive"/>
+							<div class="card-comp-txt text-left">
+		                    	<h4 class="textHeading">The Hunter 350 is a motorcycle that keeps things simple, fun and engaging with a touch of finesse - just like the other modern RE machines - which makes it very likeable.</h4>
+		                       	
+	
+		                    </div>
+						</a>
+					</div>
+				
+					<div class="c-item">
+						<a title="Democratic like jeans, the Hunter 350 is perfect for those who want an easy, personal motorcycle, with an agile and fun ride even in the city. " class="card-comp txt-overlay white" href="/in/en/our-world/media/news/product-reviews/democratic-like-jeans-the-hunter-350-is-perfect-for-those-who-want-an-easy-personal-motorcycle.html">
+							<img src="/content/dam/royal-enfield/india/home/tout/hunter-moto.jpg" alt="Moto" title="Moto"/>
+							<div class="card-comp-txt text-left">
+		                    	<h4 class="textHeading">Democratic like jeans, the Hunter 350 is perfect for those who want an easy, personal motorcycle, with an agile and fun ride even in the city. </h4>
+		                       	
+	
+		                    </div>
+						</a>
+					</div>
+				
+					<div class="c-item">
+						<a title="Built to be slick and fun around the city, the Hunter 350 is a hoot to ride. While the chassis set-up is brilliant, the engine too syncs well in spite of it being the long stroke motor. Overall then the Hunter 350 is a brilliant package and should be able to draw naysayers to the brand." class="card-comp txt-overlay white" href="/in/en/our-world/media/news/product-reviews/built-to-be-slick-and-fun-around-the-city-the-hunter-350-is-a-hoot-to-ride.html">
+							<img src="/content/dam/royal-enfield/india/home/tout/hunter-auto-today.jpg" alt="Auto Today" title="Auto Today"/>
+							<div class="card-comp-txt text-left">
+		                    	<h4 class="textHeading">Built to be slick and fun around the city, the Hunter 350 is a hoot to ride. While the chassis set-up is brilliant, the engine too syncs well in spite of it being the long stroke motor. Overall then the Hunter 350 is a brilliant package and should be able to draw naysayers to the brand.</h4>
+		                       	
+	
+		                    </div>
+						</a>
+					</div>
+				</div>
+			
+	
+		</section>
+	
+    
+</div>
+        <div>
+
+
+
+
+</div>
+        <div>
+
+
+
+    
+<link rel="stylesheet" href="/etc.clientlibs/re-platform/clientlibs/re-platform/components/common/secondaryNavigation.min.d41d8cd98f00b204e9800998ecf8427e.css" type="text/css">
+<script src="/etc.clientlibs/re-platform/clientlibs/re-platform/components/common/secondaryNavigation.min.js"></script>
+
+
+
+
+
+	
+	
+	
+	    
+	    
+
+	<div class="follow-sticky-wrap" id="no-feature-overlay">
+        <div id="secNavMotorcycles-8792">
+            <section id="secondary-navigation-3999" data-id="3999" class="secondary-navigation follow-sticky-header no-feature-overlay ">
+                <div class="container-fluid"> 
+                    <div class="fsh-left">
+                        <a title="Royal Enfield" class="fsh-re" href="/in/en/home/">
+                            <img title="Royal Enfield" src="/content/dam/royal-enfield/india/logos/logo.svg" alt="Royal Enfield"/>
+                        </a>
+                        <a title="Motorcycles" class="fsh-head rideDetail" id="secNavPrimaryText">Motorcycles</a>
+                    </div>
+                    <div class="fsh-right">
+                        <div class="carousel-thumb-sh">
+                            <div class="c-item">
+                                <a title="Hunter 350">Hunter 350</a>
+                            </div>      	
+                        
+                            <div class="c-item">
+                                <a title="Scram 411">Scram 411</a>
+                            </div>      	
+                        
+                            <div class="c-item">
+                                <a title="Classic">Classic</a>
+                            </div>      	
+                        
+                            <div class="c-item">
+                                <a title="Interceptor">Interceptor</a>
+                            </div>      	
+                        
+                            <div class="c-item">
+                                <a title="Continental GT">Continental GT</a>
+                            </div>      	
+                        
+                            <div class="c-item">
+                                <a title="Meteor">Meteor</a>
+                            </div>      	
+                        
+                            <div class="c-item">
+                                <a title="Himalayan">Himalayan</a>
+                            </div>      	
+                        
+                            <div class="c-item">
+                                <a title="Bullet">Bullet</a>
+                            </div>      	
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+	</div>
+
+	<section id="secondary-navigation-carousel-3999" data-id="3999" class="secondary-navigation-carousel">
+    	<div class="carousel-content-sh">
+        	
+            	<div class="c-item">
+	              
+    
+        <div class="re-banner mobile-ctas mobi-banr-heading-only mobile-banner-txt-bottom-center banner-txt-left">
+            
+                <div class="banner-inner-img">
+                    <picture>
+                        <source class="mobiler" id="bannerMobileImg" srcset="/content/dam/royal-enfield/hunter-350/home/motorcycle/hunter-350_motorcycle_home.jpg" media="(max-width: 767px)"/>
+
+                        <img class="bg-bg" id="bannerDesktopImg" srcset="/content/dam/royal-enfield/hunter-350/home/motorcycle/hunter-350-motorcycle-home.jpg" alt="Hunter 350" title="Hunter 350"/>
+
+                    </picture>
+                    
+                </div>
+
+                <div class="banner-inner-txt   ">
+                    <div class="disp-tbl">
+                        <div class="disp-tbl-cel ">
+                            <div class="container-fluid">
+                                <div class="txt-box animation-element slide-none">
+                                    
+
+                                    
+
+                                    
+                                        
+                                    
+
+                                    
+                                        <p class="bannerDescription" style="color : ">
+                                            
+                                        </p>
+                                    
+
+                                    
+
+                                    <div class="banner-btn">
+                                        
+
+                                        
+                                            
+                                                <a title="Explore" class="bannerAnalyticsBtn custom-btn bor arrow-r clr-w bg-b   " href="/in/en/motorcycles/hunter-350/">Explore</a>
+                                            
+                                            
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                    <a class="bannerAnalyticsBtn mobileBtnAna  image-text-overlay" href="/in/en/motorcycles/hunter-350/"></a>
+                
+                
+
+
+            
+
+            
+        </div>
+        <div id="ipstack-url" style="display: none;"></div>
+        <div class="emi-pricing-box d-none">
+            <div class="justify-content-space-evenly emi-pricing-details">
+                <div class="d-flex flex-column emi-pricing-col">
+                    <p class="main-amt">
+                        ​
+                        <span class="price"></span>/-
+                    </p>
+                    <p class="small-label">
+            <span class="emi-state" google-api="https://maps.googleapis.com/maps/api/geocode/json" google-key="AIzaSyB0Hw8rQaKG5wk_APSHZsLpx-41KZ6luW8">
+              
+            </span>
+                        <span class="btn-change-loc"></span>
+                    </p>
+                </div>
+                <div class="d-flex flex-column emi-pricing-col">
+                    <p class="main-amt"></p>
+                    <p class="small-label"><span class="emi">​</span><span></span></p>
+                </div>
+            </div>
+            <div class="select-state-emi-dropdown">
+                <div class="select-box-main">
+                    <select id="emi-select-field" price-value="​"></select>
+                </div>
+            </div>
+        </div>
+        
+    
+    
+
+                </div>
+            
+            	<div class="c-item">
+	              
+    
+        <div class="re-banner  mobi-banr-heading-only mobile-banner-txt-bottom-left banner-txt-bottom-center">
+            
+                <div class="banner-inner-img">
+                    <picture>
+                        <source class="mobiler" id="bannerMobileImg" srcset="/content/dam/royal-enfield/india/motorcycles/scram/home/mobile/scram_411.png" media="(max-width: 767px)"/>
+
+                        <img class="bg-bg" id="bannerDesktopImg" srcset="/content/dam/royal-enfield/india/motorcycles/scram/home/desktop/scram-411.png" alt="Scram 411" title="Scram 411"/>
+
+                    </picture>
+                    
+                </div>
+
+                <div class="banner-inner-txt   ">
+                    <div class="disp-tbl">
+                        <div class="disp-tbl-cel ">
+                            <div class="container-fluid">
+                                <div class="txt-box animation-element slide-none">
+                                    
+
+                                    
+
+                                    
+                                        
+                                    
+
+                                    
+                                        <p class="bannerDescription" style="color : ">
+                                            
+                                        </p>
+                                    
+
+                                    
+
+                                    <div class="banner-btn">
+                                        
+
+                                        
+                                            
+                                                <a title="Explore" class="bannerAnalyticsBtn custom-btn bor arrow-r clr-w bg-b   " href="/in/en/motorcycles/scram411/">Explore</a>
+                                            
+                                            
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                    <a class="bannerAnalyticsBtn mobileBtnAna  image-text-overlay" href="/in/en/motorcycles/scram411/"></a>
+                
+                
+
+
+            
+
+            
+        </div>
+        <div id="ipstack-url" style="display: none;"></div>
+        <div class="emi-pricing-box d-none">
+            <div class="justify-content-space-evenly emi-pricing-details">
+                <div class="d-flex flex-column emi-pricing-col">
+                    <p class="main-amt">
+                        ​
+                        <span class="price"></span>/-
+                    </p>
+                    <p class="small-label">
+            <span class="emi-state" google-api="https://maps.googleapis.com/maps/api/geocode/json" google-key="AIzaSyB0Hw8rQaKG5wk_APSHZsLpx-41KZ6luW8">
+              
+            </span>
+                        <span class="btn-change-loc"></span>
+                    </p>
+                </div>
+                <div class="d-flex flex-column emi-pricing-col">
+                    <p class="main-amt"></p>
+                    <p class="small-label"><span class="emi">​</span><span></span></p>
+                </div>
+            </div>
+            <div class="select-state-emi-dropdown">
+                <div class="select-box-main">
+                    <select id="emi-select-field" price-value="​"></select>
+                </div>
+            </div>
+        </div>
+        
+    
+    
+
+                </div>
+            
+            	<div class="c-item">
+	              
+    
+        <div class="re-banner  mobi-banr-heading-only mobile-banner-txt-bottom-left banner-txt-left">
+            
+                <div class="banner-inner-img">
+                    <picture>
+                        <source class="mobiler" id="bannerMobileImg" srcset="/content/dam/royal-enfield/india/motorcycles/classic-350/motorcycle/classic_350_motorcycle_section.png" media="(max-width: 767px)"/>
+
+                        <img class="bg-bg" id="bannerDesktopImg" srcset="/content/dam/royal-enfield/india/motorcycles/classic-350/motorcycle/classic-350-motorcycle-section.png" alt="J1A Motorcycle" title="J1A Motorcycle"/>
+
+                    </picture>
+                    
+                </div>
+
+                <div class="banner-inner-txt   ">
+                    <div class="disp-tbl">
+                        <div class="disp-tbl-cel ">
+                            <div class="container-fluid">
+                                <div class="txt-box animation-element slide-none">
+                                    
+
+                                    
+
+                                    
+                                        
+                                    
+
+                                    
+                                        <p class="bannerDescription" style="color : ">
+                                            
+                                        </p>
+                                    
+
+                                    
+
+                                    <div class="banner-btn">
+                                        
+
+                                        
+                                            
+                                                <a title="Explore" class="bannerAnalyticsBtn custom-btn bor arrow-r clr-w bg-b   " href="/in/en/motorcycles/classic-350/">Explore</a>
+                                            
+                                            
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                    <a class="bannerAnalyticsBtn mobileBtnAna  image-text-overlay" href="/in/en/motorcycles/classic-350/"></a>
+                
+                
+
+
+            
+
+            
+        </div>
+        <div id="ipstack-url" style="display: none;"></div>
+        <div class="emi-pricing-box d-none">
+            <div class="justify-content-space-evenly emi-pricing-details">
+                <div class="d-flex flex-column emi-pricing-col">
+                    <p class="main-amt">
+                        ​
+                        <span class="price"></span>/-
+                    </p>
+                    <p class="small-label">
+            <span class="emi-state" google-api="https://maps.googleapis.com/maps/api/geocode/json" google-key="AIzaSyB0Hw8rQaKG5wk_APSHZsLpx-41KZ6luW8">
+              
+            </span>
+                        <span class="btn-change-loc"></span>
+                    </p>
+                </div>
+                <div class="d-flex flex-column emi-pricing-col">
+                    <p class="main-amt"></p>
+                    <p class="small-label"><span class="emi">​</span><span></span></p>
+                </div>
+            </div>
+            <div class="select-state-emi-dropdown">
+                <div class="select-box-main">
+                    <select id="emi-select-field" price-value="​"></select>
+                </div>
+            </div>
+        </div>
+        
+    
+    
+
+                </div>
+            
+            	<div class="c-item">
+	              
+    
+        <div class="re-banner  mobi-banr-heading-only mobile-banner-txt-bottom-left banner-txt-center">
+            
+                <div class="banner-inner-img">
+                    <picture>
+                        <source class="mobiler" id="bannerMobileImg" srcset="/content/dam/royal-enfield/india/home/motorcycles/mobile/interceptor_homepage.jpg" media="(max-width: 767px)"/>
+
+                        <img class="bg-bg" id="bannerDesktopImg" srcset="/content/dam/royal-enfield/india/home/motorcycles/desktop/interceptor-homepage.jpg" alt="Buy Royal Enfield Interceptor Motorcycle" title="Buy Royal Enfield Interceptor Motorcycle"/>
+
+                    </picture>
+                    
+                </div>
+
+                <div class="banner-inner-txt   ">
+                    <div class="disp-tbl">
+                        <div class="disp-tbl-cel ">
+                            <div class="container-fluid">
+                                <div class="txt-box animation-element slide-none">
+                                    
+
+                                    
+
+                                    
+                                        
+                                    
+
+                                    
+                                        <p class="bannerDescription" style="color : ">
+                                            
+                                        </p>
+                                    
+
+                                    
+
+                                    <div class="banner-btn">
+                                        
+
+                                        
+                                            
+                                                <a title="Explore" class="bannerAnalyticsBtn custom-btn bor arrow-r clr-w bg-b   " href="/in/en/motorcycles/interceptor/">Explore</a>
+                                            
+                                            
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                    <a class="bannerAnalyticsBtn mobileBtnAna  image-text-overlay" href="/in/en/motorcycles/interceptor/"></a>
+                
+                
+
+
+            
+
+            
+        </div>
+        <div id="ipstack-url" style="display: none;"></div>
+        <div class="emi-pricing-box d-none">
+            <div class="justify-content-space-evenly emi-pricing-details">
+                <div class="d-flex flex-column emi-pricing-col">
+                    <p class="main-amt">
+                        ​
+                        <span class="price"></span>/-
+                    </p>
+                    <p class="small-label">
+            <span class="emi-state" google-api="https://maps.googleapis.com/maps/api/geocode/json" google-key="AIzaSyB0Hw8rQaKG5wk_APSHZsLpx-41KZ6luW8">
+              
+            </span>
+                        <span class="btn-change-loc"></span>
+                    </p>
+                </div>
+                <div class="d-flex flex-column emi-pricing-col">
+                    <p class="main-amt"></p>
+                    <p class="small-label"><span class="emi">​</span><span></span></p>
+                </div>
+            </div>
+            <div class="select-state-emi-dropdown">
+                <div class="select-box-main">
+                    <select id="emi-select-field" price-value="​"></select>
+                </div>
+            </div>
+        </div>
+        
+    
+    
+
+                </div>
+            
+            	<div class="c-item">
+	              
+    
+        <div class="re-banner  mobi-banr-heading-only mobile-banner-txt-bottom-left banner-txt-center">
+            
+                <div class="banner-inner-img">
+                    <picture>
+                        <source class="mobiler" id="bannerMobileImg" srcset="/content/dam/royal-enfield/india/home/motorcycles/mobile/continental_gt_homepage.jpg" media="(max-width: 767px)"/>
+
+                        <img class="bg-bg" id="bannerDesktopImg" srcset="/content/dam/royal-enfield/india/home/motorcycles/desktop/continental-gt-homepage.jpg" alt="Royal Enfield Continental GT Motorcycle" title="Royal Enfield Continental GT Motorcycle"/>
+
+                    </picture>
+                    
+                </div>
+
+                <div class="banner-inner-txt   ">
+                    <div class="disp-tbl">
+                        <div class="disp-tbl-cel ">
+                            <div class="container-fluid">
+                                <div class="txt-box animation-element slide-none">
+                                    
+
+                                    
+
+                                    
+                                        
+                                    
+
+                                    
+                                        <p class="bannerDescription" style="color : ">
+                                            
+                                        </p>
+                                    
+
+                                    
+
+                                    <div class="banner-btn">
+                                        
+
+                                        
+                                            
+                                                <a title="Explore" class="bannerAnalyticsBtn custom-btn bor arrow-r clr-w bg-b   " href="/in/en/motorcycles/continental-gt/">Explore</a>
+                                            
+                                            
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                    <a class="bannerAnalyticsBtn mobileBtnAna  image-text-overlay" href="/in/en/motorcycles/continental-gt/"></a>
+                
+                
+
+
+            
+
+            
+        </div>
+        <div id="ipstack-url" style="display: none;"></div>
+        <div class="emi-pricing-box d-none">
+            <div class="justify-content-space-evenly emi-pricing-details">
+                <div class="d-flex flex-column emi-pricing-col">
+                    <p class="main-amt">
+                        ​
+                        <span class="price"></span>/-
+                    </p>
+                    <p class="small-label">
+            <span class="emi-state" google-api="https://maps.googleapis.com/maps/api/geocode/json" google-key="AIzaSyB0Hw8rQaKG5wk_APSHZsLpx-41KZ6luW8">
+              
+            </span>
+                        <span class="btn-change-loc"></span>
+                    </p>
+                </div>
+                <div class="d-flex flex-column emi-pricing-col">
+                    <p class="main-amt"></p>
+                    <p class="small-label"><span class="emi">​</span><span></span></p>
+                </div>
+            </div>
+            <div class="select-state-emi-dropdown">
+                <div class="select-box-main">
+                    <select id="emi-select-field" price-value="​"></select>
+                </div>
+            </div>
+        </div>
+        
+    
+    
+
+                </div>
+            
+            	<div class="c-item">
+	              
+    
+        <div class="re-banner  mobi-banr-heading-only mobile-banner-txt-bottom-left banner-txt-bottom-left">
+            
+                <div class="banner-inner-img">
+                    <picture>
+                        <source class="mobiler" id="bannerMobileImg" srcset="/content/dam/royal-enfield/india/home/motorcycles/mobile/royal_enfield_meteor_new_banner.png" media="(max-width: 767px)"/>
+
+                        <img class="bg-bg" id="bannerDesktopImg" srcset="/content/dam/royal-enfield/india/home/motorcycles/desktop/royal-enfield-meteor-new-banner.jpg" alt="Royal Enfield Meteor 350" title="Royal Enfield Meteor 350"/>
+
+                    </picture>
+                    
+                </div>
+
+                <div class="banner-inner-txt   ">
+                    <div class="disp-tbl">
+                        <div class="disp-tbl-cel ">
+                            <div class="container-fluid">
+                                <div class="txt-box animation-element slide-none">
+                                    
+
+                                    
+
+                                    
+                                        
+                                    
+
+                                    
+                                        <p class="bannerDescription" style="color : ">
+                                            
+                                        </p>
+                                    
+
+                                    
+
+                                    <div class="banner-btn">
+                                        
+
+                                        
+                                            
+                                                <a title="Know More" class="bannerAnalyticsBtn custom-btn bor arrow-r clr-w bg-b   " href="/in/en/motorcycles/meteor/">Know More</a>
+                                            
+                                            
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                    <a class="bannerAnalyticsBtn mobileBtnAna  image-text-overlay" href="/in/en/motorcycles/meteor/"></a>
+                
+                
+
+
+            
+
+            
+        </div>
+        <div id="ipstack-url" style="display: none;"></div>
+        <div class="emi-pricing-box d-none">
+            <div class="justify-content-space-evenly emi-pricing-details">
+                <div class="d-flex flex-column emi-pricing-col">
+                    <p class="main-amt">
+                        ​
+                        <span class="price"></span>/-
+                    </p>
+                    <p class="small-label">
+            <span class="emi-state" google-api="https://maps.googleapis.com/maps/api/geocode/json" google-key="AIzaSyB0Hw8rQaKG5wk_APSHZsLpx-41KZ6luW8">
+              
+            </span>
+                        <span class="btn-change-loc"></span>
+                    </p>
+                </div>
+                <div class="d-flex flex-column emi-pricing-col">
+                    <p class="main-amt"></p>
+                    <p class="small-label"><span class="emi">​</span><span></span></p>
+                </div>
+            </div>
+            <div class="select-state-emi-dropdown">
+                <div class="select-box-main">
+                    <select id="emi-select-field" price-value="​"></select>
+                </div>
+            </div>
+        </div>
+        
+    
+    
+
+                </div>
+            
+            	<div class="c-item">
+	              
+    
+        <div class="re-banner  mobi-banr-heading-only mobile-banner-txt-bottom-left banner-txt-left">
+            
+                <div class="banner-inner-img">
+                    <picture>
+                        <source class="mobiler" id="bannerMobileImg" srcset="/content/dam/royal-enfield/india/home/motorcycles/mobile/royal_enfield_himalayan_motorcycle.jpg" media="(max-width: 767px)"/>
+
+                        <img class="bg-bg" id="bannerDesktopImg" srcset="/content/dam/royal-enfield/india/home/motorcycles/desktop/royal-enfield-himalayan-motorcycle.jpg" alt="Buy Royal Enfield Himalayan" title="Buy Royal Enfield Himalayan"/>
+
+                    </picture>
+                    
+                </div>
+
+                <div class="banner-inner-txt   ">
+                    <div class="disp-tbl">
+                        <div class="disp-tbl-cel ">
+                            <div class="container-fluid">
+                                <div class="txt-box animation-element slide-none">
+                                    
+                                        <img class="img-responsive" alt="Royal Enfield Himalayan Motorcycle Logo" src="/content/dam/royal-enfield/india/motorcycles/himalayan/logos/himalayan.svg" title="Royal Enfield Himalayan Motorcycle Logo"/>
+                                    
+
+                                    
+
+                                    
+                                        
+                                    
+
+                                    
+                                        <p class="bannerDescription" style="color : ">
+                                            Built for all roads, Built for no roads
+                                        </p>
+                                    
+
+                                    
+
+                                    <div class="banner-btn">
+                                        
+
+                                        
+                                            
+                                                <a title="Explore" class="bannerAnalyticsBtn custom-btn bor arrow-r clr-w bg-b   " href="/in/en/motorcycles/himalayan/">Explore</a>
+                                            
+                                            
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                    <a class="bannerAnalyticsBtn mobileBtnAna  image-text-overlay" href="/in/en/motorcycles/himalayan/"></a>
+                
+                
+
+
+            
+
+            
+        </div>
+        <div id="ipstack-url" style="display: none;"></div>
+        <div class="emi-pricing-box d-none">
+            <div class="justify-content-space-evenly emi-pricing-details">
+                <div class="d-flex flex-column emi-pricing-col">
+                    <p class="main-amt">
+                        ​
+                        <span class="price"></span>/-
+                    </p>
+                    <p class="small-label">
+            <span class="emi-state" google-api="https://maps.googleapis.com/maps/api/geocode/json" google-key="AIzaSyB0Hw8rQaKG5wk_APSHZsLpx-41KZ6luW8">
+              
+            </span>
+                        <span class="btn-change-loc"></span>
+                    </p>
+                </div>
+                <div class="d-flex flex-column emi-pricing-col">
+                    <p class="main-amt"></p>
+                    <p class="small-label"><span class="emi">​</span><span></span></p>
+                </div>
+            </div>
+            <div class="select-state-emi-dropdown">
+                <div class="select-box-main">
+                    <select id="emi-select-field" price-value="​"></select>
+                </div>
+            </div>
+        </div>
+        
+    
+    
+
+                </div>
+            
+            	<div class="c-item">
+	              
+    
+        <div class="re-banner  mobi-banr-heading-only mobile-banner-txt-bottom-left banner-txt-left">
+            
+                <div class="banner-inner-img">
+                    <picture>
+                        <source class="mobiler" id="bannerMobileImg" srcset="/content/dam/royal-enfield/india/home/motorcycles/mobile/bullet-350.jpg" media="(max-width: 767px)"/>
+
+                        <img class="bg-bg" id="bannerDesktopImg" srcset="/content/dam/royal-enfield/india/home/motorcycles/desktop/banner.jpg" alt="Royal Enfield Bullet 350 Motorcycle" title="Royal Enfield Bullet 350 Motorcycle"/>
+
+                    </picture>
+                    
+                </div>
+
+                <div class="banner-inner-txt   ">
+                    <div class="disp-tbl">
+                        <div class="disp-tbl-cel ">
+                            <div class="container-fluid">
+                                <div class="txt-box animation-element slide-none">
+                                    
+                                        <img class="img-responsive" alt="Bullet 350 Motorcycle Logo" src="/content/dam/royal-enfield/india/motorcycles/bullet/bullet-350/logos/bullet-350.svg" title="Bullet 350 Motorcycle Logo"/>
+                                    
+
+                                    
+
+                                    
+                                        
+                                    
+
+                                    
+                                        <p class="bannerDescription" style="color : ">
+                                            A motorcycling icon since 1932
+                                        </p>
+                                    
+
+                                    
+
+                                    <div class="banner-btn">
+                                        
+
+                                        
+                                            
+                                                <a title="Explore" class="bannerAnalyticsBtn custom-btn bor arrow-r clr-w bg-b   " href="/in/en/motorcycles/bullet-models/">Explore</a>
+                                            
+                                            
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                    <a class="bannerAnalyticsBtn mobileBtnAna  image-text-overlay" href="/in/en/motorcycles/bullet-models/"></a>
+                
+                
+
+
+            
+
+            
+        </div>
+        <div id="ipstack-url" style="display: none;"></div>
+        <div class="emi-pricing-box d-none">
+            <div class="justify-content-space-evenly emi-pricing-details">
+                <div class="d-flex flex-column emi-pricing-col">
+                    <p class="main-amt">
+                        ​
+                        <span class="price"></span>/-
+                    </p>
+                    <p class="small-label">
+            <span class="emi-state" google-api="https://maps.googleapis.com/maps/api/geocode/json" google-key="AIzaSyB0Hw8rQaKG5wk_APSHZsLpx-41KZ6luW8">
+              
+            </span>
+                        <span class="btn-change-loc"></span>
+                    </p>
+                </div>
+                <div class="d-flex flex-column emi-pricing-col">
+                    <p class="main-amt"></p>
+                    <p class="small-label"><span class="emi">​</span><span></span></p>
+                </div>
+            </div>
+            <div class="select-state-emi-dropdown">
+                <div class="select-box-main">
+                    <select id="emi-select-field" price-value="​"></select>
+                </div>
+            </div>
+        </div>
+        
+    
+    
+
+                </div>
+            
+        </div>
+
+	</section>
+
+
+	
+	
+
+</div>
+        <div>
+
+
+
+
+</div>
+        <div>
+
+
+
+    
+
+
+
+
+
+	
+	
+	
+	    
+	    
+
+	<div class="follow-sticky-wrap">
+        <div id="secNavRides-5978">
+            <section id="secondary-navigation-4642" data-id="4642" class="secondary-navigation follow-sticky-header  ">
+                <div class="container-fluid"> 
+                    <div class="fsh-left">
+                        <a title="Royal Enfield" class="fsh-re" href="/in/en/home/">
+                            <img title="Royal Enfield" src="/content/dam/royal-enfield/india/logos/logo.svg" alt="Royal Enfield"/>
+                        </a>
+                        <a title="Events" class="fsh-head rideDetail" id="secNavPrimaryText">Events</a>
+                    </div>
+                    <div class="fsh-right">
+                        <div class="carousel-thumb-sh">
+                            <div class="c-item">
+                                <a title="Events">Events</a>
+                            </div>      	
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+	</div>
+
+	<section id="secondary-navigation-carousel-4642" data-id="4642" class="secondary-navigation-carousel">
+    	<div class="carousel-content-sh">
+        	
+            	<div class="c-item">
+	              
+    
+        <div class="re-banner mobile-ctas mobi-banr-heading-only mobile-banner-txt-bottom-center banner-txt-left">
+            
+                <div class="banner-inner-img">
+                    <picture>
+                        <source class="mobiler" id="bannerMobileImg" srcset="/content/dam/royal-enfield/india/home/video-trials/royal_enfield_rider_mania.gif" media="(max-width: 767px)"/>
+
+                        <img class="bg-bg" id="bannerDesktopImg" srcset="/content/dam/royal-enfield/india/home/video-trials/royal-enfield-rider-mania.gif" alt="Rider Mania 2022" title="Rider Mania 2022"/>
+
+                    </picture>
+                    
+                </div>
+
+                <div class="banner-inner-txt   ">
+                    <div class="disp-tbl">
+                        <div class="disp-tbl-cel ">
+                            <div class="container-fluid">
+                                <div class="txt-box animation-element slide-none">
+                                    
+
+                                    
+
+                                    
+                                        
+                                    
+
+                                    
+                                        <p class="bannerDescription" style="color : ">
+                                            
+                                        </p>
+                                    
+
+                                    
+
+                                    <div class="banner-btn">
+                                        
+
+                                        
+                                            
+                                                <a title="Explore" class="bannerAnalyticsBtn custom-btn bor arrow-r clr-w bg-b bg-white-mob  " href="/in/en/rides/events/rider-mania-2022/">Explore</a>
+                                            
+                                            
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                    <a class="bannerAnalyticsBtn mobileBtnAna  image-text-overlay" href="/in/en/rides/events/rider-mania-2022/"></a>
+                
+                
+
+
+            
+
+            
+        </div>
+        <div id="ipstack-url" style="display: none;"></div>
+        <div class="emi-pricing-box d-none">
+            <div class="justify-content-space-evenly emi-pricing-details">
+                <div class="d-flex flex-column emi-pricing-col">
+                    <p class="main-amt">
+                        ​
+                        <span class="price"></span>/-
+                    </p>
+                    <p class="small-label">
+            <span class="emi-state" google-api="https://maps.googleapis.com/maps/api/geocode/json" google-key="AIzaSyB0Hw8rQaKG5wk_APSHZsLpx-41KZ6luW8">
+              
+            </span>
+                        <span class="btn-change-loc"></span>
+                    </p>
+                </div>
+                <div class="d-flex flex-column emi-pricing-col">
+                    <p class="main-amt"></p>
+                    <p class="small-label"><span class="emi">​</span><span></span></p>
+                </div>
+            </div>
+            <div class="select-state-emi-dropdown">
+                <div class="select-box-main">
+                    <select id="emi-select-field" price-value="​"></select>
+                </div>
+            </div>
+        </div>
+        
+    
+    
+
+                </div>
+            
+        </div>
+
+	</section>
+
+
+	
+	
+
+</div>
+        <div>
+
+
+
+
+</div>
+		<div>
+
+
+</div>
+        <div>
+
+
+
+
+</div>
+		<div>
+
+
+
+    
+
+
+
+
+
+	
+	
+	
+	    
+	    
+
+	<div class="follow-sticky-wrap">
+        <div id="secNavGears-3249">
+            <section id="secondary-navigation-1111" data-id="1111" class="secondary-navigation follow-sticky-header  ">
+                <div class="container-fluid"> 
+                    <div class="fsh-left">
+                        <a title="Royal Enfield" class="fsh-re" href="/in/en/home/">
+                            <img title="Royal Enfield" src="/content/dam/re-platform-images/logo.svg" alt="Royal Enfield"/>
+                        </a>
+                        <a title="Apparel" class="fsh-head rideDetail" id="secNavPrimaryText">Apparel</a>
+                    </div>
+                    <div class="fsh-right">
+                        <div class="carousel-thumb-sh">
+                            <div class="c-item">
+                                <a title="Art Of Motorcycling x NFTs">Art Of Motorcycling x NFTs</a>
+                            </div>      	
+                        
+                            <div class="c-item">
+                                <a title="Royal Enfield X Alpinestar">Royal Enfield X Alpinestar</a>
+                            </div>      	
+                        
+                            <div class="c-item">
+                                <a title="Scram 411 Collections">Scram 411 Collections</a>
+                            </div>      	
+                        
+                            <div class="c-item">
+                                <a title="Royal Enfield x TCX">Royal Enfield x TCX</a>
+                            </div>      	
+                        
+                            <div class="c-item">
+                                <a title="MIY Riding Jacket">MIY Riding Jacket</a>
+                            </div>      	
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+	</div>
+
+	<section id="secondary-navigation-carousel-1111" data-id="1111" class="secondary-navigation-carousel">
+    	<div class="carousel-content-sh">
+        	
+            	<div class="c-item">
+	              
+    
+        <div class="re-banner mobile-ctas mobi-banr-heading-only mobile-banner-txt-left banner-txt-left">
+            
+                <div class="banner-inner-img">
+                    <picture>
+                        <source class="mobiler" id="bannerMobileImg" srcset="/content/dam/royal-enfield/india/home/banner/mobile/art_of_motorcycling_x_nfts.jpg" media="(max-width: 767px)"/>
+
+                        <img class="bg-bg" id="bannerDesktopImg" srcset="/content/dam/royal-enfield/india/home/banner/desktop/art-of-motorcycling-x-nfts.jpg" alt="Art of Motorcycling x NFTs" title="Art of Motorcycling x NFTs"/>
+
+                    </picture>
+                    
+                </div>
+
+                <div class="banner-inner-txt   ">
+                    <div class="disp-tbl">
+                        <div class="disp-tbl-cel ">
+                            <div class="container-fluid">
+                                <div class="txt-box animation-element slide-none">
+                                    
+
+                                    
+
+                                    
+                                        
+                                    
+
+                                    
+                                        <p class="bannerDescription" style="color : ">
+                                            
+                                        </p>
+                                    
+
+                                    
+
+                                    <div class="banner-btn">
+                                        
+
+                                        
+                                            
+                                                <a title="Know more" class="bannerAnalyticsBtn custom-btn bor arrow-r clr-w bg-b   " href="https://store.royalenfield.com/art/nft" target="_blank" rel="nofollow">Know more</a>
+                                            
+                                            
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                    <a class="bannerAnalyticsBtn mobileBtnAna  image-text-overlay" href="https://store.royalenfield.com/art/nft"></a>
+                
+                
+
+
+            
+
+            
+        </div>
+        <div id="ipstack-url" style="display: none;"></div>
+        <div class="emi-pricing-box d-none">
+            <div class="justify-content-space-evenly emi-pricing-details">
+                <div class="d-flex flex-column emi-pricing-col">
+                    <p class="main-amt">
+                        ​
+                        <span class="price"></span>/-
+                    </p>
+                    <p class="small-label">
+            <span class="emi-state" google-api="https://maps.googleapis.com/maps/api/geocode/json" google-key="AIzaSyB0Hw8rQaKG5wk_APSHZsLpx-41KZ6luW8">
+              
+            </span>
+                        <span class="btn-change-loc"></span>
+                    </p>
+                </div>
+                <div class="d-flex flex-column emi-pricing-col">
+                    <p class="main-amt"></p>
+                    <p class="small-label"><span class="emi">​</span><span></span></p>
+                </div>
+            </div>
+            <div class="select-state-emi-dropdown">
+                <div class="select-box-main">
+                    <select id="emi-select-field" price-value="​"></select>
+                </div>
+            </div>
+        </div>
+        
+    
+    
+
+                </div>
+            
+            	<div class="c-item">
+	              
+    
+        <div class="re-banner  mobi-banr-heading-only mobile-banner-txt-bottom-left banner-txt-bottom-center">
+            
+                <div class="banner-inner-img">
+                    <picture>
+                        <source class="mobiler" id="bannerMobileImg" srcset="/content/dam/royal-enfield/india/home/apparel/mobile/royal_enfield_x_alpinestar.jpg" media="(max-width: 767px)"/>
+
+                        <img class="bg-bg" id="bannerDesktopImg" srcset="/content/dam/royal-enfield/india/home/apparel/desktop/royal-enfield-x-alpinestar.jpg" alt="Royal Enfield X Alpinestar" title="Royal Enfield X Alpinestar"/>
+
+                    </picture>
+                    
+                </div>
+
+                <div class="banner-inner-txt   ">
+                    <div class="disp-tbl">
+                        <div class="disp-tbl-cel ">
+                            <div class="container-fluid">
+                                <div class="txt-box animation-element slide-none">
+                                    
+
+                                    
+
+                                    
+                                        
+                                    
+
+                                    
+                                        <p class="bannerDescription" style="color : ">
+                                            
+                                        </p>
+                                    
+
+                                    
+
+                                    <div class="banner-btn">
+                                        
+
+                                        
+                                            
+                                                <a title="Shop Now" class="bannerAnalyticsBtn custom-btn bor arrow-r clr-w bg-b   " href="https://store.royalenfield.com/royal-enfield-x-alpinestar" target="_blank" rel="nofollow">Shop Now</a>
+                                            
+                                            
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                    <a class="bannerAnalyticsBtn mobileBtnAna  image-text-overlay" href="https://store.royalenfield.com/royal-enfield-x-alpinestar"></a>
+                
+                
+
+
+            
+
+            
+        </div>
+        <div id="ipstack-url" style="display: none;"></div>
+        <div class="emi-pricing-box d-none">
+            <div class="justify-content-space-evenly emi-pricing-details">
+                <div class="d-flex flex-column emi-pricing-col">
+                    <p class="main-amt">
+                        ​
+                        <span class="price"></span>/-
+                    </p>
+                    <p class="small-label">
+            <span class="emi-state" google-api="https://maps.googleapis.com/maps/api/geocode/json" google-key="AIzaSyB0Hw8rQaKG5wk_APSHZsLpx-41KZ6luW8">
+              
+            </span>
+                        <span class="btn-change-loc"></span>
+                    </p>
+                </div>
+                <div class="d-flex flex-column emi-pricing-col">
+                    <p class="main-amt"></p>
+                    <p class="small-label"><span class="emi">​</span><span></span></p>
+                </div>
+            </div>
+            <div class="select-state-emi-dropdown">
+                <div class="select-box-main">
+                    <select id="emi-select-field" price-value="​"></select>
+                </div>
+            </div>
+        </div>
+        
+    
+    
+
+                </div>
+            
+            	<div class="c-item">
+	              
+    
+        <div class="re-banner  mobi-banr-heading-only mobile-banner-txt-bottom-left banner-txt-right">
+            
+                <div class="banner-inner-img">
+                    <picture>
+                        <source class="mobiler" id="bannerMobileImg" srcset="/content/dam/royal-enfield/india/motorcycles/scram/apparel/mobile/apparel.jpg" media="(max-width: 767px)"/>
+
+                        <img class="bg-bg" id="bannerDesktopImg" srcset="/content/dam/royal-enfield/india/motorcycles/scram/apparel/desktop/apparel.png" alt="Scram 411 Apparel" title="Scram 411 Apparel"/>
+
+                    </picture>
+                    
+                </div>
+
+                <div class="banner-inner-txt   ">
+                    <div class="disp-tbl">
+                        <div class="disp-tbl-cel ">
+                            <div class="container-fluid">
+                                <div class="txt-box animation-element slide-none">
+                                    
+
+                                    
+
+                                    
+                                        
+                                    
+
+                                    
+                                        <p class="bannerDescription" style="color : ">
+                                            Choose from the range of exclusive Scram 411 apparel from Royal Enfield Apparel for that perfect Scram look.
+                                        </p>
+                                    
+
+                                    
+
+                                    <div class="banner-btn">
+                                        
+
+                                        
+                                            
+                                                <a title="Know More" class="bannerAnalyticsBtn custom-btn bor arrow-r clr-w bg-b   " href="https://store.royalenfield.com/scram-collection">Know More</a>
+                                            
+                                            
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                    <a class="bannerAnalyticsBtn mobileBtnAna  image-text-overlay" href="https://store.royalenfield.com/scram-collection"></a>
+                
+                
+
+
+            
+
+            
+        </div>
+        <div id="ipstack-url" style="display: none;"></div>
+        <div class="emi-pricing-box d-none">
+            <div class="justify-content-space-evenly emi-pricing-details">
+                <div class="d-flex flex-column emi-pricing-col">
+                    <p class="main-amt">
+                        ​
+                        <span class="price"></span>/-
+                    </p>
+                    <p class="small-label">
+            <span class="emi-state" google-api="https://maps.googleapis.com/maps/api/geocode/json" google-key="AIzaSyB0Hw8rQaKG5wk_APSHZsLpx-41KZ6luW8">
+              
+            </span>
+                        <span class="btn-change-loc"></span>
+                    </p>
+                </div>
+                <div class="d-flex flex-column emi-pricing-col">
+                    <p class="main-amt"></p>
+                    <p class="small-label"><span class="emi">​</span><span></span></p>
+                </div>
+            </div>
+            <div class="select-state-emi-dropdown">
+                <div class="select-box-main">
+                    <select id="emi-select-field" price-value="​"></select>
+                </div>
+            </div>
+        </div>
+        
+    
+    
+
+                </div>
+            
+            	<div class="c-item">
+	              
+    
+        <div class="re-banner  mobi-banr-heading-only mobile-banner-txt-bottom-left banner-txt-bottom-left">
+            
+                <div class="banner-inner-img">
+                    <picture>
+                        <source class="mobiler" id="bannerMobileImg" srcset="/content/dam/royal-enfield/india/home/apparel/mobile/royal_enfield_tcx.png" media="(max-width: 767px)"/>
+
+                        <img class="bg-bg" id="bannerDesktopImg" srcset="/content/dam/royal-enfield/india/home/apparel/desktop/royal-enfield-tcx.jpg" alt="RE vs TCX" title="RE vs TCX"/>
+
+                    </picture>
+                    
+                </div>
+
+                <div class="banner-inner-txt   ">
+                    <div class="disp-tbl">
+                        <div class="disp-tbl-cel ">
+                            <div class="container-fluid">
+                                <div class="txt-box animation-element slide-none">
+                                    
+
+                                    
+
+                                    
+                                        
+                                    
+
+                                    
+                                        <p class="bannerDescription" style="color : ">
+                                            
+                                        </p>
+                                    
+
+                                    
+
+                                    <div class="banner-btn">
+                                        
+
+                                        
+                                            
+                                                <a title="Shop Now" class="bannerAnalyticsBtn custom-btn bor arrow-r clr-w bg-b   " href="https://store.royalenfield.com/collections/tcx-x-royal-enfield?utm_source=tcx+launch&utm_medium=re.com&utm_campaign=tcx_27thsep" target="_blank" rel="nofollow">Shop Now</a>
+                                            
+                                            
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                    <a class="bannerAnalyticsBtn mobileBtnAna  image-text-overlay" href="https://store.royalenfield.com/collections/tcx-x-royal-enfield?utm_source=tcx+launch&utm_medium=re.com&utm_campaign=tcx_27thsep"></a>
+                
+                
+
+
+            
+
+            
+        </div>
+        <div id="ipstack-url" style="display: none;"></div>
+        <div class="emi-pricing-box d-none">
+            <div class="justify-content-space-evenly emi-pricing-details">
+                <div class="d-flex flex-column emi-pricing-col">
+                    <p class="main-amt">
+                        ​
+                        <span class="price"></span>/-
+                    </p>
+                    <p class="small-label">
+            <span class="emi-state" google-api="https://maps.googleapis.com/maps/api/geocode/json" google-key="AIzaSyB0Hw8rQaKG5wk_APSHZsLpx-41KZ6luW8">
+              
+            </span>
+                        <span class="btn-change-loc"></span>
+                    </p>
+                </div>
+                <div class="d-flex flex-column emi-pricing-col">
+                    <p class="main-amt"></p>
+                    <p class="small-label"><span class="emi">​</span><span></span></p>
+                </div>
+            </div>
+            <div class="select-state-emi-dropdown">
+                <div class="select-box-main">
+                    <select id="emi-select-field" price-value="​"></select>
+                </div>
+            </div>
+        </div>
+        
+    
+    
+
+                </div>
+            
+            	<div class="c-item">
+	              
+    
+        <div class="re-banner  mobi-banr-heading-only mobile-banner-txt-bottom-left banner-txt-left">
+            
+                <div class="banner-inner-img">
+                    <picture>
+                        <source class="mobiler" id="bannerMobileImg" srcset="/content/dam/royal-enfield/india/home/banner/mobile/miy_riding_jacket.jpg" media="(max-width: 767px)"/>
+
+                        <img class="bg-bg" id="bannerDesktopImg" srcset="/content/dam/royal-enfield/india/home/banner/desktop/miy-riding-jacket.jpg" alt="MIY Riding Jacket" title="MIY Riding Jacket"/>
+
+                    </picture>
+                    
+                </div>
+
+                <div class="banner-inner-txt   ">
+                    <div class="disp-tbl">
+                        <div class="disp-tbl-cel ">
+                            <div class="container-fluid">
+                                <div class="txt-box animation-element slide-none">
+                                    
+
+                                    
+
+                                    
+                                        
+                                    
+
+                                    
+                                        <p class="bannerDescription" style="color : ">
+                                            
+                                        </p>
+                                    
+
+                                    
+
+                                    <div class="banner-btn">
+                                        
+
+                                        
+                                            
+                                                <a title="Shop Now" class="bannerAnalyticsBtn custom-btn bor arrow-r clr-w bg-b   " href="https://store.royalenfield.com/myo" target="_blank" rel="nofollow">Shop Now</a>
+                                            
+                                            
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                    <a class="bannerAnalyticsBtn mobileBtnAna  image-text-overlay" href="https://store.royalenfield.com/myo"></a>
+                
+                
+
+
+            
+
+            
+        </div>
+        <div id="ipstack-url" style="display: none;"></div>
+        <div class="emi-pricing-box d-none">
+            <div class="justify-content-space-evenly emi-pricing-details">
+                <div class="d-flex flex-column emi-pricing-col">
+                    <p class="main-amt">
+                        ​
+                        <span class="price"></span>/-
+                    </p>
+                    <p class="small-label">
+            <span class="emi-state" google-api="https://maps.googleapis.com/maps/api/geocode/json" google-key="AIzaSyB0Hw8rQaKG5wk_APSHZsLpx-41KZ6luW8">
+              
+            </span>
+                        <span class="btn-change-loc"></span>
+                    </p>
+                </div>
+                <div class="d-flex flex-column emi-pricing-col">
+                    <p class="main-amt"></p>
+                    <p class="small-label"><span class="emi">​</span><span></span></p>
+                </div>
+            </div>
+            <div class="select-state-emi-dropdown">
+                <div class="select-box-main">
+                    <select id="emi-select-field" price-value="​"></select>
+                </div>
+            </div>
+        </div>
+        
+    
+    
+
+                </div>
+            
+        </div>
+
+	</section>
+
+
+	
+	
+
+</div>
+        <div>
+
+
+
+
+</div>
+        <div>
+
+
+
+    
+
+
+
+
+
+	
+	
+	
+	    
+	    
+
+	<div class="follow-sticky-wrap">
+        <div id="secNavAccessrories-5114">
+            <section id="secondary-navigation-5064" data-id="5064" class="secondary-navigation follow-sticky-header  ">
+                <div class="container-fluid"> 
+                    <div class="fsh-left">
+                        <a title="Royal Enfield" class="fsh-re" href="/in/en/home/">
+                            <img title="Royal Enfield" src="/content/dam/royal-enfield/india/logos/logo.svg" alt="Royal Enfield"/>
+                        </a>
+                        <a title="Accessories" class="fsh-head rideDetail" id="secNavPrimaryText">Accessories</a>
+                    </div>
+                    <div class="fsh-right">
+                        <div class="carousel-thumb-sh">
+                            <div class="c-item">
+                                <a title="Genuine Motorcycle Accessories">Genuine Motorcycle Accessories</a>
+                            </div>      	
+                        
+                            <div class="c-item">
+                                <a title="Make It Yours">Make It Yours</a>
+                            </div>      	
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+	</div>
+
+	<section id="secondary-navigation-carousel-5064" data-id="5064" class="secondary-navigation-carousel">
+    	<div class="carousel-content-sh">
+        	
+            	<div class="c-item">
+	              
+    
+        <div class="re-banner mobile-ctas mobi-banr-heading-only mobile-banner-txt-bottom-center banner-txt-bottom-right">
+            
+                <div class="banner-inner-img">
+                    <picture>
+                        <source class="mobiler" id="bannerMobileImg" srcset="/content/dam/royal-enfield/hunter-350/home/gma/gma_home.jpg" media="(max-width: 767px)"/>
+
+                        <img class="bg-bg" id="bannerDesktopImg" srcset="/content/dam/royal-enfield/hunter-350/home/gma/gma-home.jpg" alt="Hunter 350 GMA" title="Hunter 350 GMA"/>
+
+                    </picture>
+                    
+                </div>
+
+                <div class="banner-inner-txt   ">
+                    <div class="disp-tbl">
+                        <div class="disp-tbl-cel ">
+                            <div class="container-fluid">
+                                <div class="txt-box animation-element slide-none">
+                                    
+
+                                    
+
+                                    
+                                        
+                                    
+
+                                    
+                                        <p class="bannerDescription" style="color : ">
+                                            
+                                        </p>
+                                    
+
+                                    
+
+                                    <div class="banner-btn">
+                                        
+
+                                        
+                                            
+                                                <a title="Know More" class="bannerAnalyticsBtn custom-btn bor arrow-r clr-w bg-b bg-white-mob  " href="/in/en/gma/">Know More</a>
+                                            
+                                            
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                    <a class="bannerAnalyticsBtn mobileBtnAna  image-text-overlay" href="/in/en/gma/"></a>
+                
+                
+
+
+            
+
+            
+        </div>
+        <div id="ipstack-url" style="display: none;"></div>
+        <div class="emi-pricing-box d-none">
+            <div class="justify-content-space-evenly emi-pricing-details">
+                <div class="d-flex flex-column emi-pricing-col">
+                    <p class="main-amt">
+                        ​
+                        <span class="price"></span>/-
+                    </p>
+                    <p class="small-label">
+            <span class="emi-state" google-api="https://maps.googleapis.com/maps/api/geocode/json" google-key="AIzaSyB0Hw8rQaKG5wk_APSHZsLpx-41KZ6luW8">
+              
+            </span>
+                        <span class="btn-change-loc"></span>
+                    </p>
+                </div>
+                <div class="d-flex flex-column emi-pricing-col">
+                    <p class="main-amt"></p>
+                    <p class="small-label"><span class="emi">​</span><span></span></p>
+                </div>
+            </div>
+            <div class="select-state-emi-dropdown">
+                <div class="select-box-main">
+                    <select id="emi-select-field" price-value="​"></select>
+                </div>
+            </div>
+        </div>
+        
+    
+    
+
+                </div>
+            
+            	<div class="c-item">
+	              
+    
+        <div class="re-banner  mobi-banr-heading-only mobile-banner-txt-bottom-left banner-txt-bottom-left">
+            
+                <div class="banner-inner-img">
+                    <picture>
+                        <source class="mobiler" id="bannerMobileImg" srcset="/content/dam/royal-enfield/india/home/accessories/mobile/himalayan_homepage_accessories_miy.png" media="(max-width: 767px)"/>
+
+                        <img class="bg-bg" id="bannerDesktopImg" srcset="/content/dam/royal-enfield/india/home/accessories/desktop/himalayan-homepage-accessories-miy.jpg" alt="Customized Himalayan Accessories" title="Customized Himalayan Accessories"/>
+
+                    </picture>
+                    
+                </div>
+
+                <div class="banner-inner-txt   ">
+                    <div class="disp-tbl">
+                        <div class="disp-tbl-cel ">
+                            <div class="container-fluid">
+                                <div class="txt-box animation-element slide-none">
+                                    
+
+                                    
+
+                                    
+                                        
+                                    
+
+                                    
+                                        <p class="bannerDescription" style="color : ">
+                                            
+                                        </p>
+                                    
+
+                                    
+
+                                    <div class="banner-btn">
+                                        
+
+                                        
+                                            
+                                                <a title="Know more" class="bannerAnalyticsBtn custom-btn bor arrow-r clr-w bg-b   " href="https://makeityours.royalenfield.com/configurator/Himalayan" target="_blank" rel="nofollow">Know more</a>
+                                            
+                                            
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                    <a class="bannerAnalyticsBtn mobileBtnAna  image-text-overlay" href="https://makeityours.royalenfield.com/configurator/Himalayan"></a>
+                
+                
+
+
+            
+
+            
+        </div>
+        <div id="ipstack-url" style="display: none;"></div>
+        <div class="emi-pricing-box d-none">
+            <div class="justify-content-space-evenly emi-pricing-details">
+                <div class="d-flex flex-column emi-pricing-col">
+                    <p class="main-amt">
+                        ​
+                        <span class="price"></span>/-
+                    </p>
+                    <p class="small-label">
+            <span class="emi-state" google-api="https://maps.googleapis.com/maps/api/geocode/json" google-key="AIzaSyB0Hw8rQaKG5wk_APSHZsLpx-41KZ6luW8">
+              
+            </span>
+                        <span class="btn-change-loc"></span>
+                    </p>
+                </div>
+                <div class="d-flex flex-column emi-pricing-col">
+                    <p class="main-amt"></p>
+                    <p class="small-label"><span class="emi">​</span><span></span></p>
+                </div>
+            </div>
+            <div class="select-state-emi-dropdown">
+                <div class="select-box-main">
+                    <select id="emi-select-field" price-value="​"></select>
+                </div>
+            </div>
+        </div>
+        
+    
+    
+
+                </div>
+            
+        </div>
+
+	</section>
+
+
+	
+	
+
+</div>
+        <div>
+
+
+
+
+</div>
+        <div>
+
+
+
+    
+
+
+
+
+
+	
+	
+	
+	    
+	    
+
+	<div class="follow-sticky-wrap">
+        <div id="secNavStores-5301">
+            <section id="secondary-navigation-3174" data-id="3174" class="secondary-navigation follow-sticky-header  ">
+                <div class="container-fluid"> 
+                    <div class="fsh-left">
+                        <a title="Royal Enfield" class="fsh-re" href="/in/en/home/">
+                            <img title="Royal Enfield" src="/content/dam/royal-enfield/india/logos/logo.svg" alt="Royal Enfield"/>
+                        </a>
+                        <a title="Locate Us" class="fsh-head rideDetail" id="secNavPrimaryText">Locate Us</a>
+                    </div>
+                    <div class="fsh-right">
+                        <div class="carousel-thumb-sh">
+                            <div class="c-item">
+                                <a title="Stores">Stores</a>
+                            </div>      	
+                        
+                            <div class="c-item">
+                                <a title="Service Centres">Service Centres</a>
+                            </div>      	
+                        
+                            <div class="c-item">
+                                <a title="Genuine Parts Distributors">Genuine Parts Distributors</a>
+                            </div>      	
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+	</div>
+
+	<section id="secondary-navigation-carousel-3174" data-id="3174" class="secondary-navigation-carousel">
+    	<div class="carousel-content-sh">
+        	
+            	<div class="c-item">
+	              
+    
+        <div class="re-banner  mobi-banr-heading-only mobile-banner-txt-bottom-left banner-txt-left">
+            
+                <div class="banner-inner-img">
+                    <picture>
+                        <source class="mobiler" id="bannerMobileImg" srcset="/content/dam/royal-enfield/india/home/locate-us/mobile/stores.jpg" media="(max-width: 767px)"/>
+
+                        <img class="bg-bg" id="bannerDesktopImg" srcset="/content/dam/royal-enfield/india/home/locate-us/desktop/stores.jpg" alt="Royal Enfield Bike Stores" title="Royal Enfield Bike Stores"/>
+
+                    </picture>
+                    
+                </div>
+
+                <div class="banner-inner-txt   ">
+                    <div class="disp-tbl">
+                        <div class="disp-tbl-cel ">
+                            <div class="container-fluid">
+                                <div class="txt-box animation-element slide-none">
+                                    
+
+                                    
+
+                                    
+                                        
+                                            <h2 style="color : " class="banner-main-heading ">
+                                                There is One Near You
+                                            </h2>
+                                        
+                                    
+
+                                    
+                                        <p class="bannerDescription" style="color : ">
+                                            
+                                        </p>
+                                    
+
+                                    
+
+                                    <div class="banner-btn">
+                                        
+
+                                        
+                                            
+                                                <a title="Find a Store" class="bannerAnalyticsBtn custom-btn bor arrow-r clr-w bg-b   " href="/in/en/locate-us/dealers/">Find a Store</a>
+                                            
+                                            
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                    <a class="bannerAnalyticsBtn mobileBtnAna  image-text-overlay" href="/in/en/locate-us/dealers/"></a>
+                
+                
+
+
+            
+
+            
+        </div>
+        <div id="ipstack-url" style="display: none;"></div>
+        <div class="emi-pricing-box d-none">
+            <div class="justify-content-space-evenly emi-pricing-details">
+                <div class="d-flex flex-column emi-pricing-col">
+                    <p class="main-amt">
+                        ​
+                        <span class="price"></span>/-
+                    </p>
+                    <p class="small-label">
+            <span class="emi-state" google-api="https://maps.googleapis.com/maps/api/geocode/json" google-key="AIzaSyB0Hw8rQaKG5wk_APSHZsLpx-41KZ6luW8">
+              
+            </span>
+                        <span class="btn-change-loc"></span>
+                    </p>
+                </div>
+                <div class="d-flex flex-column emi-pricing-col">
+                    <p class="main-amt"></p>
+                    <p class="small-label"><span class="emi">​</span><span></span></p>
+                </div>
+            </div>
+            <div class="select-state-emi-dropdown">
+                <div class="select-box-main">
+                    <select id="emi-select-field" price-value="​"></select>
+                </div>
+            </div>
+        </div>
+        
+    
+    
+
+                </div>
+            
+            	<div class="c-item">
+	              
+    
+        <div class="re-banner  mobi-banr-heading-only mobile-banner-txt-bottom-left banner-txt-left">
+            
+                <div class="banner-inner-img">
+                    <picture>
+                        <source class="mobiler" id="bannerMobileImg" srcset="/content/dam/royal-enfield/india/home/locate-us/mobile/service-centres.jpg" media="(max-width: 767px)"/>
+
+                        <img class="bg-bg" id="bannerDesktopImg" srcset="/content/dam/royal-enfield/india/home/locate-us/desktop/service-centres.jpg" alt="Royal Enfield Motorcycle Service Centres" title="Royal Enfield Motorcycle Service Centres"/>
+
+                    </picture>
+                    
+                </div>
+
+                <div class="banner-inner-txt   ">
+                    <div class="disp-tbl">
+                        <div class="disp-tbl-cel ">
+                            <div class="container-fluid">
+                                <div class="txt-box animation-element slide-none">
+                                    
+
+                                    
+
+                                    
+                                        
+                                            <h2 style="color : " class="banner-main-heading ">
+                                                For Everything That Your Motorcycle May Need
+                                            </h2>
+                                        
+                                    
+
+                                    
+                                        <p class="bannerDescription" style="color : ">
+                                            
+                                        </p>
+                                    
+
+                                    
+
+                                    <div class="banner-btn">
+                                        
+
+                                        
+                                            
+                                                <a title="Find a Service Centre" class="bannerAnalyticsBtn custom-btn bor arrow-r clr-w bg-b   " href="/in/en/locate-us/service-centres/">Find a Service Centre</a>
+                                            
+                                            
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                    <a class="bannerAnalyticsBtn mobileBtnAna  image-text-overlay" href="/in/en/locate-us/service-centres/"></a>
+                
+                
+
+
+            
+
+            
+        </div>
+        <div id="ipstack-url" style="display: none;"></div>
+        <div class="emi-pricing-box d-none">
+            <div class="justify-content-space-evenly emi-pricing-details">
+                <div class="d-flex flex-column emi-pricing-col">
+                    <p class="main-amt">
+                        ​
+                        <span class="price"></span>/-
+                    </p>
+                    <p class="small-label">
+            <span class="emi-state" google-api="https://maps.googleapis.com/maps/api/geocode/json" google-key="AIzaSyB0Hw8rQaKG5wk_APSHZsLpx-41KZ6luW8">
+              
+            </span>
+                        <span class="btn-change-loc"></span>
+                    </p>
+                </div>
+                <div class="d-flex flex-column emi-pricing-col">
+                    <p class="main-amt"></p>
+                    <p class="small-label"><span class="emi">​</span><span></span></p>
+                </div>
+            </div>
+            <div class="select-state-emi-dropdown">
+                <div class="select-box-main">
+                    <select id="emi-select-field" price-value="​"></select>
+                </div>
+            </div>
+        </div>
+        
+    
+    
+
+                </div>
+            
+            	<div class="c-item">
+	              
+    
+        <div class="re-banner  mobi-banr-heading-only mobile-banner-txt-bottom-left banner-txt-left">
+            
+                <div class="banner-inner-img">
+                    <picture>
+                        <source class="mobiler" id="bannerMobileImg" srcset="/content/dam/royal-enfield/india/home/locate-us/mobile/genuine-parts.jpg" media="(max-width: 767px)"/>
+
+                        <img class="bg-bg" id="bannerDesktopImg" srcset="/content/dam/royal-enfield/india/home/locate-us/desktop/genuine-parts.jpg" alt="Royal Enfield Genuine Motorcycle Parts Distributors" title="Royal Enfield Genuine Motorcycle Parts Distributors"/>
+
+                    </picture>
+                    
+                </div>
+
+                <div class="banner-inner-txt   ">
+                    <div class="disp-tbl">
+                        <div class="disp-tbl-cel ">
+                            <div class="container-fluid">
+                                <div class="txt-box animation-element slide-none">
+                                    
+
+                                    
+
+                                    
+                                        
+                                            <h2 style="color : " class="banner-main-heading ">
+                                                Keep it Real With Genuine Spare Parts
+                                            </h2>
+                                        
+                                    
+
+                                    
+                                        <p class="bannerDescription" style="color : ">
+                                            
+                                        </p>
+                                    
+
+                                    
+
+                                    <div class="banner-btn">
+                                        
+
+                                        
+                                            
+                                                <a title="Find a Distributor" class="bannerAnalyticsBtn custom-btn bor arrow-r clr-w bg-b   " href="/in/en/locate-us/genuine-parts-distributors/">Find a Distributor</a>
+                                            
+                                            
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                    <a class="bannerAnalyticsBtn mobileBtnAna  image-text-overlay" href="/in/en/locate-us/genuine-parts-distributors/"></a>
+                
+                
+
+
+            
+
+            
+        </div>
+        <div id="ipstack-url" style="display: none;"></div>
+        <div class="emi-pricing-box d-none">
+            <div class="justify-content-space-evenly emi-pricing-details">
+                <div class="d-flex flex-column emi-pricing-col">
+                    <p class="main-amt">
+                        ​
+                        <span class="price"></span>/-
+                    </p>
+                    <p class="small-label">
+            <span class="emi-state" google-api="https://maps.googleapis.com/maps/api/geocode/json" google-key="AIzaSyB0Hw8rQaKG5wk_APSHZsLpx-41KZ6luW8">
+              
+            </span>
+                        <span class="btn-change-loc"></span>
+                    </p>
+                </div>
+                <div class="d-flex flex-column emi-pricing-col">
+                    <p class="main-amt"></p>
+                    <p class="small-label"><span class="emi">​</span><span></span></p>
+                </div>
+            </div>
+            <div class="select-state-emi-dropdown">
+                <div class="select-box-main">
+                    <select id="emi-select-field" price-value="​"></select>
+                </div>
+            </div>
+        </div>
+        
+    
+    
+
+                </div>
+            
+        </div>
+
+	</section>
+
+
+	
+	
+
+</div>
+        <div>
+
+
+
+
+    
+    
+    <div class="carousel">
+
+
+
+
+    
+
+
+
+
+     
+    
+
+
+
+
+
+	
+		<section class="carousel slide " data-ride="carousel">
+	
+			
+	
+			
+	
+	    </section>
+	
+
+
+	
+    
+
+
+
+</div>
+
+
+    
+    
+    <div class="floatingButton">
+
+    
+    
+<link rel="stylesheet" href="/etc.clientlibs/re-platform/clientlibs/re-platform/components/common/floatingButton.min.62e95e6c861a5f34d59b1d036f4070b8.css" type="text/css">
+<script src="/etc.clientlibs/re-platform/clientlibs/re-platform/components/common/floatingButton.min.js"></script>
+
+
+
+    
+        
+            <section>
+                
+                
+                
+                
+
+                
+
+                
+                    <div class="btnwrap btn-dual" id="scrolled">
+                        <div class="row show-button">
+                            <div class="col-md-6 btn-left singleFloatBtn">
+                                <a title="Download Royal Enfield App" href="/in/en/app/" class="custom-btn d-block" target="_blank" rel="nofollow">
+                                    <span class="arrow-r">
+                                        Download Royal Enfield App
+                                    </span>
+                                </a>
+                            </div>
+                            <div class="col-md-6 btn-right singleFloatBtn">
+                                <a title="Configure Now" href="https://makeityours.royalenfield.com/configurator" class="custom-btn d-block" target="_blank" rel="nofollow">
+                                    <span class="arrow-r">
+                                        Configure Now
+                                    </span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                
+
+                
+
+
+            </section>
+        
+    
+</div>
+
+
+    
+    
+    <div class="multiTagSocialFeed">
+
+
+    
+    
+
+
+
+    
+    
+<link rel="stylesheet" href="/etc.clientlibs/re-platform/clientlibs/re-platform/components/common/multiTagSocialFeed.min.d1d06f9bcc61264fd2e2ce4cfef23539.css" type="text/css">
+<script src="/etc.clientlibs/re-platform/clientlibs/re-platform/components/common/multiTagSocialFeed.min.js"></script>
+
+
+
+
+    
+        <div class="text-white multi-social-feed-wrapper" social-feed-api="https://api.royalenfield.com/v3/core/social/new-feeds">
+            <h2 class="text-center multi-tag-heading-top">
+                <a title="Popular Tags" href="/in/en/explore-tags/">Popular Tags</a>
+            </h2>
+            <div class="multi-social-feed-slider" id="multiTagSocialFeedSilder" count="4">
+                <div class="multi-slider-wrapper">
+                    <div class="inner-multi-feed-slider" id="category1" data-category="VibeHunter"></div>
+                    <a title="VibeHunter" class="main-slider-hashtag-overlay" href="/in/en/explore-tags-preview?socialTag=VibeHunter">
+                        <div>
+                            <h2 class="main-slider-hashtag">#VibeHunter</h2>
+                        </div>
+                    </a>
+                </div>
+                <div class="multi-slider-wrapper">
+                    <div class="inner-multi-feed-slider" id="category2" data-category="Scram411"></div>
+                    <a title="Scram411" class="main-slider-hashtag-overlay" href="/in/en/explore-tags-preview?socialTag=Scram411">
+                        <div>
+                            <h2 class="main-slider-hashtag">#Scram411</h2>
+                        </div>
+                    </a>
+                </div>
+                <div class="multi-slider-wrapper">
+                    <div class="inner-multi-feed-slider" id="category3" data-category="Himalayanodyssey"></div>
+                    <a title="Himalayanodyssey" class="main-slider-hashtag-overlay" href="/in/en/explore-tags-preview?socialTag=Himalayanodyssey">
+                        <div>
+                            <h2 class="main-slider-hashtag">#Himalayanodyssey</h2>
+                        </div>
+                    </a>
+                </div>
+                <div class="multi-slider-wrapper">
+                    <div class="inner-multi-feed-slider" id="category4" data-category="Meteor"></div>
+                    <a title="Meteor" class="main-slider-hashtag-overlay" href="/in/en/explore-tags-preview?socialTag=Meteor">
+                        <div>
+                            <h2 class="main-slider-hashtag">#Meteor</h2>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <script id="socialFeedsTemplate" type="text/x-handlebars-template">
+            {{#each this}}
+            <div class="social-feed-item">
+                <a title="Anchor" href="{{this.SocialLinks}}" target="_blank" rel="nofollow">
+                    {{#if (feedsHelper this.SocialFeedImage)}}
+                    <img src="{{this.SocialFeedImage}}" alt="Image" title="Image Title">
+                    {{else}}
+                    <video loop autoplay muted>
+                        <source src="{{this.SocialFeedImage}}" type="video/webm">
+                        <source src="{{this.SocialFeedImage}}" type="video/mp4">
+                        <source src="{{this.SocialFeedImage}}" type="video/ogv">
+                    </video>
+                    {{/if}}
+                    <div class="social-tag-overlay">
+                        <p class="social-tag-main">@{{this.UserName}}</p>
+                        <span class="icon-ig"></span>
+                    </div>
+                </a>
+            </div>
+            {{/each}}
+        </script>
+    
+
+</div>
+
+
+    
+    
+    <div class="miyBikeNotification">
+
+
+    
+    
+<link rel="stylesheet" href="/etc.clientlibs/re-platform/clientlibs/re-platform/components/ga/miyBikeNotification.min.40137c1a76804fa525780ef4e68d1d47.css" type="text/css">
+<script src="/etc.clientlibs/re-platform/clientlibs/re-platform/components/ga/miyBikeNotification.min.js"></script>
+
+
+
+
+    <div class="miy-notif-wrapper-main">
+        <div class="miy-notif-overlay"></div>
+        <div class="miy-notification-wrapper" timer="2000">
+            <button type="button" class="close">
+                <span class="icon-close"></span>
+            </button>
+            <div class="miy-notif-card">
+                <h3 class="miy-notif-heading">Hi Welcome Back !</h3>
+                <p class="miy-notif-text">The last time you were here you configured a  <span class="miy-bike-name">Meteor 350</span>, would you like to continue with your customization?</p>
+                <div class="d-flex justify-content-between miy-notif-btns-wrapper">
+                    <a title="Retrieve Configuration" href="https://makeityours.royalenfield.com/saved-configurations" id="retrieve-config-btn" class="custom-btn clr-w bor bg-red">Retrieve Configuration</a>
+                    <a title="New Configuration" href="https://makeityours.royalenfield.com/select-city" id="new-config-btn" class="custom-btn clr-b bor bg-white">New Configuration</a>
+                </div>
+            </div>
+            <div class="miy-bike-overlay"></div>
+            <div class="miy-notif-bike-img">
+                <picture>
+                    <source media="(max-width:767px)" id="mobile-img" srcset="/content/dam/royal-enfield/india/motorcycles/meteor/colours/studio-shots/fireball-yellow/18-yellow.png"/>
+                    <img class="img-main" id="desktop-img" src="/content/dam/royal-enfield/india/motorcycles/meteor/colours/studio-shots/fireball-yellow/18-yellow.png"/>
+                </picture>
+            </div>
+        </div>
+    </div>
+
+
+</div>
+
+
+</div>
+    </div>
+</div>
+	
+    <div><div class="timerNotification section">
+
+    
+    
+<link rel="stylesheet" href="/etc.clientlibs/re-platform/clientlibs/re-platform/components/common/timerNotification.min.bb8b67528d412747e715bea67f246799.css" type="text/css">
+<script src="/etc.clientlibs/re-platform/clientlibs/re-platform/components/common/timerNotification.min.js"></script>
+
+
+
+
+    <div class="timer-popup-wrapper-main news-notification-slider">
+        <div class="timer-popup-overlay" data-italy-attr="false"></div>
+        <div class="timer-notification-wrapper bottom-left" timer="2000">
+            <button type="button" class="close">
+                <span class="icon-close"></span>
+            </button>
+            <div class="timer-main-wrapper">
+                
+                    <picture>
+                        <source media="(max-width:767px)" class="mobile-image-data" srcset="/content/dam/royal-enfield/india/our-world/news-and-media/news/product-reviews/the-meteor-is-a-symbol-of-finesse-and-sophistication/a-symbol-of-finesse-and-sophistication.jpg"/>
+                        <img title="Classic 350 Bike" class="popup-side-img" src="/content/dam/royal-enfield/india/our-world/news-and-media/news/product-reviews/the-meteor-is-a-symbol-of-finesse-and-sophistication/a_symbol_of-finesse-and-sophistication.jpg" alt="Classic 350 Bike"/>
+                    </picture>
+                
+                <div class="timer-content-wrapper">
+                    <a title="The Royal Enfield 650 Twin Motorcycles get new colourways with an array of Make-it-Yours (MIY) Options" class="timer-card" href="/content/royal-enfield/in/en/home" target="_blank" rel="nofollow">
+                        <div class="timer-content">
+                            <h4 class="timer-heading">The Royal Enfield 650 Twin Motorcycles get new colourways with an array of Make-it-Yours (MIY) Options</h4>
+                            <p class="timer-text"></p>
+                        </div>
+                    </a>
+                    <div class="know-more-btn-wrapper">
+                        <a title="Know More" id="timer-mobile-btn" href="/content/royal-enfield/in/en/home" target="_blank" rel="nofollow" class="custom-btn bor clr-b">Know More</a>
                     </div>
                 </div>
             </div>
         </div>
     </div>
+
 </div>
-<!--modal search end-->
-<!-- Start Video Modal -->
-<div class="modal fade" id="videoModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-lg modal-dialog-centered">
-        <div class="modal-video">
-            <button type="button" class="modal-close" data-dismiss="modal" aria-label="Close">
-				<svg viewBox="0 0 512 512" class="svg" aria-hidden="true">
-                    <use class="sv-icon" xlink:href="#svg-plus"></use>
-                </svg>
-			</button>
-            <div class="embed-responsive embed-responsive-16by9">
-                <iframe id="videoUrl" class="embed-responsive-item" src="" allowfullscreen></iframe>
+<div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="footer-par iparsys parsys"><div class="gaFeedbackForm section">
+
+
+
+
+    
+<link rel="stylesheet" href="/etc.clientlibs/re-platform/clientlibs/re-platform/components/forms/gaFeedbackForm.min.a3daeb5cb1b2cdedf70fc74ef4d4b2f3.css" type="text/css">
+<script src="/etc.clientlibs/re-platform/clientlibs/re-platform/components/forms/gaFeedbackForm.min.js"></script>
+
+
+
+         
+         
+          <section class="feedback-wrapper">
+              <div class="modal" id="feedbackModal" error-message="Error, Please try again after some time" validation1="Please select overall rating" validation2="Please select condition rating" validation3="Please select quality rating" data-json="[{&#34;text&#34;:&#34;Interceptor&#34;,&#34;motorcycleImagePath&#34;:&#34;/content/dam/royal-enfield/india/ga-feedback/interceptor/interceptor.png&#34;,&#34;secondLevel&#34;:[{&#34;productImagePath&#34;:&#34;/content/dam/royal-enfield/india/ga-feedback/interceptor/t-shirt.png&#34;,&#34;imageLink&#34;:&#34;https://store.royalenfield.com/ride-t-shirt-red&#34;},{&#34;productImagePath&#34;:&#34;/content/dam/royal-enfield/india/ga-feedback/interceptor/helmet.png&#34;,&#34;imageLink&#34;:&#34;https://store.royalenfield.com/urban%20rider%20bobber%20helmet-white&#34;},{&#34;productImagePath&#34;:&#34;/content/dam/royal-enfield/india/ga-feedback/interceptor/gloves.png&#34;,&#34;imageLink&#34;:&#34;https://store.royalenfield.com/urban-tourer-gloves-brown&#34;}]},{&#34;text&#34;:&#34;Himalayan&#34;,&#34;motorcycleImagePath&#34;:&#34;/content/dam/royal-enfield/india/ga-feedback/himalayan/himalayan.png&#34;,&#34;secondLevel&#34;:[{&#34;productImagePath&#34;:&#34;/content/dam/royal-enfield/india/ga-feedback/himalayan/t-shirt.png&#34;,&#34;imageLink&#34;:&#34;https://store.royalenfield.com/keep-riding-himalayan-tshirt-sky-blue&#34;},{&#34;productImagePath&#34;:&#34;/content/dam/royal-enfield/india/ga-feedback/himalayan/helmet.png&#34;,&#34;imageLink&#34;:&#34;https://store.royalenfield.com/escapade-helmet-gloss-white&#34;},{&#34;productImagePath&#34;:&#34;/content/dam/royal-enfield/india/ga-feedback/himalayan/jacket.png&#34;,&#34;imageLink&#34;:&#34;https://store.royalenfield.com/streetwind-v2-jacket-grey&#34;}]},{&#34;text&#34;:&#34;Classic&#34;,&#34;motorcycleImagePath&#34;:&#34;/content/dam/royal-enfield/india/ga-feedback/classic/classic.png&#34;,&#34;secondLevel&#34;:[{&#34;productImagePath&#34;:&#34;/content/dam/royal-enfield/india/ga-feedback/classic/t-shirt.png&#34;,&#34;imageLink&#34;:&#34;https://store.royalenfield.com/ride-t-shirt-red&#34;},{&#34;productImagePath&#34;:&#34;/content/dam/royal-enfield/india/ga-feedback/classic/helmet.png&#34;,&#34;imageLink&#34;:&#34;https://store.royalenfield.com/urban%20rider%20bobber%20helmet-white&#34;},{&#34;productImagePath&#34;:&#34;/content/dam/royal-enfield/india/ga-feedback/classic/gloves.png&#34;,&#34;imageLink&#34;:&#34;https://store.royalenfield.com/urban-tourer-gloves-brown&#34;}]},{&#34;text&#34;:&#34;Meteor&#34;,&#34;motorcycleImagePath&#34;:&#34;/content/dam/royal-enfield/india/ga-feedback/meteor/J1D3_Ventura_01 half-min.jpg&#34;,&#34;secondLevel&#34;:[{&#34;productImagePath&#34;:&#34;/content/dam/royal-enfield/india/ga-feedback/meteor/helmet.png&#34;,&#34;imageLink&#34;:&#34;https://store.royalenfield.com/of-old-boy-rj1-j1d-gl-ven-blue-xl-600mm-gloss-ventura-blue&#34;},{&#34;productImagePath&#34;:&#34;/content/dam/royal-enfield/india/ga-feedback/meteor/jacket.png&#34;,&#34;imageLink&#34;:&#34;https://store.royalenfield.com/explorer-v3-jacket-grey&#34;},{&#34;productImagePath&#34;:&#34;/content/dam/royal-enfield/india/ga-feedback/meteor/scale-model.png&#34;,&#34;imageLink&#34;:&#34;https://store.royalenfield.com/scale-model-meteor-350-stellar-red&#34;}]}]" form-api="https://api.royalenfield.com/v3/core/bikes/feedback-submit" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                <div class="modal-dialog modal-lg modal-dialog-centered">
+                  <div class="modal-content">
+                    <button type="button" class="close-feedback" data-dismiss="modal" aria-label="Close">
+                        <span class="icon-close"></span>
+                      </button>
+                    <div class="modal-body all-combined">
+                      <div class="form-motor">
+                        <div class="feedback">
+                          <div class="step-1">
+                              <h2>Welcome Back </h2>
+                              <p class="first-text">You had booked a test ride during your last visit. Hope you enjoyed the ride!</p>
+                            <div class="radio-btn">
+                                <h4>Were you able to take the test ride?</h4>
+                                <div class="custom-radio documents-custom documents-yes active" id="tookRide">
+                                    <input type="radio" class="radio with-font" name="testRide" value="true"/>
+                                    <label>
+                                        <span>Yes</span>
+                                    </label>
+                                </div>
+                                <div class="custom-radio documents-custom documents-no" id="noRide">
+                                    <input type="radio" class="radio with-font" name="testRide" value="false"/>
+                                    <label>
+                                        <span>No</span>
+                                    </label>
+                                </div>
+                                <div class="reason">
+                                    <textarea class="input-no-ride" type="text" validation="Please enter the reason" placeholder="Let us know the reason!"></textarea>
+                                </div>
+                            </div> 
+                                <a class="custom-btn bor arrow-r clr-w black-btn nextButton " href="javascript:void" tabindex="0">Next</a>
+                          </div>
+                          <div class="step-2 d-none">
+                              <h2>Do tell us your experience!</h2>
+                            <div class="info-list">
+                              <div class="options">
+                                  <span class="count one-count">1</span>
+                                <p>Not at all satisfied</p>
+                              </div>
+                              <div class="options">
+                                <span class="count">2</span>
+                                <p>Partly satisfied</p>
+                              </div>
+                              <div class="options">
+                                <span class="count">3</span>
+                                <p>Satisfied</p>
+                              </div>
+                              <div class="options">
+                                <span class="count">4</span>
+                                <p>More than satisfied</p>
+                              </div>
+                              <div class="options">
+                                <span class="count">5</span>
+                                <p>Very satisfied</p>
+                              </div>
+                            </div>
+                            <div class="survey-form">
+                             <div class="first-step">
+                                <h4>1. Please rate your overall test ride experience</h4>
+                                <div class="answers">
+                                  <button class="button1">1</button>
+                                  <button class="button1">2</button>
+                                  <button class="button1">3</button>
+                                  <button class="button1">4</button>
+                                  <button class="button1">5</button>
+                                </div>
+                              </div>
+
+                              <div class="second-step">
+                                <h4>2. Please rate the condition of the test ride motorcycle </h4>
+                                <div class="answers">
+                                  <button class="button2">1</button>
+                                  <button class="button2">2</button>
+                                  <button class="button2">3</button>
+                                  <button class="button2">4</button>
+                                  <button class="button2">5</button>
+                                </div>
+                              </div>
+                              <div class="third-step">
+                                <h4>3. Please rate the quality of ride experience</h4>
+                               <div class="answers">
+                                  <button class="button3">1</button>
+                                  <button class="button3">2</button>
+                                  <button class="button3">3</button>
+                                  <button class="button3">4</button>
+                                  <button class="button3">5</button>
+                                </div>
+                              </div>
+                              <h4 class="textarea-heading">Please tell us about your experience</h4>
+                              <textarea id="feedback" rows="1" cols="37" placeholder="Please share your experience"></textarea>
+                              <a class="custom-btn bor arrow-r clr-w black-btn submitButton" href="#" tabindex="0">Submit</a>
+                            </div>
+                          </div>
+                          <div class="step-3 d-none">
+                            <h2>Thank You for your feedback , We highly appreciate it! </h2>
+                            <h5> Do you wish to proceed and book your ride</h5>
+                            <a class="successbtrAnaGa custom-btn bor clr-w red-btn success" href="/in/en/motorcycles/motorcycle-booking" tabindex="0">Book Now</a>
+                          </div>
+                          <div class="step-no d-none">
+                            <h2>Sorry, we could not complete your request last time.</h2>
+                            <p>To experience the all new motorcycle ride please book the ride now </p>
+                            <a class="failBtrAnaGa custom-btn bor clr-w red-btn failure" href="/content/royal-enfield/in/en/forms/book-test-ride" tabindex="0">Book a Test Ride Now</a>
+                          </div>
+                        </div>
+                        <div class="motorcycle-view">
+                            <img src="/content/dam/royal-enfield/ga-feedback/Artboard.png" alt=""/>
+                        </div>
+                        <div class="grey-section">
+                            <h3>You might also like</h3>
+                            <div class="gafeedbackProducCraouselAna grey-section-slider">
+                              <!--  <sly data-sly-list = ",,," >
+                                <sly data-sly-list.sub = ""> 
+                                <div class="c-item">
+                                    <a href="" target="_blank">
+										<img src="" alt="" />
+									</a>
+								</div>
+                               </sly>
+                                </sly>  -->
+
+                            </div>
+                            <a class="custom-btn bor arrow-r clr-w grey-btn productLink " href="/in/en/gma" tabindex="0">View Complete range</a>
+                          </div>
+                      </div>
+
+                    </div>
+
+                  </div>
+                </div>
+              </div>
+          </section>
+           <div class="modal fade" id="feedModel" role="dialog" data-error="Error, Please try again after some time">
+            <div class="modal-dialog modal-sm modal-dialog-centered">
+                <!-- Modal content-->
+                <div class="modal-content" style="border: none;">
+                    <div class="alt-msg">
+                        <button type="button" class="close close-modal-button" data-dismiss="modal" style="margin:20px 20px 0px 0px;z-index: 1;position: relative;">&times;</button>
+                        <div class="modal-body" style="text-align: center;padding: 30px 10px;border:5px solid #c9c9c9;border-radius: 4px;">
+                            <p id="feedmessage" style="padding: 20px 0px;"></p>
+                            <button type="button" class="btn btn-default close-modal-button" data-dismiss="modal" style="margin: 0 auto;outline: none;background: #000;color: #FFF;font-size: 14px;">Ok</button>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
+         
     </div>
-</div>
-<!-- JSON schema -->
-<!-- JSON Schema -->
-<!-- End Video Modal -->
-<!-- JS START -->
-<script  type="text/javascript" src="/theme/v3/lib/js/jquery-3.5.1.min.js?v=2"></script>
-<script  type="text/javascript" src="/theme/v3/lib/js/jquery.cookie.min.js?v=2"></script>
-<script  type="text/javascript" src="/theme/v3/lib/js/popper.min.js?v=2"></script>
-<script  type="text/javascript" src="/theme/v3/lib/js/bootstrap.min.js?v=2"></script>
-<script  type="text/javascript" src="/theme/v3/lib/js/owl.carousel.min.js?v=2"></script>
-<script  type="text/javascript" src="/theme/v3/js/common.js?v=10"></script>
-<script  type="text/javascript" src="/theme/v3/lib/js/lazyloading/jquery.lazy.min.js?v=2"></script>
-<script  type="text/javascript" src="/theme/v3/lib/js/lazyloading/jquery.lazy.plugins.min.js?v=2"></script>
-<script defer src="/theme/v3/js/home.js?v=9"></script>
+<div class="secondaryFooter section">
 
- <!-- Bluequare JS -->
-<!-- Buyers Comparison JS -->
-<!-- Ygparts JS -->
-<!-- Service camp JS -->
-<!-- Service camp JS -->
-<!-- Service Labour JS -->
-<!-- Service Schedule JS -->
- <!-- dealer Network JS -->
-                <!-- Site Search Page JS -->
-<!--  Site Search Page JS -->
-<!-- Service Recall  JS -->
-<!-- Service Recall  JS -->
-<script async type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1808269254"></script>
-</body>
+
+    
+<link rel="stylesheet" href="/etc.clientlibs/re-platform/clientlibs/re-platform/components/common/footerSecondary.min.f7c2df1a73e721f8c4c5f2a43f091932.css" type="text/css">
+<script src="/etc.clientlibs/re-platform/clientlibs/re-platform/components/common/footerSecondary.min.js"></script>
+
+
+
+
+	
+       
+	
+	    <div id="secondaryfooter-3321" class="secondary-footer ">
+	        <div class="footer-secondary">
+	            <div class="container"> 
+	                <div class="row text-center">
+	
+	                    <div class="col-xl col-md-4 col-sm-6">
+	                        <div class="icon-wit-btn">
+	                            <div class="inner-box secondaryFooterAna">
+									<a title="Book a Test Ride" class="footerSublink" href="/in/en/forms/book-a-test-ride.html">
+	                                    
+	                                    
+	                                        <span class="icon-hand-point"></span>
+	                                    
+	                                    <h4 class="footersubText"><button class="custom-btn arrow-r">Book a Test Ride</button></h4>
+									</a>
+	                            </div>
+	                        </div>
+	                    </div>    
+	
+	                
+	
+	                    <div class="col-xl col-md-4 col-sm-6">
+	                        <div class="icon-wit-btn">
+	                            <div class="inner-box secondaryFooterAna">
+									<a title="Find a Store" class="footerSublink" href="/in/en/locate-us/dealers.html">
+	                                    
+	                                    
+	                                        <span class="icon-map-store-point"></span>
+	                                    
+	                                    <h4 class="footersubText"><button class="custom-btn arrow-r">Find a Store</button></h4>
+									</a>
+	                            </div>
+	                        </div>
+	                    </div>    
+	
+	                
+	
+	                    <div class="col-xl col-md-4 col-sm-6">
+	                        <div class="icon-wit-btn">
+	                            <div class="inner-box secondaryFooterAna">
+									<a title="Ride Out" class="footerSublink" href="/in/en/rides/ride-outs.html">
+	                                    
+	                                    
+	                                        <span class="icon-map-store-point"></span>
+	                                    
+	                                    <h4 class="footersubText"><button class="custom-btn arrow-r">Ride Out</button></h4>
+									</a>
+	                            </div>
+	                        </div>
+	                    </div>    
+	
+	                
+	
+	                    <div class="col-xl col-md-4 col-sm-6">
+	                        <div class="icon-wit-btn">
+	                            <div class="inner-box secondaryFooterAna">
+									<a title="Book a Service" class="footerSublink" href="https://www.royalenfield.com/in/en/service/get-motorcycle">
+	                                    
+	                                        <img src="/content/dam/royal-enfield/india/support/home/logos/book-a-service.svg"/>
+	                                    
+	                                    
+	                                    <h4 class="footersubText"><button class="custom-btn arrow-r">Book a Service</button></h4>
+									</a>
+	                            </div>
+	                        </div>
+	                    </div>    
+	
+	                </div> 
+	            </div>
+	        </div>
+	    </div>
+	
+	
+  
+</div>
+<div class="footer section">
+
+
+    
+<link rel="stylesheet" href="/etc.clientlibs/re-platform/clientlibs/re-platform/components/common/footer.min.efef24bd9ca84b0319fb7c78703b6895.css" type="text/css">
+<script src="/etc.clientlibs/re-platform/clientlibs/re-platform/components/common/footer.min.js"></script>
+
+
+
+
+	
+    
+	
+		<footer id="footer-218" class="footer ">
+	    	<div class="container-fluid">
+	        	<div class="row">
+	            	<div class="col-xl-6 col-md-6 col-sm-12">
+	                	<div>
+</div>
+	           		</div>
+	                <div class="col-xl-6 col-md-6 col-sm-12 text-right">
+	               		<div>
+
+
+    
+<link rel="stylesheet" href="/etc.clientlibs/re-platform/clientlibs/re-platform/components/common/socialLinks.min.6f8926c5b9a54de8777fc017116d8096.css" type="text/css">
+<script src="/etc.clientlibs/re-platform/clientlibs/re-platform/components/common/socialLinks.min.js"></script>
+
+
+
+ 
+	<div id="socialLinks-6693" class="social-links">
+	    <p class="socialLinkMainHeading">Join the conversation</p>
+	    <ul>
+	        <li>
+	   			<a title="facebook-icon" class="socialLinkAna" href="https://www.facebook.com/royalenfield" target="_blank" rel="nofollow">
+	       			<span class="icon-fb"></span>
+	            </a>
+	        </li>
+	        <li>
+	            <a title="twitter-icon" class="socialLinkAna" href="https://twitter.com/royalenfield" target="_blank" rel="nofollow">
+	               <span class="icon-tw"></span>
+	            </a>
+	        </li>
+	        <li>
+	           <a title="youtube-icon" class="socialLinkAna" href="https://www.youtube.com/channel/UCyxUUHqmz9IiAnrROJc0mag" target="_blank" rel="nofollow">
+	               <span class="icon-yt"></span>
+	           </a>
+	        </li>
+	        <li>
+	           <a title="instagram-icon" class="socialLinkAna" href="https://www.instagram.com/royalenfield" target="_blank" rel="nofollow">
+	              <span class="icon-ig"></span>
+	           </a>
+	        </li>
+	    </ul>
+	</div>
+
+</div>
+	                </div>
+	            </div>
+	            <div class="row"> 
+	            	<div class="col-xl col-md-3 col-sm-12">
+						<div>
+
+
+    
+<link rel="stylesheet" href="/etc.clientlibs/re-platform/clientlibs/re-platform/components/common/listOfLinks.min.b354af5867b6ab81fb11c9f6c77261c2.css" type="text/css">
+<script src="/etc.clientlibs/re-platform/clientlibs/re-platform/components/common/listOfLinks.min.js"></script>
+
+
+
+   
+    
+
+      <div id="listOfLinks1-8320" class="list-of-links ">
+         <h3>
+            <span class="icon-arrow-down"></span> Motorcycles
+         </h3>
+         <ul class="nav-list">
+            <li class="listOflinksAna ">
+               <a title="Hunter 350" href="/in/en/motorcycles/hunter-350.html">
+               Hunter 350<span></span>
+               </a>
+               
+            </li>
+         
+            <li class="listOflinksAna ">
+               <a title="Scram 411" href="/in/en/motorcycles/scram411.html">
+               Scram 411<span></span>
+               </a>
+               
+            </li>
+         
+            <li class="listOflinksAna ">
+               <a title="Classic 350" href="/in/en/motorcycles/classic-350.html">
+               Classic 350<span></span>
+               </a>
+               
+            </li>
+         
+            <li class="listOflinksAna ">
+               <a title="Meteor" href="/in/en/motorcycles/meteor.html">
+               Meteor<span></span>
+               </a>
+               
+            </li>
+         
+            <li class="listOflinksAna ">
+               <a title="Interceptor 650" href="/in/en/motorcycles/interceptor.html">
+               Interceptor 650<span></span>
+               </a>
+               
+            </li>
+         
+            <li class="listOflinksAna ">
+               <a title="Continental GT" href="/in/en/motorcycles/continental-gt.html">
+               Continental GT<span></span>
+               </a>
+               
+            </li>
+         
+            <li class="listOflinksAna ">
+               <a title="Himalayan" href="/in/en/motorcycles/himalayan.html">
+               Himalayan<span></span>
+               </a>
+               
+            </li>
+         
+            <li class="listOflinksAna nav-list-children">
+               <a title="Bullet">
+               Bullet<span class="icon-arrow-down"></span>
+               </a>
+               <ul>
+                  
+                     <li class="listofSubLinksAna">
+                        <a title="Bullet 350" href="/in/en/motorcycles/bullet-models/bullet-350.html">Bullet 350</a>
+                     </li>
+                  
+                     <li class="listofSubLinksAna">
+                        <a title="Bullet ES" href="/in/en/motorcycles/bullet-models/bullet-es.html">Bullet ES</a>
+                     </li>
+                  
+               </ul>
+            </li>
+         </ul>
+      </div>
+      
+   
+   
+</div>
+	                </div>
+	             
+	            	<div class="col-xl col-md-3 col-sm-12">
+						<div>
+
+
+    
+
+
+
+   
+    
+
+      <div id="listOfLinks2-1939" class="list-of-links ">
+         <h3>
+            <span class="icon-arrow-down"></span> Rides &amp; Events
+         </h3>
+         <ul class="nav-list">
+            <li class="listOflinksAna ">
+               <a title="Rides" href="/in/en/rides/marquee-rides.html">
+               Rides<span></span>
+               </a>
+               
+            </li>
+         
+            <li class="listOflinksAna ">
+               <a title="Events" href="/in/en/rides/events.html">
+               Events<span></span>
+               </a>
+               
+            </li>
+         
+            <li class="listOflinksAna ">
+               <a title="Ride Out" href="/in/en/rides/ride-outs.html">
+               Ride Out<span></span>
+               </a>
+               
+            </li>
+         </ul>
+      </div>
+      
+   
+   
+</div>
+	                </div>
+	             
+	            	<div class="col-xl col-md-3 col-sm-12">
+						<div>
+
+
+    
+
+
+
+   
+    
+
+      <div id="listOfLinks3-8161" class="list-of-links ">
+         <h3>
+            <span class="icon-arrow-down"></span> Support
+         </h3>
+         <ul class="nav-list">
+            <li class="listOflinksAna ">
+               <a title="Service Centres" href="/in/en/locate-us/service-centres.html">
+               Service Centres<span></span>
+               </a>
+               
+            </li>
+         
+            <li class="listOflinksAna ">
+               <a title="Stores" href="/in/en/locate-us/dealers.html">
+               Stores<span></span>
+               </a>
+               
+            </li>
+         
+            <li class="listOflinksAna ">
+               <a title="Owner&#39;s Manual" href="/in/en/support/owners-manual.html">
+               Owner&#39;s Manual<span></span>
+               </a>
+               
+            </li>
+         
+            <li class="listOflinksAna ">
+               <a title="Contact Us" href="/in/en/support/contact-us.html">
+               Contact Us<span></span>
+               </a>
+               
+            </li>
+         
+            <li class="listOflinksAna ">
+               <a title="Book a Test Ride" href="/in/en/forms/book-a-test-ride.html">
+               Book a Test Ride<span></span>
+               </a>
+               
+            </li>
+         
+            <li class="listOflinksAna ">
+               <a title="Make It Yours" href="https://makeityours.royalenfield.com/configurator">
+               Make It Yours<span></span>
+               </a>
+               
+            </li>
+         
+            <li class="listOflinksAna ">
+               <a title="Become a Dealer" href="/in/en/forms/become-a-dealer.html">
+               Become a Dealer<span></span>
+               </a>
+               
+            </li>
+         
+            <li class="listOflinksAna ">
+               <a title="Become a Genuine Parts Distributor" href="/in/en/support/genuine-part-distributor.html">
+               Become a Genuine Parts Distributor<span></span>
+               </a>
+               
+            </li>
+         </ul>
+      </div>
+      
+   
+   
+</div>
+	                </div>
+	             
+	            	<div class="col-xl col-md-3 col-sm-12">
+						<div>
+
+
+    
+
+
+
+   
+    
+
+      <div id="listOfLinks4-2853" class="list-of-links ">
+         <h3>
+            <span class="icon-arrow-down"></span> About Us
+         </h3>
+         <ul class="nav-list">
+            <li class="listOflinksAna ">
+               <a title="Since 1901" href="/in/en/our-world/since-1901.html">
+               Since 1901<span></span>
+               </a>
+               
+            </li>
+         
+            <li class="listOflinksAna ">
+               <a title="About Eicher Motors" href="https://www.eicher.in/" target="_blank" rel="nofollow">
+               About Eicher Motors<span></span>
+               </a>
+               
+            </li>
+         </ul>
+      </div>
+      
+   
+   
+</div>
+	                </div>
+	             
+	            	<div class="col-xl col-md-3 col-sm-12">
+						<div>
+
+
+    
+
+
+
+   
+    
+
+      <div id="listOfLinks5-2223" class="list-of-links ">
+         <h3>
+            <span class="icon-arrow-down"></span> News &amp; Media
+         </h3>
+         <ul class="nav-list">
+            <li class="listOflinksAna ">
+               <a title="News" href="/in/en/our-world/media/news.html">
+               News<span></span>
+               </a>
+               
+            </li>
+         
+            <li class="listOflinksAna ">
+               <a title="Press Releases" href="/in/en/our-world/media/press-releases.html">
+               Press Releases<span></span>
+               </a>
+               
+            </li>
+         
+            <li class="listOflinksAna ">
+               <a title="Media Kit" href="/in/en/our-world/media/mediakit.html">
+               Media Kit<span></span>
+               </a>
+               
+            </li>
+         
+            <li class="listOflinksAna ">
+               <a title="Events" href="/in/en/our-world/media/events.html">
+               Events<span></span>
+               </a>
+               
+            </li>
+         </ul>
+      </div>
+      
+   
+   
+</div>
+	                </div>
+	             
+	            	<div class="col-xl col-md-3 col-sm-12">
+						<div>
+
+
+    
+
+
+
+   
+    
+
+      <div id="listOfLinks6-6080" class="list-of-links ">
+         <h3>
+            <span class="icon-arrow-down"></span> Careers
+         </h3>
+         <ul class="nav-list">
+            <li class="listOflinksAna ">
+               <a title="Life at Royal Enfield" href="https://careers.royalenfield.com/us/en/home">
+               Life at Royal Enfield<span></span>
+               </a>
+               
+            </li>
+         
+            <li class="listOflinksAna ">
+               <a>
+               <span></span>
+               </a>
+               
+            </li>
+         </ul>
+      </div>
+      
+   
+   
+</div>
+	                </div>
+	             
+	            	<div class="col-xl col-md-3 col-sm-12">
+						<div>
+
+
+    
+
+
+
+   
+    
+
+      <div id="listOfLinks7-4430" class="list-of-links ">
+         <h3>
+            <span class="icon-arrow-down"></span> Our World
+         </h3>
+         <ul class="nav-list">
+            <li class="listOflinksAna ">
+               <a title="Royal Enfield App" href="/in/en/app.html">
+               Royal Enfield App<span></span>
+               </a>
+               
+            </li>
+         
+            <li class="listOflinksAna ">
+               <a title="Custom World" href="/in/en/customworld.html">
+               Custom World<span></span>
+               </a>
+               
+            </li>
+         
+            <li class="listOflinksAna ">
+               <a title="News and Media" href="/in/en/our-world/media.html">
+               News and Media<span></span>
+               </a>
+               
+            </li>
+         
+            <li class="listOflinksAna ">
+               <a title="Since 1901" href="/in/en/our-world/since-1901.html">
+               Since 1901<span></span>
+               </a>
+               
+            </li>
+         
+            <li class="listOflinksAna ">
+               <a title="Wallpapers" href="/in/en/our-world/wallpaper.html">
+               Wallpapers<span></span>
+               </a>
+               
+            </li>
+         
+            <li class="listOflinksAna ">
+               <a title="Forum" href="/in/en/our-world/forum.html">
+               Forum<span></span>
+               </a>
+               
+            </li>
+         
+            <li class="listOflinksAna ">
+               <a title="Trip Stories" href="/in/en/our-world/trip-stories.html">
+               Trip Stories<span></span>
+               </a>
+               
+            </li>
+         </ul>
+      </div>
+      
+   
+   
+</div>
+	                </div>
+	            </div>
+	            <div class="row">
+	            	<div class="col-md-4">
+	                	<div class="copyright">
+	                    	<p>© 2022. Royal Enfield. | *T&amp;C apply. Images shown here may differ from the actual product.</p>
+				            
+	                    </div>
+	                </div>
+	                <div class="col-md-8 ft-rh text-right"> 
+	                	<ul id="footerAnalytics" class="extra-links">
+	                  		<li>
+	                        	<a title="Private Import Policy" href="/in/en/legal/private-import-policy.html">Private Import Policy</a>
+	                        </li>
+	                    
+	                  		<li>
+	                        	<a title="Privacy" href="/in/en/legal/privacy-policy.html">Privacy</a>
+	                        </li>
+	                    
+	                  		<li>
+	                        	<a title="Terms &amp; Conditions" href="/in/en/legal/terms-and-conditions.html">Terms &amp; Conditions</a>
+	                        </li>
+	                    
+	                  		<li>
+	                        	<a title="Cookies" href="/in/en/legal/cookie-policy.html">Cookies</a>
+	                        </li>
+	                    
+	                  		<li>
+	                        	<a title="Sitemap" href="/in/en/sitemap.html">Sitemap</a>
+	                        </li>
+	                    </ul>
+             			
+	                </div>
+	            </div>
+	        </div> 
+	    </footer>
+	
+	
+  
+</div>
+<div class="stickyLinks section">
+</div>
+<div class="notification section">
+ 
+    
+    
+<link rel="stylesheet" href="/etc.clientlibs/re-platform/clientlibs/re-platform/components/meteorLaunch/notification.min.f21833b16da59f073fef7d7eaf876546.css" type="text/css">
+<script src="/etc.clientlibs/re-platform/clientlibs/re-platform/components/meteorLaunch/notification.min.js"></script>
+
+
+
+ 
+     <div class="notification-popup" id="ga-notification-popup" style="display: none;">
+         <a id="ga-notifcation-btn" href="" target="">
+             <img src="" alt="royal enfield"/>
+ 
+         </a>
+         <span class="icon-close pop-close" id="close-popup"></span>
+     </div>
+ 
+ </div>
+<div class="storeAccessories section">
+
+
+    
+    
+<link rel="stylesheet" href="/etc.clientlibs/re-platform/clientlibs/re-platform/components/ga/storeAccessories.min.63f89dd98a4f2c480dd5481ef0d47781.css" type="text/css">
+<script src="/etc.clientlibs/re-platform/clientlibs/re-platform/components/ga/storeAccessories.min.js"></script>
+
+
+
+    
+
+
+        <!-- Modal -->
+        <div class="modal fade ga-store-acc-modal booked-bike-modal" id="ga-popup" tabindex="-1" role="dialog" aria-labelledby="ga-popup-modal" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+                <div class="modal-content">
+                    <div class="modal-body">
+                        <button type="button" class="close optimizeClose" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                        <div class="ga-popup-lh">
+                            <div class="popup-lh-top">
+                                <h2 heading-txt="Welcome Back" id="username"></h2>
+                                <p class="welcome-txt">We are delighted to have you back!</p>
+                                <a title="Book My" id="btrCtaAna" href="/in/en/motorcycles/meteor-product.html" target="_blank" rel="nofollow" class="custom-btn clr-w bor btn-red" cta-text="Book My">Book My</a>
+                                <p class="rh-text accessories-txt">Get the complete look inspired by the <span id="bikeName" brand-name="Royal Enfield"></span>
+                            </div>
+                            <div class="ga-popup-bottom" id="bikeImage" data-ImgData="[{&#34;imgTitle&#34;:&#34;&#34;,&#34;imagePath&#34;:&#34;/content/dam/royal-enfield/india/google-optimise-experiments/meteor/meteor-motorcycle.png&#34;,&#34;altText&#34;:&#34;Meteor&#34;,&#34;mobileImagePath&#34;:&#34;/content/dam/royal-enfield/india/google-optimise-experiments/meteor/meteor_motorcycle.png&#34;}]">
+                                <picture>
+                                    <source media="(max-width:767px)" srcset="/content/dam/royal-enfield/india/google-optimise-experiments/meteor/meteor_motorcycle.png"/>
+                                    <img src="/content/dam/royal-enfield/india/google-optimise-experiments/meteor/meteor-motorcycle.png" alt="Meteor" title="Meteor"/>
+                                </picture>
+                            </div>
+                        </div>
+                        <div class="ga-popup-rh">
+                            <p class="rh-text accessories-txt">Get the complete look inspired by the <span id="bikeName" brand-name="Royal Enfield"></span>
+                            </p>
+                            <div class="ga-acc-list">
+                                <p id="storeheading">Store</p>
+                                <div class="ga-acc-list-slider ga-acc-list-slider-1" id="storeList">
+
+                                </div>
+                            </div>
+                            <div class="ga-acc-list">
+                                <p id="accesoriesheading">Genuine Motorcycle Accessories</p>
+                                <div class="ga-acc-list-slider ga-acc-list-slider-2" id="gmaTags">
+
+                                </div>
+                            </div>
+                            <p class="rh-text checkout-txt">
+                                Exciting Offers available on select merchandise!
+                                <a title="Checkout Now" id="clickHereAna" class="custom-btn clr-b bor" href="https://store.royalenfield.com/end-of-season-sale" target="_blank" rel="nofollow">Checkout Now</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script id="storeListTags" type="text/x-handlebars-template">
+            {{#each this}}
+    <div class="ga-acc-item">
+    <a title="" href="{{purchaseLink}}" target="_blank" rel="nofollow">
+        <picture>
+          <source media="(max-width:767px)" srcset="{{mobileImage}}">
+          <img src="{{desktopImage}}" alt="{{imageName}}" title="">
+        </picture>
+    </a>
+</div>
+{{/each}}
+</script>
+        <script id="gmaListTags" type="text/x-handlebars-template">
+            {{#each this}}
+        <div class="ga-acc-item">
+            <a title="" href="{{purchaseLink}}" target="_blank" rel="nofollow">
+                <picture>
+                  <source media="(max-width:767px)" srcset="{{mobileImage}}">
+                  <img src="{{desktopImage}}" alt="{{imageName}}" title="">
+                </picture>
+            </a>
+        </div>
+{{/each}}
+</script>
+    
+</div>
+<div class="meteorStorePopup section">
+
+
+    
+    
+<link rel="stylesheet" href="/etc.clientlibs/re-platform/clientlibs/re-platform/components/ga/meteorStorePopup.min.c53456e153d027a390c8f67e59f398da.css" type="text/css">
+<script src="/etc.clientlibs/re-platform/clientlibs/re-platform/components/ga/meteorStorePopup.min.js"></script>
+
+
+
+
+                
+
+    
+
+
+
+        <!-- Modal -->
+        <div class="modal fade meteor-store-modal" id="meteor-store-popup" tabindex="-1" role="dialog" aria-labelledby="meteor-store-popup-modal" aria-hidden="true">
+          <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+              <div class="modal-content">
+                  <div class="modal-body">
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                          <span aria-hidden="true" class="icon-close"></span>
+                      </button>
+                      <div class="meteor-popup-lh">
+                          <div class="meteor-popup-lh-top">
+                              <h2 id="username">Welcome Back,<span id="meteorUserName">Riddhi!</span></h2>
+                              <p class="welcome-txt">We are delighted to have you back!</p>
+                              <a title="Book Test Ride" href="/in/en/forms/book-test-ride" id="meteroPopUpBtr" class="custom-btn clr-w bor btn-red">Book Test Ride</a>
+                          </div>
+                          <div class="meteor-popup-bottom" id="meteorPopupbikeImage">
+                              <picture>
+                                  <source media="(max-width:767px)" srcset="/content/dam/royal-enfield/india/google-optimise-experiments/meteor/meteor_motorcycle.png"/>
+                                  <img src="/content/dam/royal-enfield/india/google-optimise-experiments/meteor/meteor-motorcycle.png" alt="Meteor" title="Meteor"/>
+                              </picture>
+                          </div>
+                      </div>
+                      <div class="position-relative meteor-popup-rh">
+                      		<div class="meteor-popup-rh-one" id="meteorPopUp1">
+								<div class="store-logo">
+									<img src="/content/dam/royal-enfield/india/meteor-popup/meteor-logo.png"/>
+								</div>
+                                    <div class="cards-grid" id="meteorPopupItteratedData">
+                                    <script id="bikeImageListMeteorPopUp" type="text/x-handlebars-template">
+                                        {{#each this}}
+									<div class="card-comp white txt-overlay-v-center store-card">
+                                    	<picture>
+                                            <source media="(max-width:767px)" srcset="{{this.mobileImagePath}}">
+                                                <img class="store-card-image" src="{{this.desktopImagePath}}" alt="{{this.imageAltText}}" title="{{this.imageAltText}}">
+										</picture>
+                                        <div class="card-comp-txt">
+                                            <a title="{{this.buttonText}}" href="{{this.landingPage}}" target="_blank" rel="nofollow" class="custom-btn bor clr-w metorStoreCardBtnText">{{this.buttonText}}</a>
+										</div>
+									</div>
+                                    {{/each}}
+                                </script>
+							    </div>
+                            <div class="text-center">
+
+                                <a title="Exciting offers available on selected merchandise!" id="exploreCtafirst" target="_blank" rel="nofollow" class="custom-btn bor clr-b bg-w">Explore Now</a>
+								<p class="d-block text-white pt-2 p-md-0 mob-txt">Exciting offers available on selected merchandise!</p>
+                            </div>
+                      </div>
+
+                      <div class="meteor-store-popup-two d-none" id="meteorPopUp2">
+                        <div class="d-block d-md-none store-logo">
+                            <img src="/content/dam/royal-enfield/india/meteor-popup/meteor-logo.png"/>
+                        </div>
+                        <div class="img-overlay-wrapper" id="meteorunder999">
+                            <picture>
+                                <source media="(max-width:767px)" srcset="/content/dam/royal-enfield/india/apparel/collections/gloves.jpg"/>
+                                <img class="meteor-popup-rh-bg" src="/content/dam/royal-enfield/india/apparel/collections/gloves.jpg" alt="accessories-image" title="accessories-image"/>
+                            </picture>
+                            <div class="meteor-popup-rh-overlay">
+                                <div class="d-none d-md-block store-logo">
+                                    <img src="/content/dam/royal-enfield/india/meteor-popup/meteor-logo.png"/>
+                                </div>
+                                <p class="text-white overlay-heading">ESSENTIALS UNDER<span class="price-span" id="meteorOfferedAmount">INR 999</span></p>
+                                <a title="Explore Now" id="exploreCtaStore" class="custom-btn bor clr-b bg-w">Explore Now</a>
+                            </div>
+                        </div>
+                        <div class="text-center">
+                            <p class="d-block d-md-none text-white pt-2 p-md-0 mob-txt">Exciting offers available on selected merchandise!</p>
+                        </div>
+                    </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+      
+
+</div>
+<div class="stickySocialShare section">
+
+
+    
+<link rel="stylesheet" href="/etc.clientlibs/re-platform/clientlibs/re-platform/components/common/stickySocialShare.min.25e90ca73a991a6365fe3f816f713c4b.css" type="text/css">
+<script src="/etc.clientlibs/re-platform/clientlibs/re-platform/components/common/stickySocialShare.min.js"></script>
+
+
+
+
+       
+
+<div id="stickysocialshare-9081">
+
+	<!--social quick links [START]-->
+	<div class="social-sticky-links-box ">
+	    <div class="social-sticky-links-btn">
+			<a title="share" class="custom-btn"><span class="icon-share"><img title="share" src="/content/dam/royal-enfield/india/social-share/share-social.png" alt="share"/></span></a>
+	    </div>
+	    <div class="social-sticky-links"> 
+	        <ul>
+				<li class="share-for-mobile"><a class="share-section"><span>Share</span></a></li>
+	            <li class="twitter-wrapper"><a title="twitter-icon" class="tw-section" href="javascript:void(0)"><span class="icon-tw"></span></a></li>
+	            <li class="whatsapp-wrapper"><a title="whatsapp-icon" class="gplus-section" href="javascript:void(0)">
+                	<span class="">
+						<img title="whatsapp" class="normal-state" src="/content/dam/royal-enfield/india/social-share/black-whatsapp.png" alt="whatsapp"/>
+						<img title="whatsapp" class="hover-state" src="/content/dam/royal-enfield/india/social-share/white-whatsapp.png" alt="whatsapp"/>
+                    </span>
+                </a></li>
+	            <li><a class="fb-section" href="javascript:void(0)">
+					<span class="">
+						<img title="fb" class="normal-state" src="/content/dam/royal-enfield/india/social-share/facebook.png" alt="fb"/>
+						<img title="fb" class="hover-state" src="/content/dam/royal-enfield/india/social-share/facebook-white.png" alt="fb"/>
+					</span>
+				</a></li>
+			</ul>
+	    </div>
+	</div>
+	<!--social quick links [END]-->	
+
+</div>
+</div>
+</div>
+</div>
+</div> 
+    
+
+	
+
+	
+
+	
+	</body>
+     
 </html>
